@@ -15,7 +15,7 @@ compare_etag() {
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
 
         # Update the Etag value in the JSON file
-        if ! sed -i "s|\"$url\":\s*\"[^\"]*\"|\"$url\": \"$new_etag\"|" Etag.json; then
+        if ! update_etag "$url" "$new_etag"; then
             printf "Failed to update Etag value in Etag.json\n"
             return 1
         fi
@@ -34,11 +34,27 @@ compare_etag() {
             return 1
         fi
 
+        # Calculate SHA-1 hash
+        sha1=$(calculate_sha1 "$file_path")
+
         # Append to README.md
-        printf "%s | %s\n\n" "$file_path" "$new_etag" >> Etag.json
+        printf "%s | %s\n\n" "$file_path" "$sha1" >> README.md
     else
         printf "No update available for %s\n" "$url"
     fi
+}
+
+# Function to update Etag value in the JSON file
+update_etag() {
+    local url=$1
+    local new_etag=$2
+    local tmp_file="Etag.json.tmp"
+
+    # Create a temporary file with updated Etag value
+    awk -v url="$url" -v new_etag="$new_etag" 'BEGIN {FS=OFS="\""} $2==url {$4=new_etag} 1' Etag.json > "$tmp_file"
+
+    # Replace the original file with the temporary file
+    mv "$tmp_file" Etag.json
 }
 
 # List of URLs to download
@@ -189,6 +205,12 @@ echo "" >> README.md
 echo "GOG Config Files and SHA1 Hashes:" >> README.md
 echo "" >> README.md
 
+# List of URLs to download
+urls=(
+    "https://cfg.gog.com/desktop-galaxy-client/config.json"
+    # ... (remaining URLs)
+)
+
 # Iterate through the URLs
 for url in "${urls[@]}"; do
     etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
@@ -200,7 +222,6 @@ for file in $(git ls-files); do
     # Check if the file is not in the excluded list
     if ! [[ " ${excluded_files[@]} " =~ " $file " ]]; then
         sha1=$(calculate_sha1 "$file")
-        echo "$file | $sha1_hash" >> README.md
-        echo "" >> README.md  # Add a newline character after each entry
+        printf "%s | %s\n\n" "$file" "$sha1" >> README.md
     fi
 done
