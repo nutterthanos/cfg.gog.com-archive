@@ -246,8 +246,6 @@ desktop-galaxy-updater/6/preview/files-osx.json | cfa16ccbf2178d0cbb788f66880418
 
 desktop-galaxy-updater/7/preview/files-osx.json | 03106ede9b0d87c50a97b665cd4d54eed74b4b05
 
-Etag_temp.json | 99ea750fdb54871d4b692c6ca1115a77602e75ff
-
 desktop-galaxy-client/2/master/files-osx.json | 0ce489aaf3d0c0f0e6a31891e591a2721b5a52a4
 
 desktop-galaxy-client/2/master/files-windows.json | b2c3bf7591b040037d20ee42ceec2a24acd1f3f5
