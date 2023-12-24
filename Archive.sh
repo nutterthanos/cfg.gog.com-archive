@@ -43,9 +43,6 @@ compare_etag() {
 
         # Append to README.md
         printf "%s | %s\n\n" "$file_path" "$sha1" >> README.md
-    else
-        echo "No update available for $url"
-    fi
 }
 
 # List of URLs to download
