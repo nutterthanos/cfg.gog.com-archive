@@ -7,36 +7,40 @@ calculate_sha1() {
     echo "$sha1_hash"
 }
 
-# Function to compare Etag values
+# Function to compare Etag values using jq
 compare_etag() {
     local url=$1
     local etag=$2
-    local stored_etag=$(grep -Po "\"$url\":\s*\"\K[^\"]+" Etag.json)
 
-    if [[ "$etag" != "$stored_etag" ]]; then
+    # Check if the URL exists in Etag.json
+    if jq --arg url "$url" 'has($url)' Etag.json > /dev/null 2>&1; then
+        # URL exists, update the Etag value
         echo "Downloading $url..."
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
 
         # Update the Etag value in the JSON file
-        if ! jq --arg url "$url" --arg new_etag "$new_etag" '.[$url] = $new_etag' > Etag.json; then
-            echo "Failed to update Etag value in Etag.json"
-            return 1
-        fi
+        jq --arg url "$url" --arg new_etag "$new_etag" '.[$url] = $new_etag' Etag.json > Etag_temp.json && mv Etag_temp.json Etag.json
         printf "Etag updated in Etag.json to: %s\n" "$new_etag"
-
-        # Extract the file path from the URL
-        file_path=$(echo "$url" | sed 's|https://cfg.gog.com/||')
-
-        # Create directories if they don't exist
-        mkdir -p "$(dirname "$file_path")"
-
-        # Download the file
-        if ! curl -s -o "$file_path" -O "$url"; then
-            printf "Failed to download %s\n" "$url"
-            return 1
-        fi
     else
-        echo "No update available for $url"
+        # URL doesn't exist, add a new entry
+        echo "Downloading $url..."
+        new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
+
+        # Add a new entry to the JSON file
+        jq --arg url "$url" --arg new_etag "$new_etag" '.[$url] = $new_etag' Etag.json > Etag_temp.json && mv Etag_temp.json Etag.json
+        printf "New URL and Etag added to Etag.json: %s | %s\n" "$url" "$new_etag"
+    fi
+
+    # Extract the file path from the URL
+    file_path=$(echo "$url" | sed 's|https://cfg.gog.com/||')
+
+    # Create directories if they don't exist
+    mkdir -p "$(dirname "$file_path")"
+
+    # Download the file
+    if ! curl -s -o "$file_path" -O "$url"; then
+        printf "Failed to download %s\n" "$url"
+        return 1
     fi
 
     # Calculate SHA-1 hash
