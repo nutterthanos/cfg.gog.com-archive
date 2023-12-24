@@ -1,26 +1,20 @@
 #!/bin/bash
 
-# Function to compare Etag values and update storage
+# Function to compare Etag values
 compare_etag() {
     local url=$1
     local etag=$2
     local stored_etag=$(grep -Po "\"$url\":\s*\"\K[^\"]+" Etag.json)
 
-    printf "Comparing Etag for %s:\n" "$url"
-    printf "Current Etag: %s\n" "$etag"
-    printf "Stored Etag: %s\n" "$stored_etag"
-
     if [[ "$etag" != "$stored_etag" ]]; then
-        printf "Downloading %s...\n" "$url"
+        echo "Downloading $url..."
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
 
         # Update the Etag value in the JSON file
         if ! sed -i "s|\"$url\":\s*\"[^\"]*\"|\"$url\": \"$new_etag\"|" Etag.json; then
-            printf "Failed to update Etag value in Etag.json\n"
+            echo "Failed to update Etag value in Etag.json"
             return 1
         fi
-
-        printf "Etag updated in Etag.json to: %s\n" "$new_etag"
 
         # Extract the file path from the URL
         file_path=$(echo "$url" | sed 's|https://cfg.gog.com/||')
@@ -30,14 +24,11 @@ compare_etag() {
 
         # Download the file
         if ! curl -s -o "$file_path" "$url"; then
-            printf "Failed to download %s\n" "$url"
+            echo "Failed to download $url"
             return 1
         fi
-
-        # Append to README.md
-        printf "%s | %s\n\n" "$file_path" "$new_etag" >> README.md
     else
-        printf "No update available for %s\n" "$url"
+        echo "No update available for $url"
     fi
 }
 
