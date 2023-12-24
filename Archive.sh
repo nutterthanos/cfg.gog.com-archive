@@ -1,25 +1,20 @@
 #!/bin/bash
 
-# Function to compare Etag values and update storage
+# Function to compare Etag values
 compare_etag() {
     local url=$1
     local etag=$2
     local stored_etag=$(grep -Po "\"$url\":\s*\"\K[^\"]+" Etag.json)
 
-    printf "Comparing Etag for %s:\n" "$url"
-    printf "Current Etag: %s\n" "$etag"
-    printf "Stored Etag: %s\n" "$stored_etag"
-
     if [[ "$etag" != "$stored_etag" ]]; then
-        printf "Downloading %s...\n" "$url"
+        echo "Downloading $url..."
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
 
         # Update the Etag value in the JSON file
-        if ! update_etag "$url" "$new_etag"; then
-            printf "Failed to update Etag value in Etag.json\n"
+        if ! sed -i "s|\"$url\":\s*\"[^\"]*\"|\"$url\": \"$new_etag\"|" Etag.json; then
+            echo "Failed to update Etag value in Etag.json"
             return 1
         fi
-
         printf "Etag updated in Etag.json to: %s\n" "$new_etag"
 
         # Extract the file path from the URL
@@ -208,7 +203,7 @@ urls=(
 
 # Iterate through the URLs
 for url in "${urls[@]}"; do
-    etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
+    etag=$(curl -sI "$url" | grep -i "Etag" | awk -F'"' '{print $2}')
     compare_etag "$url" "$etag"
 done
 
