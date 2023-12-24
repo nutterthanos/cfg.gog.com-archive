@@ -44,17 +44,18 @@ compare_etag() {
     fi
 }
 
-# Function to update Etag value in the JSON file
+# Function to update Etag value in the JSON file using awk
 update_etag() {
     local url=$1
     local new_etag=$2
-    local tmp_file="Etag.json.tmp"
 
-    # Create a temporary file with updated Etag value
-    awk -v url="$url" -v new_etag="$new_etag" 'BEGIN {FS=OFS="\""} $2==url {$4=new_etag} 1' Etag.json > "$tmp_file"
-
-    # Replace the original file with the temporary file
-    mv "$tmp_file" Etag.json
+    awk -i inplace -v url="$url" -v new_etag="$new_etag" '{
+        if ($1 == "\""url"\":") {
+            print $1, "\""new_etag"\""
+        } else {
+            print $0
+        }
+    }' Etag.json
 }
 
 # Function to calculate SHA-1 hash of a file in the latest commit
