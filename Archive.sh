@@ -18,7 +18,7 @@ compare_etag() {
         new_etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
 
         # Update the Etag value in the JSON file
-        if ! sed -i "s|\"$url\":\s*\"[^\"]*\"|\"$url\": \"$2\"|" Etag.json; then
+        if ! jq --arg url "$url" --arg new_etag "$new_etag" '.[$url] = $new_etag' Etag.json > Etag_temp.json && mv Etag_temp.json Etag.json; then
             echo "Failed to update Etag value in Etag.json"
             return 1
         fi
