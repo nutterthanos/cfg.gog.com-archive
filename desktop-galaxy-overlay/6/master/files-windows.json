@@ -1,0 +1,776 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "exists": true,
+            "hash": "52f3fc9f9b84e341e57c4bf337b35b9f",
+            "path": "overlay/cef.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/cef.pak.zip",
+            "sha256": "42b4cd144d1a6e395f9314ddf963ea65ca957a0a813d71b5f6e07ae40513c613",
+            "size": 2148514,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "277a53a3922d71cc99626ab835cc8677",
+            "path": "overlay/cef_100_percent.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/cef_100_percent.pak.zip",
+            "sha256": "dae17c53566d83e24b8dbeb4329ff9a11999b05d30c2fc1d8d6a585535f6d3f8",
+            "size": 253503,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "1822748dcb06d101954426fe75a62eb3",
+            "path": "overlay/cef_200_percent.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/cef_200_percent.pak.zip",
+            "sha256": "faded3d34e58c4dd61557f1f4c14c2dc83685a2259fdfa641f5d09eef5bbfbd5",
+            "size": 379122,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "597e878419411cc2ce35029b9c44cb72",
+            "path": "overlay/cef_extensions.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/cef_extensions.pak.zip",
+            "sha256": "eb3bfc21fa8561afbb5ce1298797b6b832b02d2b09dff878725a035e19b31da3",
+            "size": 1028010,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "821fd7899a0f60359236c3772e2a896f",
+            "path": "overlay/chrome_elf.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/chrome_elf.dll.zip",
+            "sha256": "11d94a0879880a0c033b20c809d037c9701c12ed09ba4e19f61e04bc9d7af8a3",
+            "size": 332742,
+            "unsignedHash": "4f04d95553a89b171ab56a485f9d4d50"
+        },
+        {
+            "exists": true,
+            "hash": "f76b1d2cd95385b21e61874761ddb53a",
+            "path": "overlay/d3dcompiler_47.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/d3dcompiler_47.dll.zip",
+            "sha256": "8bf0eeb5081d8397e2f84f69449c8a80d9c0cdcf82bcef7a484309046adcb081",
+            "size": 1594412,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8e6d9957e708d940ddda1a8f83c42c69",
+            "path": "overlay/GalaxyOverlay.exe",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/GalaxyOverlay.exe.zip",
+            "sha256": "622c6d4a16dc72899c2c0a3504dd2bbe64d4da52eb4295f15eaad3df34e56d87",
+            "size": 1630974,
+            "unsignedHash": "70c1c4ee11d1bc90348aa1fa9e3dae5f"
+        },
+        {
+            "exists": true,
+            "hash": "9705ff0fa594bb28520963db19f5471f",
+            "path": "overlay/icudtl.dat",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/icudtl.dat.zip",
+            "sha256": "66f13a0329f46e2d26fb483cb497dbdf7bb6b84d85c2e7c5bc8ea096a8bb8b1a",
+            "size": 4516896,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "648313275569437cbd2f2b1c0d2d1d14",
+            "path": "overlay/injected/galaxy_overlay_vklayer_Win32.json",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/injected/galaxy_overlay_vklayer_Win32.json.zip",
+            "sha256": "2166c2e3e04f46d4db5ba1b9544507fcbb8c78efde10670e5f71fe5bcd9015f6",
+            "size": 534,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "a84fb82cd4a8421875f8dc422c7ccb8c",
+            "path": "overlay/injected/galaxy_overlay_vklayer_x64.json",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/injected/galaxy_overlay_vklayer_x64.json.zip",
+            "sha256": "50551d1cbeb70903b0aca9f4ac64b3c735fafd5ab1712ee5973164f5ce9eb701",
+            "size": 503,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "eceffdd2d6583abd365f25cc74cbc0a7",
+            "path": "overlay/injected/overlay_injector_Win32_Release.exe",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_injector_Win32_Release.exe.zip",
+            "sha256": "970e22a7dedcd1e03cdfa72637ed62eb9496fe14cff8ca0bbb06ddda1770b992",
+            "size": 21314,
+            "unsignedHash": "01e96811851ad39e2a94015da1ec2a95"
+        },
+        {
+            "exists": true,
+            "hash": "75ce7fbe0fcb6eaa7aad74551b39de8e",
+            "path": "overlay/injected/overlay_injector_Win32_ReleaseWithLogging.exe",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_injector_Win32_ReleaseWithLogging.exe.zip",
+            "sha256": "7452dc3a7c2ff0c6e9274e0d9b7c44ccd21d63d0795df36c9ab59aa2c2c8d34a",
+            "size": 21609,
+            "unsignedHash": "a625bf3351679d2ef134f8fb3610e86a"
+        },
+        {
+            "exists": true,
+            "hash": "4c324d61d11c3aab8d4f4b8b7487c2b8",
+            "path": "overlay/injected/overlay_injector_x64_Release.exe",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_injector_x64_Release.exe.zip",
+            "sha256": "6da808542cbe5dae79898c637fb9a5f3279e629f9f34ede6b645cbb68c35d13a",
+            "size": 23903,
+            "unsignedHash": "5a9c936d082af24e6508a68ff92078f9"
+        },
+        {
+            "exists": true,
+            "hash": "19438fce05aa50ec055418a606726c21",
+            "path": "overlay/injected/overlay_injector_x64_ReleaseWithLogging.exe",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_injector_x64_ReleaseWithLogging.exe.zip",
+            "sha256": "3283561d398a9ee933ed98ae0c06c8cb0ac9728e5c774f17fe3eee7060d1ab83",
+            "size": 24122,
+            "unsignedHash": "d3ee06dd3e173526cc6ded9fdadb451e"
+        },
+        {
+            "exists": true,
+            "hash": "de7ec7e878c3299a2548262830c93a5e",
+            "path": "overlay/injected/overlay_mediator_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_mediator_Win32_Release.dll.zip",
+            "sha256": "9984a52829a13130780099874919642541a3736b6b387eb80574ec59119efb8d",
+            "size": 75378,
+            "unsignedHash": "8ebc52ccea88c650a6f8b828f5c53aa5"
+        },
+        {
+            "exists": true,
+            "hash": "81fc23e0bab06d94bd1b4b2d05424f02",
+            "path": "overlay/injected/overlay_mediator_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_mediator_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "18777a9e5ebb65fe2b493be075b7ff8e3acd7d2985d76163597db449cceff225",
+            "size": 76665,
+            "unsignedHash": "435848a07619a39ec8f5a360a8f0152b"
+        },
+        {
+            "exists": true,
+            "hash": "c404440101b08db6aa9c2cef04b1820a",
+            "path": "overlay/injected/overlay_mediator_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_mediator_x64_Release.dll.zip",
+            "sha256": "91cc0719efe76cc15a8d68bc6d6832676fcf6c319128cac5c0cf26c95ff06e53",
+            "size": 86693,
+            "unsignedHash": "24507119433863ed14759763cd16498b"
+        },
+        {
+            "exists": true,
+            "hash": "7b1965e85293ec3b5b2149ae1d50e02c",
+            "path": "overlay/injected/overlay_mediator_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/overlay_mediator_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "b25572aaa97d96a6829aa5c4770b4a882503da5818ebe53b97caf901f228f368",
+            "size": 88223,
+            "unsignedHash": "12b52cc2658eb876c291cde5d9dc7bea"
+        },
+        {
+            "exists": true,
+            "hash": "a95d9abf4e394f2611339bffb60e46fb",
+            "path": "overlay/injected/proxydinput_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydinput_Win32_Release.dll.zip",
+            "sha256": "080c99df7e8c4a34909bcad14b6f443dbdb68b73c4fa6002fe08c0b79bb35970",
+            "size": 21271,
+            "unsignedHash": "e371431dc1bc39421ebbcebe165a2136"
+        },
+        {
+            "exists": true,
+            "hash": "7b5e0834ac91b86e7bd6560f45c0523d",
+            "path": "overlay/injected/proxydinput_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydinput_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "ae5dba864dcc86369252d2dbdcea55cc241502626845d9cfd16676823723054f",
+            "size": 21565,
+            "unsignedHash": "334eb7971813162bb6bb1338515cd657"
+        },
+        {
+            "exists": true,
+            "hash": "01da5abe4083dfb2e1c9eeb9a0f80b5e",
+            "path": "overlay/injected/proxydinput_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydinput_x64_Release.dll.zip",
+            "sha256": "cf21681330c28e18c3edb78586c313307dda41c1e68dfc7de288bd8916e55ca3",
+            "size": 23867,
+            "unsignedHash": "a60a73052f010753260727237a9c52c8"
+        },
+        {
+            "exists": true,
+            "hash": "0e7d7702b454958ecb39824e5c3a213a",
+            "path": "overlay/injected/proxydinput_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydinput_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "b98827d02bf6e72980841190c0d41c890bfc63b61ced6eb6dab1b6562f89fed6",
+            "size": 24146,
+            "unsignedHash": "c8381cfea105e3ce901c487f6edfa3bc"
+        },
+        {
+            "exists": true,
+            "hash": "75182cf7301793da3ee4ec3e86eb5dd2",
+            "path": "overlay/injected/proxydx10_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx10_Win32_Release.dll.zip",
+            "sha256": "58ec7dedecfe872203dfe94629e210a1012de692c485bf45b225c66bfb37849a",
+            "size": 26188,
+            "unsignedHash": "a6ff74550e89efc365252a398d8026de"
+        },
+        {
+            "exists": true,
+            "hash": "6e0c6346081cc4fc6569ffc6f489e224",
+            "path": "overlay/injected/proxydx10_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx10_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "0c7e86cae71be0f38b782637506c44ed442c210a74e96f54dfbd2b64c7fedd84",
+            "size": 26398,
+            "unsignedHash": "342b9a0cc11c050f4d4a281aec8fea1c"
+        },
+        {
+            "exists": true,
+            "hash": "257f3d7efab540364620ab8da93e4529",
+            "path": "overlay/injected/proxydx10_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx10_x64_Release.dll.zip",
+            "sha256": "55d3dc4333d5e023b001b18d4da81e81a3753f0ad25a29ab7137377b079b6bc2",
+            "size": 28256,
+            "unsignedHash": "ad953e926a0a6604f66774e57aa01c64"
+        },
+        {
+            "exists": true,
+            "hash": "6883aa441c2ffbe7100dc19e01f48c98",
+            "path": "overlay/injected/proxydx10_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx10_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "28a8f9443e9d82182e91dfacf786df86bfc61494500f4918f34a1715898538b6",
+            "size": 28559,
+            "unsignedHash": "35ae8be47a918508d8e8d72934b29497"
+        },
+        {
+            "exists": true,
+            "hash": "9639a97a305f9ecfdd87b27e9581f8d3",
+            "path": "overlay/injected/proxydx11_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx11_Win32_Release.dll.zip",
+            "sha256": "d6d140765dc8aac16a949b3a7eb6379e74bc58fcb2c92990986cbc6c8e5f6a4e",
+            "size": 27820,
+            "unsignedHash": "7c0cfdf44feb47b6fcb7419fe2f91a4b"
+        },
+        {
+            "exists": true,
+            "hash": "aca86edb2af80019789418ec1f1e2bd5",
+            "path": "overlay/injected/proxydx11_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx11_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "52d2b9000bba5ef15d77380e034f5f0136df718fc29dd7ec163f88c846f39081",
+            "size": 28149,
+            "unsignedHash": "6eb3724732e432dcb6ae6672ff15b957"
+        },
+        {
+            "exists": true,
+            "hash": "e43377144ca06b2bd54564010c74e5b3",
+            "path": "overlay/injected/proxydx11_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx11_x64_Release.dll.zip",
+            "sha256": "171c43f146764de282d0007274a81ab4bba2d1155ea1cae33ebff79126a42a65",
+            "size": 29803,
+            "unsignedHash": "4591c78b1b2ce7fd9dc21510513dbaa0"
+        },
+        {
+            "exists": true,
+            "hash": "a34bc5eaee44efef359c668a840365ba",
+            "path": "overlay/injected/proxydx11_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx11_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "8f77dde6a4b4162063fb8c999486a317dc84740b377e75ed2f17a4e9807d8970",
+            "size": 30155,
+            "unsignedHash": "84e5388f13c21c1a69d5329538cb7348"
+        },
+        {
+            "exists": true,
+            "hash": "30816f0946c09157b5d495256066fb76",
+            "path": "overlay/injected/proxydx12_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx12_Win32_Release.dll.zip",
+            "sha256": "2de4adca0cb700ffeab4a79e77849684341e82b78db353396df2fe971ac352bd",
+            "size": 30785,
+            "unsignedHash": "385b3fa131b0a11aaecd86f4ef129315"
+        },
+        {
+            "exists": true,
+            "hash": "cf81e10b2f16bf507a5b963c63889d25",
+            "path": "overlay/injected/proxydx12_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx12_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "7a5ee4265c738cea071e4505aa83dc465c86cdb5e95b938b8b2fd986fb3281ec",
+            "size": 31181,
+            "unsignedHash": "e51515b5200356fa1f2f74ef3dd6d24e"
+        },
+        {
+            "exists": true,
+            "hash": "08a8b6d4b3256ebb7a565d5cb7c58000",
+            "path": "overlay/injected/proxydx12_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx12_x64_Release.dll.zip",
+            "sha256": "94d87ce2b388efe8400e3e81d5d5b7cbc76a042dc773a23bfc1e6c9b9451f196",
+            "size": 32902,
+            "unsignedHash": "db908a5b3a239c1c427fd87f5c255248"
+        },
+        {
+            "exists": true,
+            "hash": "4d171b9cbf11f814b31345ea180e7d95",
+            "path": "overlay/injected/proxydx12_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx12_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "c59d77574b4535cb2ee5ed624e84f1943cd18d39a580cbc518871c1ab0f467d7",
+            "size": 33317,
+            "unsignedHash": "193cc61050192422e3fff1a10950b09b"
+        },
+        {
+            "exists": true,
+            "hash": "3faca93db70b361082ec9a4de5a95efd",
+            "path": "overlay/injected/proxydx8_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx8_Win32_Release.dll.zip",
+            "sha256": "5c0d65b17cd10ebb8f089127fbe112afdc0aef9969e56cb869cefef8b4c015e7",
+            "size": 25113,
+            "unsignedHash": "f7c6b030970f0b3169bca6bd2e0c6691"
+        },
+        {
+            "exists": true,
+            "hash": "af3072799a4e78e93168389f40226193",
+            "path": "overlay/injected/proxydx8_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx8_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "79e562ec8ca16b5bea67dd259bbd4d82693ce25e543e82a99e9a508718fe3cc0",
+            "size": 25368,
+            "unsignedHash": "b7778a1a228065ab658f52987e672120"
+        },
+        {
+            "exists": true,
+            "hash": "721316da7eaccb8908091f8d12886b19",
+            "path": "overlay/injected/proxydx8_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx8_x64_Release.dll.zip",
+            "sha256": "bb66c2dc8c7a8c4739f924f28912b303707b14adb472b0d97773939c5ce9f648",
+            "size": 28314,
+            "unsignedHash": "b66f58ab7b3fc7ab8f180ed121c00996"
+        },
+        {
+            "exists": true,
+            "hash": "86caff14c6e9a84ec64ddb5ad30e8725",
+            "path": "overlay/injected/proxydx8_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx8_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "4292ef7fe753a7da6a2be338055fda1c2157c7fcfa4eeab6d93b06c30af189e7",
+            "size": 28648,
+            "unsignedHash": "7d6fd814f79141d95b810d0fa4ed185a"
+        },
+        {
+            "exists": true,
+            "hash": "750e23f401656d2c1c380f1955553e03",
+            "path": "overlay/injected/proxydx9_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx9_Win32_Release.dll.zip",
+            "sha256": "c6fb438ce58efe744e27d34269a754f05cfa71ee4532f131dc71b58a495b9a02",
+            "size": 26179,
+            "unsignedHash": "b02ec2ec594485b775962683d02c561a"
+        },
+        {
+            "exists": true,
+            "hash": "aae10fc497329b73c791371cfbc90d22",
+            "path": "overlay/injected/proxydx9_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx9_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "c1163cebd4b792b21300de75e1ca9d71699b2a9feed3622210bad606788345b0",
+            "size": 26499,
+            "unsignedHash": "4fdb74e7778273540061c4a309eaafe3"
+        },
+        {
+            "exists": true,
+            "hash": "48b150ff74c4c4b1dfcb19b34c4e3d9a",
+            "path": "overlay/injected/proxydx9_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx9_x64_Release.dll.zip",
+            "sha256": "bb5c183d7b39713e902a8606a2b1a75c5b095546b6f1ec0989d20a91528a8179",
+            "size": 28990,
+            "unsignedHash": "eaef2e3e4fe2559f69766928c3040047"
+        },
+        {
+            "exists": true,
+            "hash": "856904e734fc9d176ef514cf628fef07",
+            "path": "overlay/injected/proxydx9_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxydx9_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "6f2444e566d09585f4753720db66d956a9ad354a7962977477897c7518c61c45",
+            "size": 29278,
+            "unsignedHash": "e25030be232b2c52022785490a92cb65"
+        },
+        {
+            "exists": true,
+            "hash": "55d228795cba74d2b9181b8a48509e52",
+            "path": "overlay/injected/proxyopengl_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyopengl_Win32_Release.dll.zip",
+            "sha256": "b7234992ddf24f3af84235ed28917211ef9f03e9c0ac07c90d7d1104e1d4ea8f",
+            "size": 34388,
+            "unsignedHash": "db96427f0aae29867384e31baedcae7b"
+        },
+        {
+            "exists": true,
+            "hash": "5b13aa7cb53d433732fe6ea679645516",
+            "path": "overlay/injected/proxyopengl_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyopengl_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "bcee07823d7bf6c94b4e565a34c6bc4d13603c921d8b10401d6f2d34823e58bb",
+            "size": 34696,
+            "unsignedHash": "bd2f968cd723e75d65b19102f86320dd"
+        },
+        {
+            "exists": true,
+            "hash": "55fc2f800f4019b628eb42313679aacf",
+            "path": "overlay/injected/proxyopengl_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyopengl_x64_Release.dll.zip",
+            "sha256": "3fd90cc35e1544a841deb50d4d718b6e8b9dc820a6ad9c3ff1da5290b5083d27",
+            "size": 35630,
+            "unsignedHash": "7d473c6ebcea07b0bc1ca13536361c99"
+        },
+        {
+            "exists": true,
+            "hash": "e01e765f740f7a5937b0ac3569e772ad",
+            "path": "overlay/injected/proxyopengl_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyopengl_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "fb0e2281e402d908b98dde37316ee8a08d64b2bbb3f5d545b3bd520335823782",
+            "size": 35985,
+            "unsignedHash": "9644e89e302d6a704a33cbf63ab1ca76"
+        },
+        {
+            "exists": true,
+            "hash": "37554d99fd091c5c403a6dcacb77fa71",
+            "path": "overlay/injected/proxyuser32_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyuser32_Win32_Release.dll.zip",
+            "sha256": "535ae54dfaf460a1c1d0ed6bb961ffcb423e181d5f1f349019446489d7199cda",
+            "size": 20988,
+            "unsignedHash": "ed07837e564c04c761922110f63a25cc"
+        },
+        {
+            "exists": true,
+            "hash": "e53984f7f89453d6f40bba6592bff246",
+            "path": "overlay/injected/proxyuser32_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyuser32_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "64053798c2158a5c12a0de8148a4fc925d4f79ef5020a0fd02e90ce0763f321e",
+            "size": 21393,
+            "unsignedHash": "f694df17901e7e11632eb704b769c0db"
+        },
+        {
+            "exists": true,
+            "hash": "cc2127b63ddf4e5221154f9aa6bb9aee",
+            "path": "overlay/injected/proxyuser32_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyuser32_x64_Release.dll.zip",
+            "sha256": "40857548845789ebac7a67315e0113c8e42a701c556e4ab3fc221a5925a03e4a",
+            "size": 22901,
+            "unsignedHash": "3d2df8ac3ba3776c1081b91bbfa29276"
+        },
+        {
+            "exists": true,
+            "hash": "8a44d4719ae44ab12ce380d3e70a99bb",
+            "path": "overlay/injected/proxyuser32_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyuser32_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "d1fe6cbe8b1ee972c623066d383750bd770aa0f96ba2a4a03c091a467b459e0c",
+            "size": 23248,
+            "unsignedHash": "d94241b4007571afddf84925648d7a6d"
+        },
+        {
+            "exists": true,
+            "hash": "09d56d05895340a3e7fcde77ed355db1",
+            "path": "overlay/injected/proxyvulkan_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyvulkan_Win32_Release.dll.zip",
+            "sha256": "ea8aa15a5ffd99d605e9e08b152266ff0d1b4effae97442ca8ec75ac0b3a7ad7",
+            "size": 40044,
+            "unsignedHash": "753bad79191ec1d82b8e886366e45e8f"
+        },
+        {
+            "exists": true,
+            "hash": "8be3d024a674b2b740777249f52835f4",
+            "path": "overlay/injected/proxyvulkan_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyvulkan_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "306f99d5fd3a80ce0c0ab9225d78798502837b2212a8649e932a01919c795817",
+            "size": 40581,
+            "unsignedHash": "e146b3ffd68829686cf804bb73866621"
+        },
+        {
+            "exists": true,
+            "hash": "fedcfd82e7a88d0a52055c7ac51f4e44",
+            "path": "overlay/injected/proxyvulkan_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyvulkan_x64_Release.dll.zip",
+            "sha256": "f5b7edcbb9dcf909d0795eb8f8ea8b52149f86890b06740d4a2e9fbfb99f2365",
+            "size": 42903,
+            "unsignedHash": "46a1b211ebc51846496f66d6d4f37daa"
+        },
+        {
+            "exists": true,
+            "hash": "a2ef71f141bfd613fd13a1264e41a501",
+            "path": "overlay/injected/proxyvulkan_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyvulkan_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "11e7c0b3762a04ccc34c6464d3f70d70a2ab827ca4336bbd29eb5f025d9bd7f4",
+            "size": 43349,
+            "unsignedHash": "1b10c691a27a472b127002de62daacaf"
+        },
+        {
+            "exists": true,
+            "hash": "40021ebdd6c25585ff86620bf10f4423",
+            "path": "overlay/injected/proxyxinput_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyxinput_Win32_Release.dll.zip",
+            "sha256": "fb5519efa6b3784d8172ee80ab9e1c9356ae5981e7cdf1a557414cc9a362477f",
+            "size": 19993,
+            "unsignedHash": "4c9746d10c555381e173cbe5cfaae0c0"
+        },
+        {
+            "exists": true,
+            "hash": "df85f28e0c702e932681ca6660f44bc4",
+            "path": "overlay/injected/proxyxinput_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyxinput_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "5fecbb407e15ade738302e648ea3074b3fca0118bac22b920ffc65ad7f45eacb",
+            "size": 20199,
+            "unsignedHash": "947287d9631052cb6aab6a528003cf10"
+        },
+        {
+            "exists": true,
+            "hash": "47ea80077c5a03bfb15c677a65ebaa84",
+            "path": "overlay/injected/proxyxinput_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyxinput_x64_Release.dll.zip",
+            "sha256": "41ccd6ae1e29c308f0c091d5106071e36c2c24de5f8bae73e67365950a22ade1",
+            "size": 22059,
+            "unsignedHash": "eeb2004b9362b35f3a8eebd492f4feef"
+        },
+        {
+            "exists": true,
+            "hash": "c00e56b066677b120fecef59ade5ccef",
+            "path": "overlay/injected/proxyxinput_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/proxyxinput_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "f62206856050dc23775a461f99223c09d5c2bb83457112958ed0c767fd873e52",
+            "size": 22321,
+            "unsignedHash": "649acaa39e6eb957385bea19d2554281"
+        },
+        {
+            "exists": true,
+            "hash": "c230250226e2858a768a80beb6673931",
+            "path": "overlay/injected/swhx_injection_helper_Win32_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/swhx_injection_helper_Win32_Release.dll.zip",
+            "sha256": "6085825e75b6e1a19959e3a7311b8e719422a5e91a8067470bd88377c69dcb6f",
+            "size": 12225,
+            "unsignedHash": "3a254f698445cc6d00b0365ed1e69990"
+        },
+        {
+            "exists": true,
+            "hash": "a9aacfea82ee5863805aed1760d528af",
+            "path": "overlay/injected/swhx_injection_helper_Win32_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/swhx_injection_helper_Win32_ReleaseWithLogging.dll.zip",
+            "sha256": "2ff415ae44b67a94a734bd2eed5559b99b4d65ec9bb87cf70bcddf41779cd701",
+            "size": 12280,
+            "unsignedHash": "39124197d66a7066595a24e3f6c4cacd"
+        },
+        {
+            "exists": true,
+            "hash": "8d8f10336b1838905e4a0da7550f3ff5",
+            "path": "overlay/injected/swhx_injection_helper_x64_Release.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/swhx_injection_helper_x64_Release.dll.zip",
+            "sha256": "83ab4edb10315ee57fbf15ef4bf25b9e3a0f4885a6c41cc0126c7794b0244ab5",
+            "size": 13535,
+            "unsignedHash": "08b0fc1184de52596a8725bcdb446d23"
+        },
+        {
+            "exists": true,
+            "hash": "d36b38f21dc5bef75752fe5ed62f8399",
+            "path": "overlay/injected/swhx_injection_helper_x64_ReleaseWithLogging.dll",
+            "resource": "GalaxyOverlay/222529853/windows/overlay/injected/swhx_injection_helper_x64_ReleaseWithLogging.dll.zip",
+            "sha256": "0c7addbf8282ebb315bf7cc28744f48b66c4706581f46067de45c6ead5571868",
+            "size": 13590,
+            "unsignedHash": "1ad7ef23a589c5ada9c83c5ed4d8db84"
+        },
+        {
+            "exists": true,
+            "hash": "4f46409f485c62a527c8de1a47812bc5",
+            "path": "overlay/libcef.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/libcef.dll.zip",
+            "sha256": "12c5ac009e818434802981b0d468904186adb13d8b759348ce169c552a3e980d",
+            "size": 46012551,
+            "unsignedHash": "38bdae05aee498e52c5ea3fafba7673b"
+        },
+        {
+            "exists": true,
+            "hash": "feb169c2bad6eadd5a895c61dd498d8f",
+            "path": "overlay/libEGL.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/libEGL.dll.zip",
+            "sha256": "917857d12e1f79b897577c1a52b8be4675019046bf27a79e31137c2331e2eae1",
+            "size": 64593,
+            "unsignedHash": "061ef5deab1326f7ecad5adbe98c68ee"
+        },
+        {
+            "exists": true,
+            "hash": "b91df854acb1742194333e5cf08e4898",
+            "path": "overlay/libGLESv2.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/libGLESv2.dll.zip",
+            "sha256": "a7b8b62e3c033ac1ce296615f863651531f4697a50b96bc78172cfddbbab7374",
+            "size": 1943954,
+            "unsignedHash": "a5968dea5124001ef050b463491b8642"
+        },
+        {
+            "exists": true,
+            "hash": "0e3b31f511b316bfd87c92c5550f1cb7",
+            "path": "overlay/locales/de.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/de.pak.zip",
+            "sha256": "f79f058578bb810c135d34e5b1285299d18cd24f333397997354ad512b6e2667",
+            "size": 75001,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e06bee2c069738c1761b1f07a5a65c3e",
+            "path": "overlay/locales/en-GB.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/en-GB.pak.zip",
+            "sha256": "0969f4a50fac5f7f6d5040f3f0ca1016de578151d1633780fe7d8e3daa8c29ec",
+            "size": 66644,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "dc99f78630d32819ebce696dafd26579",
+            "path": "overlay/locales/en-us.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/en-us.pak.zip",
+            "sha256": "3e3d563b035609fb2e0dbc9cce32c23fceb4e69db36b9d49ef355515b425ba93",
+            "size": 66809,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "d546d7722a37ba055ab8a33b682b8a19",
+            "path": "overlay/locales/es.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/es.pak.zip",
+            "sha256": "2fb12f93c3811e8c4f1a01472f1f0b4992f7a11889a3f64ed73e867f30bba46d",
+            "size": 73210,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "2352a2bb3481eea03c76a67b8677918e",
+            "path": "overlay/locales/fr.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/fr.pak.zip",
+            "sha256": "11857a275941715d519cefac3105e906fb97777b712d095844c5f8666dc36c6b",
+            "size": 76705,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b1af2ee608bce8b124401f0f1a8e1719",
+            "path": "overlay/locales/it.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/it.pak.zip",
+            "sha256": "33ee8f8134b149aad248567fe8e5b220704f7422fc05aa1c9de72b836c74d52e",
+            "size": 72044,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "fb94a46c081766f72924c0234fcb53da",
+            "path": "overlay/locales/ja.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/ja.pak.zip",
+            "sha256": "851f8817e1f85edd320cfab4b560e8b468ce4c53bb739e8afa14997c84f58eec",
+            "size": 75483,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "a25bcd561eb7da40b12e4670d751d8e4",
+            "path": "overlay/locales/ko.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/ko.pak.zip",
+            "sha256": "ae0a82ba25b8de9cc46576ae22a23d2b42d44d80d885fad801be3c86f4a5a23d",
+            "size": 70947,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "92a70e7431a2d76f54070f86f99bcdfd",
+            "path": "overlay/locales/pl.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/pl.pak.zip",
+            "sha256": "da0dd276248e46c375a09a308a266f8708917b5ba6fbb0ee245fbb988ebab785",
+            "size": 77531,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "f2d645cd25559f8ade54d1372f864294",
+            "path": "overlay/locales/pt-BR.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/pt-BR.pak.zip",
+            "sha256": "a2ed13735176895507e6600718a7f2a13689c246950d1d807b1b1f16d64af2d4",
+            "size": 72912,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8b0bd3c98add6936eb5739c025a87c5f",
+            "path": "overlay/locales/pt-PT.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/pt-PT.pak.zip",
+            "sha256": "369fb57c64066aac72ab8a5ea44cfe87e83a25a0a9b8c66299d4d372e637c46d",
+            "size": 72673,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5ef23ee12e24e62ae4fe9e722b689259",
+            "path": "overlay/locales/ru.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/ru.pak.zip",
+            "sha256": "6f50ad5d217d719994c9501b75cba3aa86e6970851854232fdb95d9261685371",
+            "size": 88499,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "07d6a14b26c86d6023d32cd877fac744",
+            "path": "overlay/locales/zh-CN.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/zh-CN.pak.zip",
+            "sha256": "607f193b40d40637cb730f55ed6b30dcf084dbd3597bc14a18a9f778ba2f7a67",
+            "size": 71194,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "16afe92b4a89caa7b72cdfa2c6f84a1c",
+            "path": "overlay/locales/zh-TW.pak",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/locales/zh-TW.pak.zip",
+            "sha256": "45386106980158e588fca97c01490db78dca23f62bc5a4f97bbf722671091015",
+            "size": 70593,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "d2414b8ae71f3f827b984167054e21a1",
+            "path": "overlay/natives_blob.bin",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/natives_blob.bin.zip",
+            "sha256": "66a747124929695fdf5b74812e15518ee7ed4e1406e53febe064c39931948449",
+            "size": 13112,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e2fb0287aea224622000a18056188d45",
+            "path": "overlay/snapshot_blob.bin",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/snapshot_blob.bin.zip",
+            "sha256": "c1d032b42f86af8ab17c40be277a408dbd89745b29afb99858371579d30accc3",
+            "size": 67772,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "af7d8ccc38b65176473c216dbfb133c1",
+            "path": "overlay/swiftshader/libEGL.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/swiftshader/libEGL.dll.zip",
+            "sha256": "81f33b2315c0926d95f1fb234a7de215ec995f5f09fa32bb77cec75098501408",
+            "size": 67704,
+            "unsignedHash": "56e8347d76cd0f5ad8c8e5fe94d59ba6"
+        },
+        {
+            "exists": true,
+            "hash": "07e3eebb9960f619602b92d2079e7d69",
+            "path": "overlay/swiftshader/libGLESv2.dll",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/swiftshader/libGLESv2.dll.zip",
+            "sha256": "97a7d233f877861f12f1d0efa3b7da87a5e898915ce77a49d9f1fcc1a6cf785c",
+            "size": 1099964,
+            "unsignedHash": "749ea43ed6f59a3ebaa69ba01af98771"
+        },
+        {
+            "exists": true,
+            "hash": "4677848facecd448d4360aa079dde2e6",
+            "path": "overlay/v8_context_snapshot.bin",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/v8_context_snapshot.bin.zip",
+            "sha256": "adf73a975a45763e683a1287914024254e4994947805bd0e528086e93590e66e",
+            "size": 188785,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "2397cb0a7d4f611b521a23e8e3b22424",
+            "path": "overlay/vs2015-redist-x64.exe",
+            "resource": "GalaxyOverlay/188904868/windows/overlay/vs2015-redist-x64.exe.zip",
+            "sha256": "d7257265dbc0635c96dd67ddf938a09abe0866cb2d4fa05f8b758c8644e724e4",
+            "size": 15090463,
+            "unsignedHash": null
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyOverlay",
+    "symlinks": [],
+    "timestamp": "222529853",
+    "version": "2.0.6.145"
+}

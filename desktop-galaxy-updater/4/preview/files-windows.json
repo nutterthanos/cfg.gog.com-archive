@@ -1,0 +1,250 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://galaxy-client-update.gog.com",
+    "files": [
+        {
+            "hash": "c7b153b5e8475eb0708ce1ea4d3b7d48",
+            "path": "expat.dll",
+            "resource": "GalaxyUpdater/119983109/windows/expat.dll.zip",
+            "size": 51647
+        },
+        {
+            "hash": "b2ccd8c42ce6fdfc0e6a6bc77935ae33",
+            "path": "GalaxyUpdater.exe",
+            "resource": "GalaxyUpdater/119983109/windows/GalaxyUpdater.exe.zip",
+            "size": 424302
+        },
+        {
+            "hash": "13d4ca824fda5e7ca449a8e990f9b9f1",
+            "path": "libeay32.dll",
+            "resource": "GalaxyUpdater/119983109/windows/libeay32.dll.zip",
+            "size": 581126
+        },
+        {
+            "hash": "dd0e6ad037e9f18b7f28eba80cdc7b3d",
+            "path": "pcre.dll",
+            "resource": "GalaxyUpdater/119983109/windows/pcre.dll.zip",
+            "size": 129471
+        },
+        {
+            "hash": "666771bf48d6173302712b8db6b9c6ba",
+            "path": "PocoCrypto.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoCrypto.dll.zip",
+            "size": 44103
+        },
+        {
+            "hash": "46a6388576581cba0d485dd3d9a4e0f9",
+            "path": "PocoFoundation.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoFoundation.dll.zip",
+            "size": 422152
+        },
+        {
+            "hash": "2f03b0f3f3d64201af0f87c7bc96e383",
+            "path": "PocoJSON.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoJSON.dll.zip",
+            "size": 94859
+        },
+        {
+            "hash": "f3926ff7b8bbfe31b5dfad53dacd37f2",
+            "path": "PocoNet.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoNet.dll.zip",
+            "size": 297023
+        },
+        {
+            "hash": "046ee51447e7dc61de34490243ea5924",
+            "path": "PocoNetSSL.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoNetSSL.dll.zip",
+            "size": 83120
+        },
+        {
+            "hash": "b32464699bbc8707726931769f3a8070",
+            "path": "PocoUtil.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoUtil.dll.zip",
+            "size": 138012
+        },
+        {
+            "hash": "dfffa5d6b22323a78d3ae1247108c942",
+            "path": "PocoXml.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoXml.dll.zip",
+            "size": 135408
+        },
+        {
+            "hash": "c90c72a1dc8579db23bf83b26d15fc7f",
+            "path": "PocoZip.dll",
+            "resource": "GalaxyUpdater/119983109/windows/PocoZip.dll.zip",
+            "size": 75494
+        },
+        {
+            "hash": "3c4fc04494dbbfb0974266c494c27192",
+            "path": "Qt5Core.dll",
+            "resource": "GalaxyUpdater/119983109/windows/Qt5Core.dll.zip",
+            "size": 2065510
+        },
+        {
+            "hash": "782dcde8f5d53b1b9e888fdf113c42b9",
+            "path": "rootCA.pem",
+            "resource": "GalaxyUpdater/119983109/windows/rootCA.pem.zip",
+            "size": 141318
+        },
+        {
+            "hash": "d8c3e0c0152a009d1beea8e193ed4f16",
+            "path": "ssleay32.dll",
+            "resource": "GalaxyUpdater/119983109/windows/ssleay32.dll.zip",
+            "size": 135002
+        },
+        {
+            "hash": "8ca16826cdbe2e72e9ca5a66cd837477",
+            "path": "zlib.dll",
+            "resource": "GalaxyUpdater/119983109/windows/zlib.dll.zip",
+            "size": 44456
+        },
+        {
+            "hash": "77f736ec722cf90743afd87bd3c906c9",
+            "path": "web/locales/de-DE/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/de-DE/final.json.zip",
+            "size": 13696
+        },
+        {
+            "hash": "3372f739c01cd49c5cdcddd0fc382cc9",
+            "path": "web/locales/de-DE/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/de-DE/native.json.zip",
+            "size": 514
+        },
+        {
+            "hash": "6a2715a62a067c782f1f5d0cbae2cf18",
+            "path": "web/locales/en-US/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/en-US/final.json.zip",
+            "size": 12244
+        },
+        {
+            "hash": "e127aa426876eeea54852fe08eef51d8",
+            "path": "web/locales/en-US/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/en-US/native.json.zip",
+            "size": 479
+        },
+        {
+            "hash": "4be55f2d817b91c8d855f21e7fe282a1",
+            "path": "web/locales/es-ES/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/es-ES/final.json.zip",
+            "size": 13540
+        },
+        {
+            "hash": "e127aa426876eeea54852fe08eef51d8",
+            "path": "web/locales/es-ES/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/es-ES/native.json.zip",
+            "size": 479
+        },
+        {
+            "hash": "3e1cfcac33a1b615416a1ea6fc7300f3",
+            "path": "web/locales/es-MX/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/es-MX/final.json.zip",
+            "size": 13591
+        },
+        {
+            "hash": "e127aa426876eeea54852fe08eef51d8",
+            "path": "web/locales/es-MX/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/es-MX/native.json.zip",
+            "size": 479
+        },
+        {
+            "hash": "fa0a1e0f262a252df24614ab2ebc33f7",
+            "path": "web/locales/fr-FR/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/fr-FR/final.json.zip",
+            "size": 14018
+        },
+        {
+            "hash": "e35a71c92d414fc5cecf7cabd2748a3b",
+            "path": "web/locales/fr-FR/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/fr-FR/native.json.zip",
+            "size": 513
+        },
+        {
+            "hash": "80509bd1d340c507893b7e4f98635630",
+            "path": "web/locales/it-IT/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/it-IT/final.json.zip",
+            "size": 13321
+        },
+        {
+            "hash": "e127aa426876eeea54852fe08eef51d8",
+            "path": "web/locales/it-IT/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/it-IT/native.json.zip",
+            "size": 479
+        },
+        {
+            "hash": "8bfeeb2b827bbb62d86ff987a692b04c",
+            "path": "web/locales/ja-JP/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/ja-JP/final.json.zip",
+            "size": 14231
+        },
+        {
+            "hash": "856c7318a501f4665adfc2b9e0c85ba0",
+            "path": "web/locales/ja-JP/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/ja-JP/native.json.zip",
+            "size": 503
+        },
+        {
+            "hash": "80d28e5119f8cffaece49d52ebac2460",
+            "path": "web/locales/pl-PL/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pl-PL/final.json.zip",
+            "size": 14349
+        },
+        {
+            "hash": "9e98896be7a79ca86aca3ea8788a816f",
+            "path": "web/locales/pl-PL/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pl-PL/native.json.zip",
+            "size": 563
+        },
+        {
+            "hash": "d63c66a93d7a2e10683fdbdaf308191d",
+            "path": "web/locales/pt-BR/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pt-BR/final.json.zip",
+            "size": 13662
+        },
+        {
+            "hash": "05962e2f254fd5caa3bdb0efe342d763",
+            "path": "web/locales/pt-BR/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pt-BR/native.json.zip",
+            "size": 487
+        },
+        {
+            "hash": "f969b33749487f757a877fbc332ad7b5",
+            "path": "web/locales/pt-PT/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pt-PT/final.json.zip",
+            "size": 12552
+        },
+        {
+            "hash": "e127aa426876eeea54852fe08eef51d8",
+            "path": "web/locales/pt-PT/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/pt-PT/native.json.zip",
+            "size": 479
+        },
+        {
+            "hash": "f2d417ccbe37b7e20da5c61ac0b64936",
+            "path": "web/locales/ru-RU/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/ru-RU/final.json.zip",
+            "size": 15751
+        },
+        {
+            "hash": "8684c33ef5f527a0c8f09eef0b065d49",
+            "path": "web/locales/ru-RU/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/ru-RU/native.json.zip",
+            "size": 509
+        },
+        {
+            "hash": "689e5d8bb0594fba781fb82eff62ad6f",
+            "path": "web/locales/zh-Hans/final.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/zh-Hans/final.json.zip",
+            "size": 14218
+        },
+        {
+            "hash": "09dfb00befa051bb736c2713b3041a8b",
+            "path": "web/locales/zh-Hans/native.json",
+            "resource": "GalaxyUpdater/119983109/windows/web/locales/zh-Hans/native.json.zip",
+            "size": 586
+        }
+    ],
+    "projectName": "GalaxyUpdater",
+    "symlinks": [],
+    "timestamp": "119983109",
+    "version": "1.2.31.10"
+}

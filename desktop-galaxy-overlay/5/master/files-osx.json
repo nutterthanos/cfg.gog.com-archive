@@ -1,0 +1,784 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "exists": true,
+            "hash": "753438de49464b5c7300c69c136db29a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Info.plist",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Info.plist.zip",
+            "sha256": "673b8b63bbf57e138415e251e99df39ad03e74517d27419ffb04e3c82f3221fb",
+            "size": 716,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "00e2835b980f2c1f62537a8b44e67b45",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "3bf7b13e9d41db954237d4e92143451caf91948b8d64a86c3ff009ea30907b9b",
+            "size": 1179,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "7b4a96a5bc4b85ce4b42b8a95b2765a5",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/MacOS/GOG Galaxy Overlay",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/MacOS/GOG Galaxy Overlay.zip",
+            "sha256": "2f05d1c832d9cefe0340d0ae5a81380bd88989232e677c3af8e17be1a95919bc",
+            "size": 2377357,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "f58946ca5cb0ba9f080fd2a35d69fe06",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Resources/WindowController.nib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Resources/WindowController.nib.zip",
+            "sha256": "1d9fd6299b2ec64ca022065f4c82bb66308e06630fba58173abd82f72e8f4171",
+            "size": 1554,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e8fcf8fd73528605f95e59e4e7056bee",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Resources/Info.plist",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Resources/Info.plist.zip",
+            "sha256": "4ddd249351032807c0495b933991cfac63e81e8527cc5557f55efa74dd358c8a",
+            "size": 578,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "4cc74d1942f0bd7a801de94f30f7369f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Info.plist",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Info.plist.zip",
+            "sha256": "5c53d02dfddf113f14813925e9c72efc46268eadb6d222dd1085b5c11d2e5cc3",
+            "size": 725,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "2a26cebdd9ee4e27b3c9afbe8670808d",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "59a208301cc510e4580eae902f411edb96418908bfb437dcd37b9a22d349a87b",
+            "size": 1000,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "be3435f6effd0fd6e0f8f406fdfc13b8",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/MacOS/GOG Galaxy Overlay Helper",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/MacOS/GOG Galaxy Overlay Helper.zip",
+            "sha256": "1e2927ed97ded3e000669e6c0284254ea3d7a1421f17634319356548971cea57",
+            "size": 109707,
+            "unsignedHash": "fb0d2515bcdf5d9e01c0d9bd9ac0dba7"
+        },
+        {
+            "exists": true,
+            "hash": "f76924323f00a0937ec6402067cbb543",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/MainMenu.nib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/MainMenu.nib.zip",
+            "sha256": "5f1ebaf4ceaf631974a2349257daca79c5b1970cb293b6980017a2fc2280f9cc",
+            "size": 16839,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0abe564bb1299d7dfd6821cd4a9a747b",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/Info.plist",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/Info.plist.zip",
+            "sha256": "410ab923e4693da7ef389f68ddb091fe2a402c49475b357dfe0ddd92fcd92937",
+            "size": 583,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8cc0218d0401eb37b1a813b5dddb25e5",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/GOGOverlayWindowController.nib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/GOGOverlayWindowController.nib.zip",
+            "sha256": "6eb171aa067b3b3a88c341dbf4c8dca7624cddf820c57ad7f0175afd72de0b78",
+            "size": 2261,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b5e857afd29cbaae0428541d65daa16f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework.zip",
+            "sha256": "645e762be93ab25accf2cf6bf537a1127394a70c019c70e993b4cd22ea39f258",
+            "size": 54666241,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "25e36d588244e2cdb2a66fc659a9855a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/_CodeSignature/CodeResources",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/_CodeSignature/CodeResources.zip",
+            "sha256": "7e8fc6040e12f91ce3eb56b31b171b7614e52a5a1128cbe1f764dec964c8a58a",
+            "size": 5481,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "6e68998fc955474674fa94cc1b0baf49",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libEGL.dylib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libEGL.dylib.zip",
+            "sha256": "ce10ac40825b4e2158e329ec95ec065697c2fbce967e8ba9b239142c82416fb7",
+            "size": 10821,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e31f111dd65fe5f03bb9ee4718e40552",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib.zip",
+            "sha256": "0b9f7c6fd14a4a61489fed812ee747f835982d1f545fd945bbe418ec4159cefe",
+            "size": 34693,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5698672085b03cbda561bdde595cef70",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libGLESv2.dylib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libGLESv2.dylib.zip",
+            "sha256": "1e3fa110b980def2b9e062786ab0c8ae7fcd928c89e5aca5ad49fe461737c855",
+            "size": 1098135,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b4cd5bf287a89e4f66089b8f2f5d15b8",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib",
+            "resource": "GalaxyOverlay/174652258/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib.zip",
+            "sha256": "cb20c5876fb63ec93b3d9975f45741a6e554c518964a38dabce8ff6c31c26b2b",
+            "size": 976568,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "23b7d7d024abb0f558420e098800bf27",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/PkgInfo",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/PkgInfo.zip",
+            "sha256": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+            "size": 120,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Resources/Galaxy.icns.zip",
+            "sha256": "0c9d72f75b1aefd6f7032f81f35f7d370069ebb2822f61284deea384eea3ee21",
+            "size": 1055949,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "23b7d7d024abb0f558420e098800bf27",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/PkgInfo",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/PkgInfo.zip",
+            "sha256": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0",
+            "size": 120,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/GOG Galaxy Overlay Helper.app/Contents/Resources/Galaxy.icns.zip",
+            "sha256": "0c9d72f75b1aefd6f7032f81f35f7d370069ebb2822f61284deea384eea3ee21",
+            "size": 1055949,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "fd2e8feeaf9b193ccebe1423359c061e",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/v8_context_snapshot.bin",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/v8_context_snapshot.bin.zip",
+            "sha256": "74857d053c779f046fc9c03cbc93eca20996f15e72e424437d21368f0d8f802c",
+            "size": 200628,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "f11f6cd17eecb04f17813ede62dd0b4c",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_extensions.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_extensions.pak.zip",
+            "sha256": "113cd8c90a66254836e285b4d08941b1d2e9258c4197017416096c0bfe6e35fb",
+            "size": 1054171,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "244c056ff1bfd32dfe2fde6917f0cddd",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef.pak.zip",
+            "sha256": "177566b3cd3afc682942e870128454c5dd46902e13d4508ce95a71601cf9518e",
+            "size": 2128769,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "59e21005a68ed37eb7019091301b2c6c",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/icudtl.dat",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/icudtl.dat.zip",
+            "sha256": "75b9d0e6c2ce9d8f8abd53c7198f614ab77af4912b39cb9a0ff272a7c2093b95",
+            "size": 4500053,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8911a2602f025f6fd0e516c1554ca47f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_100_percent.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_100_percent.pak.zip",
+            "sha256": "39cb6d37fe8b97a1bf35c9d09fbc51a23325607d98e1f335184134b6a0240fc2",
+            "size": 214742,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c050d3cefc81a8305c0c91ca58cb0436",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_200_percent.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cef_200_percent.pak.zip",
+            "sha256": "500c8b2fb120b1b3f4eb0c79e01c69b75b5092ec8693f8c26cb57d3c5d402873",
+            "size": 317943,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5c5bfee98a4695f1e984c7261e4af696",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/snapshot_blob.bin",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/snapshot_blob.bin.zip",
+            "sha256": "3e955cd7567f06a71d29ab4e9233d4a0700f35b2f83fca5b88a91688f9f071e9",
+            "size": 78616,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "ee8117cf109aa1e47599b6b6bbffc176",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/natives_blob.bin",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/natives_blob.bin.zip",
+            "sha256": "05620c1db015ddfbbc7dfe39afb14c250f20090a61d9aba8dcd55e6a1a649223",
+            "size": 16951,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0307bdca70bc9fea6d746114e73e0e89",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/devtools_resources.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/devtools_resources.pak.zip",
+            "sha256": "48d575714fac9d3ea610129daf1fe321c20f0bfd43e97e6e29d69d19e5333c61",
+            "size": 1398252,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "36e353095e8e1617977670a2e39ff16d",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/Info.plist",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/Info.plist.zip",
+            "sha256": "e73cebbd29a40b4e647042d9c89051fb1823f60387805b9e10163ae3879d6275",
+            "size": 608,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e5dfe0ced235b360a40c8068bdafdd87",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/de.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/de.lproj/locale.pak.zip",
+            "sha256": "8ff19cb0210889f19b9a2af64de5680b6f8f8311ee84c3e7ec885ac0d30a0b53",
+            "size": 70932,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "baaa516f599616eb9b2f43118ddd77e6",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/he.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/he.lproj/locale.pak.zip",
+            "sha256": "a4e737faead4b6b917aeb95c921790d0f79650025894920a13f04a9ab532afd4",
+            "size": 73987,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8539d2e0fcc48adcf65fb32fb8bbf255",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ar.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ar.lproj/locale.pak.zip",
+            "sha256": "44dc14d7ace647f78422bf6579c491a6356281d3cb3416526558d593b2608817",
+            "size": 80001,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c84fa25f51e05aa8f15ddeae981e66ed",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/el.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/el.lproj/locale.pak.zip",
+            "sha256": "e3ce67900a346c7be2be6f2cebce99148a10b2f7dd2ca178d75c0da76b88f7a4",
+            "size": 90119,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5ec7a9a59d959766bee25a70e15f8079",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ja.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ja.lproj/locale.pak.zip",
+            "sha256": "60a28e8234a0169d47358c655a02da6afe9c63b37b2068c16096b5ecfd81a655",
+            "size": 71503,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "7ac3e11383f6c4c70b9a56af90028c4f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fa.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fa.lproj/locale.pak.zip",
+            "sha256": "5818f2b919922ba70209df251f4bb0ddc84c09fc1ef6ca55550d93cf40ed2585",
+            "size": 79003,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "759238fbb39aaba27dc02b14ef418496",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/mr.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/mr.lproj/locale.pak.zip",
+            "sha256": "e47aa4b71e8d233e757ca57185675a6467ea84068ff193dc97ee416704200135",
+            "size": 88186,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "f4a6b19950b1a8df22fa92aadd8c47bb",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/en.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/en.lproj/locale.pak.zip",
+            "sha256": "2e514bcd171a69217b76db01366d4c0045c78907b3f03b18b61347685899b7a4",
+            "size": 63556,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "af73280d9d381b0c0db68c47338b277c",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/uk.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/uk.lproj/locale.pak.zip",
+            "sha256": "dab6d6bc8bcbefd79887366d96c538d130bb04263f38ec256c3becf8944d77b2",
+            "size": 83243,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "89389e7f3bc32e8bb5a50ec16c91f486",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak.zip",
+            "sha256": "9565e5039277556939b064a5040d225a5c4a192378b72685b8a50c6bb4e55c09",
+            "size": 69701,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "fa1ad9b676d5fa162d94f43c17420b35",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/gu.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/gu.lproj/locale.pak.zip",
+            "sha256": "5407a657735269d890dd642c4f12f3535392b0eb6de306ec0620a102809e3913",
+            "size": 88420,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "6048d78fcf7aaf8fbd44ac54c90c84eb",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak.zip",
+            "sha256": "7d6ad805a70224359b87e8cb50b1aec4d0203a7cde3108321211021f2a419edb",
+            "size": 67581,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "46532d9c821a688e5816874727019b4e",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/kn.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/kn.lproj/locale.pak.zip",
+            "sha256": "66b402fcdf8613df682349fa24f19748df71e44074778dc3e00d62ef00880560",
+            "size": 91890,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "3e3172f83d6fc04295e252bf7c33dd9a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nb.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nb.lproj/locale.pak.zip",
+            "sha256": "12df0c19b1e885af9886cf12eddc5a76e335e945bc9e9e3f472058f4fac3018f",
+            "size": 66810,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0235f23fbc3a34e8ed3121fda11c2435",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/am.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/am.lproj/locale.pak.zip",
+            "sha256": "2ab0d3ac9ccdd49dfc99f0f73d579e1be896d3dd4b8487af6b6c84eea2f98ea6",
+            "size": 82547,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "7a14d6ce02c08afb112b03c66ef977fb",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/es.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/es.lproj/locale.pak.zip",
+            "sha256": "008f70ad66650ebbbbd861d1ac264bbde968e6eeaaf075f80f6b4f32144742d1",
+            "size": 69333,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "9c4761b296d4b8544eaa930e77df0332",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sw.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sw.lproj/locale.pak.zip",
+            "sha256": "3a6408118a2b3c4513c6f71b70736b1362259a6f40f80babb6f7d25150c3b50c",
+            "size": 67920,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b2696b9a0cd1ee2b41e54b5fcc6ed749",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sl.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sl.lproj/locale.pak.zip",
+            "sha256": "fd9ecfa66c4b9522488521152b172a3148b1446d306495f75eab743b751c49fd",
+            "size": 70830,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "2839be49a64dfaeb7a5d2295436867d3",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak.zip",
+            "sha256": "d43be00a8d40a9a8ea7c7ab0e12199d60dc331e06202af7632f8457f359a57ca",
+            "size": 69035,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0bfb57f467a7bd61dd66a0305855c738",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/da.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/da.lproj/locale.pak.zip",
+            "sha256": "640b01e9d61cdf421a87fed0811bc9848d27535b3f082c9a798d9299b23c947a",
+            "size": 67346,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "82ab6ef71ebc87f5f25d02467753f7db",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/et.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/et.lproj/locale.pak.zip",
+            "sha256": "04836a2d36a590215595eea124933e488721bfc1910836fa22e2f21f4bcb7251",
+            "size": 68422,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "18d3ba9eff2a355e292ebdea3e41c662",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/it.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/it.lproj/locale.pak.zip",
+            "sha256": "4e757d4c9ec66a894e733f72e82dddc08d8d6ea75fcad7ad056812cb04df7f44",
+            "size": 68308,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "d880ef0f141f8e4f85a17fb0a90a4837",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bg.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bg.lproj/locale.pak.zip",
+            "sha256": "5f006db33b7e3e76b3af99c376f449e7a329489ac4709741d8472defc69034c1",
+            "size": 83732,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "a18fcbc15479e38159872297d69b8deb",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sk.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sk.lproj/locale.pak.zip",
+            "sha256": "029aebb7dadbccbbe7fa0f7475f9c4ab62b3cca4a8e48a871f6b808232b82e8e",
+            "size": 75559,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b1a946c0a0910b64e4c13c0fc539d126",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak.zip",
+            "sha256": "021f518844a607719fb70147697735eecd0644e9188f0d6a50425489382868b2",
+            "size": 68881,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "983475352537e36687b6688b383bd86a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sr.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sr.lproj/locale.pak.zip",
+            "sha256": "ae9d182e820b80adf83922a4cb8a3cb668e2983271dc4870b60ca9a68625c41a",
+            "size": 82032,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "2d755716dcc9fa351840a0cedb11cad6",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ms.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ms.lproj/locale.pak.zip",
+            "sha256": "9eecc5e0600ddeb2112b1ccc77989005ffe982a675880bfbf3a8ca17895a32e0",
+            "size": 65153,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "7bec29382b876b716f278a02fd7645cd",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ta.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ta.lproj/locale.pak.zip",
+            "sha256": "ed94e8df963f1496b4add80f7c1d748aabbbcd525d59a27f24ee26f0bba2c760",
+            "size": 90676,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c6564a37a8925235496ae7d48bce3e85",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ml.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ml.lproj/locale.pak.zip",
+            "sha256": "c5164489ff8c3517a43ca4f08bd606494adbab32174a8103feae465f465529d2",
+            "size": 96102,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "836a17b9d62c4e1cc5b8e73a23e210ee",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sv.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/sv.lproj/locale.pak.zip",
+            "sha256": "1bdeb9db9fc2df3f931ee9eee3fe05dac076c13685b6a4f7f843396280c3edeb",
+            "size": 66694,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "1f12d08deb0bbd539a7ed39aa6db6923",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/te.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/te.lproj/locale.pak.zip",
+            "sha256": "8aac9847cf753e026fdd0f424abb0f761c7fd7c1d4afa2b159a552cdc5488d73",
+            "size": 91461,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "4dadc0501e7c2d11b57bed5987e3a1ac",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cs.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/cs.lproj/locale.pak.zip",
+            "sha256": "921eb8aae03994b9a01a76937fea5fd7ad5d037a0e97eece64c01294b5e45c0e",
+            "size": 74511,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b24ec476aba649eaaf5616f934d10f03",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ko.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ko.lproj/locale.pak.zip",
+            "sha256": "2b038b0a11ec7b931467e3ce82dda0fc2258eda76b280a7d7321b56e08c42fb8",
+            "size": 66976,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "31a82ea96876420a9091921367dab3f7",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fil.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fil.lproj/locale.pak.zip",
+            "sha256": "a1a1b0056a35855d5d5117807052332c2749b23f32abbed611356600d9b533fa",
+            "size": 70632,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "72b89cdbacca819162a9aded38f15d07",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hu.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hu.lproj/locale.pak.zip",
+            "sha256": "ad1e77edcbf82c53c1ad991191ec6bc582415d8e681b68c86680a4c1d8ad0cec",
+            "size": 74646,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "bd9f533167906d802f9abb058603f02a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/tr.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/tr.lproj/locale.pak.zip",
+            "sha256": "5c29a122c02432c824616f3527291c4aaf5560ca578fc357189e50219834289c",
+            "size": 69745,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "7d548a5ccf2981d32a155cc6dcfe1555",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pl.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/pl.lproj/locale.pak.zip",
+            "sha256": "b33ac7589cc258de24fc370faf0f14f3d03addb5cca31389c5bc9e4bcd580f6e",
+            "size": 73386,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b0a3b0f93a759d7142cc9a513977966a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak.zip",
+            "sha256": "49492231863c4ee865f8c9abfaee77ce002e2b7e19dc2d9c745d04708edbdb0a",
+            "size": 66893,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "b3cc643b4cd98dc00f0c43949c76b30a",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak.zip",
+            "sha256": "e87fff20405da1ca08e9ac59635be999f69306e3fbf977ce16ceaf30d47ca395",
+            "size": 63421,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "fa50d1ab42e10bbaf1cd36acd7a2eec7",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/vi.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/vi.lproj/locale.pak.zip",
+            "sha256": "eb158aca959869d0b7828a8521500ee450773d5165b96ef64172b75e896635ac",
+            "size": 69042,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c27a10b11bdbda20bbd34d61724ef5cd",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/lv.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/lv.lproj/locale.pak.zip",
+            "sha256": "c7bcfeab6ac8f28b9ee1d90fbbf499f0f6ffbfbac6e53094e22e4bfc64578484",
+            "size": 72699,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8b0c18c203d5c6e2d37d01adfaf3152f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/lt.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/lt.lproj/locale.pak.zip",
+            "sha256": "af1375742d5837f21a69310bdb51ca61b7fdff57762601d051d30f4dd72b6c11",
+            "size": 72973,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "dc400e882b0736d73ce99ff3b8ac9033",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ru.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ru.lproj/locale.pak.zip",
+            "sha256": "80f8bc7e4df04649f94d5995daa40f79f925b149b77c5f8130a819e26ec03201",
+            "size": 83507,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c1cd95f2455bd463e3bd23e0a6a2d941",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fr.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fr.lproj/locale.pak.zip",
+            "sha256": "37b072efd738c933ea3226b5a648680e92ecfa7c887557177b528d244497b710",
+            "size": 72536,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "c96b49b5ffa91d9e282caaeacda05b75",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fi.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fi.lproj/locale.pak.zip",
+            "sha256": "c257e054d80a3cc139f9b01121af512f5f61e8a05e139bb8a9aec4a5e3873aec",
+            "size": 68582,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "d80bc941fc341884ad13991291c25602",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/id.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/id.lproj/locale.pak.zip",
+            "sha256": "819b122593e81bb87a706a2996a9c051b0610b6c127dba950538ce9be7d529d1",
+            "size": 64664,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "358513d115386f2dc524d55df3ed9c21",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nl.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nl.lproj/locale.pak.zip",
+            "sha256": "c16c5434806d63c423f3416b9e758f10798e328094cdb62e85f493742881c830",
+            "size": 68438,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "f095f6375f547be7d0fd0babe0d01a0f",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/th.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/th.lproj/locale.pak.zip",
+            "sha256": "af1d24e88e91eb3d5da3211bc34e2a57fe623eb4310fa94d01c149ed7df7c2bf",
+            "size": 80258,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "735c37f8bba12c6699e2135a9d1e306d",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bn.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bn.lproj/locale.pak.zip",
+            "sha256": "23dd54336d0170a6238a6c0996cac854f5b75bdc2510843aed0fa4022e40421c",
+            "size": 90328,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "def622ea31960639a78e6b8845f508dc",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ro.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ro.lproj/locale.pak.zip",
+            "sha256": "4010fe4df03e93a308d096823d42104bc3fc6555d9b6b79fbabec04ccd751ec0",
+            "size": 71407,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "06bfbf0a1d620968370e2cba3748ade3",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hr.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hr.lproj/locale.pak.zip",
+            "sha256": "5a7bb54a925c5ae05b31b3af47e979d8d6ddc5f407afec25ea854e5ecd81521e",
+            "size": 71220,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "400254ab7af55840b7331f036964b336",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hi.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hi.lproj/locale.pak.zip",
+            "sha256": "4ce389262d00fd85553c877c9aa3c1b98cb490f6689e326224cebb227d98a2d0",
+            "size": 90031,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "1c5c8d5658b87cf854eaa9206e9a427c",
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ca.lproj/locale.pak",
+            "resource": "GalaxyOverlay/157465255/osx/overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ca.lproj/locale.pak.zip",
+            "sha256": "4422ff1097829503bc0dbc3a437f20a4a206260d2cdec63dc57203b1db08eebc",
+            "size": 70291,
+            "unsignedHash": null
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyOverlay",
+    "symlinks": [
+        {
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework",
+            "target": "Versions/A/Chromium Embedded Framework"
+        },
+        {
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources",
+            "target": "Versions/A/Resources"
+        },
+        {
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries",
+            "target": "Versions/A/Libraries"
+        },
+        {
+            "path": "overlay/GOG Galaxy Overlay.app/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/Current",
+            "target": "A"
+        }
+    ],
+    "timestamp": "174652258",
+    "version": "1.2.34.343"
+}

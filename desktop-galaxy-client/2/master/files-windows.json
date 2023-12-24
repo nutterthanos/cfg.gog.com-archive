@@ -1,0 +1,433 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "d26655f24de67723da680e0f580350f9",
+            "path": "CrashReporter.exe",
+            "resource": "GalaxyClient/45078485/windows/CrashReporter.exe.zip",
+            "size": 353074
+        },
+        {
+            "hash": "1c9b45e87528b8bb8cfa884ea0099a85",
+            "path": "d3dcompiler_43.dll",
+            "resource": "GalaxyClient/45078485/windows/d3dcompiler_43.dll.zip",
+            "size": 903654
+        },
+        {
+            "hash": "75895a5668a43f7b8d3cf1f57e937bbe",
+            "path": "d3dcompiler_46.dll",
+            "resource": "GalaxyClient/45078485/windows/d3dcompiler_46.dll.zip",
+            "size": 1343878
+        },
+        {
+            "hash": "336b9d015ca9512df0278b9287d34525",
+            "path": "expat.dll",
+            "resource": "GalaxyClient/45078485/windows/expat.dll.zip",
+            "size": 45444
+        },
+        {
+            "hash": "92eb578d63e91535663de164fde3276c",
+            "path": "ffmpegsumo.dll",
+            "resource": "GalaxyClient/45078485/windows/ffmpegsumo.dll.zip",
+            "size": 419792
+        },
+        {
+            "hash": "57cdc1abcad697eaea889e6a2948231a",
+            "path": "GalaxyClient Helper.exe",
+            "resource": "GalaxyClient/45078485/windows/GalaxyClient Helper.exe.zip",
+            "size": 349208
+        },
+        {
+            "hash": "440d474cd1ea6e3c927eb7ecd77888b7",
+            "path": "GalaxyClient.exe",
+            "resource": "GalaxyClient/45078485/windows/GalaxyClient.exe.zip",
+            "size": 1909988
+        },
+        {
+            "hash": "27f16f63d8c1f6a2deaf7c357159db8b",
+            "path": "GalaxyClientService.exe",
+            "resource": "GalaxyClient/45078485/windows/GalaxyClientService.exe.zip",
+            "size": 436880
+        },
+        {
+            "hash": "450553ebd50160a48c3822ba08cf4c0f",
+            "path": "icudt.dll",
+            "resource": "GalaxyClient/45078485/windows/icudt.dll.zip",
+            "size": 4131872
+        },
+        {
+            "hash": "7b941ba74664c67e822c1902a2982acf",
+            "path": "icudt52.dll",
+            "resource": "GalaxyClient/45078485/windows/icudt52.dll.zip",
+            "size": 206742
+        },
+        {
+            "hash": "d60b239a94313b099a3ba7695f482ca0",
+            "path": "icuin52.dll",
+            "resource": "GalaxyClient/45078485/windows/icuin52.dll.zip",
+            "size": 662848
+        },
+        {
+            "hash": "ebd4a4818f6ce7c3fffa299264ae44c7",
+            "path": "icuuc52.dll",
+            "resource": "GalaxyClient/45078485/windows/icuuc52.dll.zip",
+            "size": 488181
+        },
+        {
+            "hash": "b8fac97163aa213d4290d8ea8ead8569",
+            "path": "libcef.dll",
+            "resource": "GalaxyClient/45078485/windows/libcef.dll.zip",
+            "size": 17957481
+        },
+        {
+            "hash": "238eaf5cfca4823e3c29937dddb9104f",
+            "path": "libeay32.dll",
+            "resource": "GalaxyClient/45078485/windows/libeay32.dll.zip",
+            "size": 539260
+        },
+        {
+            "hash": "429c6847ee3498831b09d66707289152",
+            "path": "libEGL.dll",
+            "resource": "GalaxyClient/45078485/windows/libEGL.dll.zip",
+            "size": 47189
+        },
+        {
+            "hash": "eb1aaa98a5513b33c3874b7113ddf4db",
+            "path": "libGLESv2.dll",
+            "resource": "GalaxyClient/45078485/windows/libGLESv2.dll.zip",
+            "size": 405156
+        },
+        {
+            "hash": "6675bd82374e328c91e0fb5063d54c42",
+            "path": "pcre.dll",
+            "resource": "GalaxyClient/45078485/windows/pcre.dll.zip",
+            "size": 122857
+        },
+        {
+            "hash": "e636c5621ba8ed4acf5248904aa52cb8",
+            "path": "PocoCrypto.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoCrypto.dll.zip",
+            "size": 45324
+        },
+        {
+            "hash": "bc75d3ad8a545eaa77a5808f5db250b2",
+            "path": "PocoData.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoData.dll.zip",
+            "size": 499068
+        },
+        {
+            "hash": "f9003f08e2dc67e13edfe55df42c6561",
+            "path": "PocoDataSQLite.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoDataSQLite.dll.zip",
+            "size": 109901
+        },
+        {
+            "hash": "30a4cbf79d14597a49faea448b23c33a",
+            "path": "PocoFoundation.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoFoundation.dll.zip",
+            "size": 467728
+        },
+        {
+            "hash": "c6e81fb17c1695ad184273c20e484966",
+            "path": "PocoJSON.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoJSON.dll.zip",
+            "size": 112100
+        },
+        {
+            "hash": "323b0a8842e4fbabdca1f4dbf0bd63eb",
+            "path": "PocoNet.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoNet.dll.zip",
+            "size": 324259
+        },
+        {
+            "hash": "3cf5d033819bf847ca43d94280ff0cbf",
+            "path": "PocoNetSSL.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoNetSSL.dll.zip",
+            "size": 85219
+        },
+        {
+            "hash": "cc12cdca7a16868eeb38993c45950090",
+            "path": "PocoUtil.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoUtil.dll.zip",
+            "size": 147427
+        },
+        {
+            "hash": "a6ddf931b675add67483f06c2b266e06",
+            "path": "PocoXml.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoXml.dll.zip",
+            "size": 132081
+        },
+        {
+            "hash": "b0eaf65b2c5cdfbd49037bb73113d6ad",
+            "path": "PocoZip.dll",
+            "resource": "GalaxyClient/45078485/windows/PocoZip.dll.zip",
+            "size": 89650
+        },
+        {
+            "hash": "c83993f6c7887f9242939dc5cf8b0da9",
+            "path": "Qt5Core.dll",
+            "resource": "GalaxyClient/45078485/windows/Qt5Core.dll.zip",
+            "size": 1685221
+        },
+        {
+            "hash": "b6726eca5177899f6e3ef7eb5105f481",
+            "path": "Qt5Gui.dll",
+            "resource": "GalaxyClient/45078485/windows/Qt5Gui.dll.zip",
+            "size": 1461413
+        },
+        {
+            "hash": "1da0faed0ff715ebcf417899cbc82ed4",
+            "path": "Qt5Network.dll",
+            "resource": "GalaxyClient/45078485/windows/Qt5Network.dll.zip",
+            "size": 332875
+        },
+        {
+            "hash": "aad2fc75a3a3ffb2caa67a9f40e93bcc",
+            "path": "Qt5Svg.dll",
+            "resource": "GalaxyClient/45078485/windows/Qt5Svg.dll.zip",
+            "size": 84053
+        },
+        {
+            "hash": "acdd568d351355885658db5092348a83",
+            "path": "Qt5Widgets.dll",
+            "resource": "GalaxyClient/45078485/windows/Qt5Widgets.dll.zip",
+            "size": 1907632
+        },
+        {
+            "hash": "aefcca56b2b00fc00a2bc0a3f5985e24",
+            "path": "quazip.dll",
+            "resource": "GalaxyClient/45078485/windows/quazip.dll.zip",
+            "size": 55007
+        },
+        {
+            "hash": "480e977fc7d98fd6ea58e81de4fae73e",
+            "path": "rootCA.pem",
+            "resource": "GalaxyClient/45078485/windows/rootCA.pem.zip",
+            "size": 172617
+        },
+        {
+            "hash": "876b16986cc3967315ba4bc91925ef91",
+            "path": "sqlite.dll",
+            "resource": "GalaxyClient/45078485/windows/sqlite.dll.zip",
+            "size": 307359
+        },
+        {
+            "hash": "873fc5b43d61aee6ee0dad47c2f47209",
+            "path": "ssleay32.dll",
+            "resource": "GalaxyClient/45078485/windows/ssleay32.dll.zip",
+            "size": 117934
+        },
+        {
+            "hash": "8ad590d97da5ef41b71df4efc8c44118",
+            "path": "unins000.dat",
+            "resource": "GalaxyClient/45078485/windows/unins000.dat.zip",
+            "size": 6841
+        },
+        {
+            "hash": "6072498f369c18aad594ce7d854498b8",
+            "path": "unins000.exe",
+            "resource": "GalaxyClient/45078485/windows/unins000.exe.zip",
+            "size": 580449
+        },
+        {
+            "hash": "640d14c72234f77aec4d2abf4dc729d9",
+            "path": "zlib.dll",
+            "resource": "GalaxyClient/45078485/windows/zlib.dll.zip",
+            "size": 38760
+        },
+        {
+            "hash": "b8a9e91134e7c89440a0f95470d5e47b",
+            "path": "zlib1.dll",
+            "resource": "GalaxyClient/45078485/windows/zlib1.dll.zip",
+            "size": 59201
+        },
+        {
+            "hash": "9272805e1fd05ce0828be7a856ac04cf",
+            "path": "imageformats/qjpeg.dll",
+            "resource": "GalaxyClient/45078485/windows/imageformats/qjpeg.dll.zip",
+            "size": 109628
+        },
+        {
+            "hash": "18ba99b07536017ed8b87cb4f77aee1c",
+            "path": "locales/de.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/de.pak.zip",
+            "size": 3653
+        },
+        {
+            "hash": "2a92f4fc905c2743129ccbcdf80d443a",
+            "path": "locales/en-GB.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/en-GB.pak.zip",
+            "size": 3356
+        },
+        {
+            "hash": "7dc755262eb4ba15fd0f2bd986801f13",
+            "path": "locales/en-us.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/en-us.pak.zip",
+            "size": 3352
+        },
+        {
+            "hash": "7ae1d455a0a892773d399306de354d2d",
+            "path": "locales/es.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/es.pak.zip",
+            "size": 3698
+        },
+        {
+            "hash": "bac6c149685b4b84617ca8c8c39306b7",
+            "path": "locales/fr.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/fr.pak.zip",
+            "size": 3742
+        },
+        {
+            "hash": "21ab6501f6d0c8d3e73b4921ce1b0086",
+            "path": "locales/ja.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/ja.pak.zip",
+            "size": 3748
+        },
+        {
+            "hash": "14de2b7637dd2b260184c6ec85976091",
+            "path": "locales/pl.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/pl.pak.zip",
+            "size": 3740
+        },
+        {
+            "hash": "d0542b9b325ea58be590d021aeb7333d",
+            "path": "locales/pt-BR.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/pt-BR.pak.zip",
+            "size": 3592
+        },
+        {
+            "hash": "731a9c54bd2331f411a5a2976d1f3622",
+            "path": "locales/pt-PT.pak",
+            "resource": "GalaxyClient/45078485/windows/locales/pt-PT.pak.zip",
+            "size": 3597
+        },
+        {
+            "hash": "f561b6937e811962c5753cb71b44dbf8",
+            "path": "platforms/qwindows.dll",
+            "resource": "GalaxyClient/45078485/windows/platforms/qwindows.dll.zip",
+            "size": 417607
+        },
+        {
+            "hash": "6687e41f6c4d31c468dbdffa84d79d05",
+            "path": "web/common.js",
+            "resource": "GalaxyClient/45078485/windows/web/common.js.zip",
+            "size": 480
+        },
+        {
+            "hash": "13b15219c5f3a3e7bb2625dc37b7d3f4",
+            "path": "web/eula",
+            "resource": "GalaxyClient/45078485/windows/web/eula.zip",
+            "size": 989
+        },
+        {
+            "hash": "d71b41ebc3628de99c31783f8625cac1",
+            "path": "web/external-window.html",
+            "resource": "GalaxyClient/45078485/windows/web/external-window.html.zip",
+            "size": 614
+        },
+        {
+            "hash": "77c2253166a31fd3029c2e2bd21c432a",
+            "path": "web/friendsPage.js",
+            "resource": "GalaxyClient/45078485/windows/web/friendsPage.js.zip",
+            "size": 534
+        },
+        {
+            "hash": "97e195c59e41c127f7a6bdf4073d95ec",
+            "path": "web/index.html",
+            "resource": "GalaxyClient/45078485/windows/web/index.html.zip",
+            "size": 18304
+        },
+        {
+            "hash": "5c1fbe5525326eeffd3254cb7adaf2c5",
+            "path": "web/mainPage.js",
+            "resource": "GalaxyClient/45078485/windows/web/mainPage.js.zip",
+            "size": 1855
+        },
+        {
+            "hash": "f03e70fb7b2dac35ae6c1a0c0f3122fc",
+            "path": "web/css/d0b75d3.css",
+            "resource": "GalaxyClient/45078485/windows/web/css/d0b75d3.css.zip",
+            "size": 1633456
+        },
+        {
+            "hash": "3e478b83d6a87ccc9c6be09ec0d45385",
+            "path": "web/galaxyProtocols/galaxy_webbroker_service/galaxy_webbroker_service.proto",
+            "resource": "GalaxyClient/45078485/windows/web/galaxyProtocols/galaxy_webbroker_service/galaxy_webbroker_service.proto.zip",
+            "size": 452
+        },
+        {
+            "hash": "3ca0c5cbad15942614b0e695e9e095f0",
+            "path": "web/galaxyProtocols/gog_pb/gog_pb.proto",
+            "resource": "GalaxyClient/45078485/windows/web/galaxyProtocols/gog_pb/gog_pb.proto.zip",
+            "size": 873
+        },
+        {
+            "hash": "47f6c1ddd77bc3b9df31feed286f58c0",
+            "path": "web/js/2ec65a8.js",
+            "resource": "GalaxyClient/45078485/windows/web/js/2ec65a8.js.zip",
+            "size": 529652
+        },
+        {
+            "hash": "b15609af1b9cc4e8db6629a63ca166c3",
+            "path": "web/js/c2cb6c3.js",
+            "resource": "GalaxyClient/45078485/windows/web/js/c2cb6c3.js.zip",
+            "size": 419363
+        },
+        {
+            "hash": "3f2f526c9d8f56f427660afa3f652269",
+            "path": "web/locales/de/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/de/general.json.zip",
+            "size": 4968
+        },
+        {
+            "hash": "6604de04fe862911892395afcaf523b8",
+            "path": "web/locales/en/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/en/general.json.zip",
+            "size": 4357
+        },
+        {
+            "hash": "9a41583ff6734aade7060d17737bc4b2",
+            "path": "web/locales/es/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/es/general.json.zip",
+            "size": 4630
+        },
+        {
+            "hash": "2c151136a16916c9288c054bab3d6de2",
+            "path": "web/locales/es-MX/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/es-MX/general.json.zip",
+            "size": 1709
+        },
+        {
+            "hash": "259e1229e8f436d0f881db7f36bb9c3f",
+            "path": "web/locales/fr/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/fr/general.json.zip",
+            "size": 4972
+        },
+        {
+            "hash": "d90e5e7ced7526c56802acae054d84d5",
+            "path": "web/locales/pl/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/pl/general.json.zip",
+            "size": 4598
+        },
+        {
+            "hash": "8156309b406aa73e1bd82b5e1b3f28d9",
+            "path": "web/locales/pt/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/pt/general.json.zip",
+            "size": 4626
+        },
+        {
+            "hash": "2c151136a16916c9288c054bab3d6de2",
+            "path": "web/locales/pt-BR/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/pt-BR/general.json.zip",
+            "size": 1709
+        },
+        {
+            "hash": "8cdcd5237f22d04242ba574482f6b8c4",
+            "path": "web/locales/ru/general.json",
+            "resource": "GalaxyClient/45078485/windows/web/locales/ru/general.json.zip",
+            "size": 5695
+        }
+    ],
+    "symlinks": [],
+    "version": "1.0.7.2022"
+}

@@ -1,0 +1,19 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "6cead6691c13226eb47d5b4a70b5e4fa",
+            "path": "libGalaxyPeer.dylib",
+            "resource": "GalaxyPeer/64514134/osx/libGalaxyPeer.dylib.zip",
+            "size": 5925625
+        },
+        {
+            "hash": "6cead6691c13226eb47d5b4a70b5e4fa",
+            "path": "libGalaxyPeer64.dylib",
+            "resource": "GalaxyPeer/64514134/osx/libGalaxyPeer64.dylib.zip",
+            "size": 5925629
+        }
+    ],
+    "symlinks": [],
+    "version": "0.0.0.580"
+}

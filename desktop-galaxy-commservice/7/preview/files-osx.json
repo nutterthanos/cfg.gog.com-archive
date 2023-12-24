@@ -1,0 +1,29 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "exists": true,
+            "hash": "46299882ec548a611db2d5844d30f143",
+            "path": "com.gog.galaxy.commservice.plist",
+            "resource": "GalaxyCommunicationService/165342846/osx/com.gog.galaxy.commservice.plist.zip",
+            "sha256": "5f5ea507129c9534792ea22cf358a9310c0e66ee3d8d163b021bc0c7b7ccc533",
+            "size": 472,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "9bf43d3a4b7c6db04a503967f2342a2f",
+            "path": "GalaxyCommunication",
+            "resource": "GalaxyCommunicationService/296746721/osx/GalaxyCommunication.zip",
+            "sha256": "8f846964c861510f5de220d52c62f4924851677b1e105ea3b596e07352642a45",
+            "size": 4980947,
+            "unsignedHash": "a7abcc22563c822d740d90d3c0660eb2"
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyCommunicationService",
+    "symlinks": [],
+    "timestamp": "296746721",
+    "version": "2.0.10.91"
+}

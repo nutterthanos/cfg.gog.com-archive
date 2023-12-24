@@ -1,0 +1,67 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "hash": "bf947dd152df59b3b21ea8056327f9e7",
+            "path": "peer/msvc-15/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-15/GalaxyPeer.dll.zip",
+            "sha256": "7f45da8e74d5676a88cf09e5ee18064ccca7fa6e8eb6795d3f25b175e687936a",
+            "size": 3029639
+        },
+        {
+            "hash": "e48a03a3c6c99d786f5c7fd2c0997de4",
+            "path": "peer/msvc-15/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-15/GalaxyPeer64.dll.zip",
+            "sha256": "6c5d3e4a86236bec19a2af792307c401020abe7d13324251d0a66471baf80639",
+            "size": 4390273
+        },
+        {
+            "hash": "3737ac10c1f2d8d8ae1f85f3e965aed5",
+            "path": "peer/msvc-16/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-16/GalaxyPeer.dll.zip",
+            "sha256": "88b9e08b2dc2bb4716a662cb156f03c4afbdb58fed0a4dba10c09481200d64ff",
+            "size": 3072167
+        },
+        {
+            "hash": "cecf9fbc6f2e16e55eca2cf7719eba67",
+            "path": "peer/msvc-16/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-16/GalaxyPeer64.dll.zip",
+            "sha256": "ce868629137a38a76a5d0210f5305921250548e1405f8c52645e671be26ce724",
+            "size": 4086861
+        },
+        {
+            "hash": "8c6e7e2ac17cf32522ded3091a61a921",
+            "path": "peer/msvc-17/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-17/GalaxyPeer.dll.zip",
+            "sha256": "be7a5fdb54c4e29e03d39a7ffc2a101734bbee9798de999417b3497c934fe6f9",
+            "size": 3019237
+        },
+        {
+            "hash": "d5940b8484c648d980136e4a4d1d91d6",
+            "path": "peer/msvc-17/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-17/GalaxyPeer64.dll.zip",
+            "sha256": "c0dc94e971afb383d0b8f6aea72a97ab585a176af1323df6de992b07ba530c86",
+            "size": 4090894
+        },
+        {
+            "hash": "4cdd6f4c5bf9df96fd41d54264740c5f",
+            "path": "peer/msvc-18/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-18/GalaxyPeer.dll.zip",
+            "sha256": "76a966a9165772734a89d8043aed41d73950f04d69d9bfd4ed3aef5227a3d91d",
+            "size": 2985966
+        },
+        {
+            "hash": "42003330fb3100d7597544b465211e9f",
+            "path": "peer/msvc-18/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/145625863/windows/peer/msvc-18/GalaxyPeer64.dll.zip",
+            "sha256": "e3526b29caad722468081a9c2d04f918db046b155a17baf797d562b950ee3713",
+            "size": 4046641
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyPeer",
+    "symlinks": [],
+    "timestamp": "145625863",
+    "version": "1.2.33.1"
+}

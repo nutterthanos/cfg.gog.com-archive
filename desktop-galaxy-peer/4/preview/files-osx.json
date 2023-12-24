@@ -1,0 +1,22 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://galaxy-client-update.gog.com",
+    "files": [
+        {
+            "hash": "2b219b29e9923d2ff551df1f2f8620f5",
+            "path": "libGalaxyPeer.dylib",
+            "resource": "GalaxyPeer/116678154/osx/libGalaxyPeer.dylib.zip",
+            "size": 9394427
+        },
+        {
+            "hash": "1dc451edd24d586d6784537cee35ddb0",
+            "path": "libGalaxyPeer64.dylib",
+            "resource": "GalaxyPeer/116678154/osx/libGalaxyPeer64.dylib.zip",
+            "size": 9394392
+        }
+    ],
+    "projectName": "GalaxyPeer",
+    "symlinks": [],
+    "timestamp": "116678154",
+    "version": "1.2.27.1"
+}

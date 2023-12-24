@@ -1,0 +1,19 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "46299882ec548a611db2d5844d30f143",
+            "path": "com.gog.galaxy.commservice.plist",
+            "resource": "GalaxyCommunicationService/64512366/osx/com.gog.galaxy.commservice.plist.zip",
+            "size": 524
+        },
+        {
+            "hash": "ae64149b08fb8e256ff88da2cbcc3e9d",
+            "path": "GalaxyCommunication",
+            "resource": "GalaxyCommunicationService/64512366/osx/GalaxyCommunication.zip",
+            "size": 3107754
+        }
+    ],
+    "symlinks": [],
+    "version": "1.1.7.6"
+}

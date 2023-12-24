@@ -1,0 +1,25 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "hash": "68972e8a2e23f6d235d13cb336136b44",
+            "path": "libGalaxyPeer.dylib",
+            "resource": "GalaxyPeer/145567659/osx/libGalaxyPeer.dylib.zip",
+            "sha256": "ed55f823c7f959f04499111822d9f22d36c9776291853ba4546e6826abf972b8",
+            "size": 9164676
+        },
+        {
+            "hash": "6d62598bce78aa39736b96f55076bf27",
+            "path": "libGalaxyPeer64.dylib",
+            "resource": "GalaxyPeer/145567659/osx/libGalaxyPeer64.dylib.zip",
+            "sha256": "93bb34ed3b4c33b099660a907bd4e1c4ba07ac779ded2b340d52d79ee2dab7cd",
+            "size": 9164668
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyPeer",
+    "symlinks": [],
+    "timestamp": "145567659",
+    "version": "1.2.33.1"
+}

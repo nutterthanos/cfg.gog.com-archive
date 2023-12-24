@@ -1,0 +1,133 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "3a68c8c9e3df1269f76ef7d765f915ed",
+            "path": "GalaxyUpdater.app/Contents/Info.plist",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Info.plist.zip",
+            "size": 789
+        },
+        {
+            "hash": "1a124faba857fbecec9fbb069fc56972",
+            "path": "GalaxyUpdater.app/Contents/PkgInfo",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "b4ccdb6e40ca8fa574594b34bcff0b1f",
+            "path": "GalaxyUpdater.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/_CodeSignature/CodeResources.zip",
+            "size": 1466
+        },
+        {
+            "hash": "23b0e7ed736001c7fc58d8c7152f377a",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libcrypto.1.0.0.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libcrypto.1.0.0.dylib.zip",
+            "size": 734886
+        },
+        {
+            "hash": "e214c17760e794ec991898d322c8ea72",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libexpat.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libexpat.dylib.zip",
+            "size": 69606
+        },
+        {
+            "hash": "36531b57859cc3addc050278bafd3e25",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libpcre.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libpcre.dylib.zip",
+            "size": 196635
+        },
+        {
+            "hash": "0bac08e40bfb880a4cdf91f7de700015",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoCrypto.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoCrypto.31.dylib.zip",
+            "size": 56885
+        },
+        {
+            "hash": "3af66def3aefb60431e1e45e5e8a384e",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoFoundation.1.6.1.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoFoundation.1.6.1.dylib.zip",
+            "size": 552277
+        },
+        {
+            "hash": "fa16c81b92463ef8cb4769e5c06a9569",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoJSON.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoJSON.31.dylib.zip",
+            "size": 104032
+        },
+        {
+            "hash": "410ea5fe713ef4445485195bef22c4ed",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoNet.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNet.31.dylib.zip",
+            "size": 385991
+        },
+        {
+            "hash": "8ef0bfd1c8a7341ae5c1de410fa9ee7b",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoNetSSL.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNetSSL.31.dylib.zip",
+            "size": 91730
+        },
+        {
+            "hash": "464094f1007718cb2200f3d553649f10",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoUtil.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoUtil.31.dylib.zip",
+            "size": 150423
+        },
+        {
+            "hash": "e78e155f6c88afbbec174e28e27adc54",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoXML.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoXML.31.dylib.zip",
+            "size": 149043
+        },
+        {
+            "hash": "2bd25b32659415639649a8a43ab9e8c9",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoZip.31.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoZip.31.dylib.zip",
+            "size": 87219
+        },
+        {
+            "hash": "639cb5c7a516337ff8345d250ba949db",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libssl.1.0.0.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libssl.1.0.0.dylib.zip",
+            "size": 160271
+        },
+        {
+            "hash": "82d97f09b82a3b461a00021a018326e9",
+            "path": "GalaxyUpdater.app/Contents/Frameworks/libz.1.2.8.dylib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Frameworks/libz.1.2.8.dylib.zip",
+            "size": 53669
+        },
+        {
+            "hash": "b406096af3c71baff353504b6ccae993",
+            "path": "GalaxyUpdater.app/Contents/MacOS/GalaxyUpdater",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/MacOS/GalaxyUpdater.zip",
+            "size": 592276
+        },
+        {
+            "hash": "27278397b755b2bd8b8ffb62332379b9",
+            "path": "GalaxyUpdater.app/Contents/Resources/ErrorMessageWindow.nib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Resources/ErrorMessageWindow.nib.zip",
+            "size": 4273
+        },
+        {
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "GalaxyUpdater.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Resources/Galaxy.icns.zip",
+            "size": 1055751
+        },
+        {
+            "hash": "4ef2165d5578d99f1d933f42139a7a39",
+            "path": "GalaxyUpdater.app/Contents/Resources/rootCA.pem",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Resources/rootCA.pem.zip",
+            "size": 170171
+        },
+        {
+            "hash": "fea394c191e9203ea19d65b066dc0f90",
+            "path": "GalaxyUpdater.app/Contents/Resources/Updater.nib",
+            "resource": "GalaxyUpdater/64927495/osx/GalaxyUpdater.app/Contents/Resources/Updater.nib.zip",
+            "size": 4722
+        }
+    ],
+    "symlinks": [],
+    "version": "1.1.7.18"
+}

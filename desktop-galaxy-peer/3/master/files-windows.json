@@ -1,0 +1,43 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "df29b74eed93f60be1a57606c7f5258c",
+            "path": "peer/msvc-15/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-15/GalaxyPeer.dll.zip",
+            "size": 1917356
+        },
+        {
+            "hash": "fffa00342c676b3d927bace3cd2a3119",
+            "path": "peer/msvc-15/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-15/GalaxyPeer64.dll.zip",
+            "size": 2637619
+        },
+        {
+            "hash": "a98135a6d29b2b87b4124a02cdb8a592",
+            "path": "peer/msvc-16/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-16/GalaxyPeer.dll.zip",
+            "size": 2026466
+        },
+        {
+            "hash": "48fb4c70fbbcde0c8f6c1031393125c4",
+            "path": "peer/msvc-16/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-16/GalaxyPeer64.dll.zip",
+            "size": 2501265
+        },
+        {
+            "hash": "147e797d895934ef66962e0d136eff5c",
+            "path": "peer/msvc-17/GalaxyPeer.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-17/GalaxyPeer.dll.zip",
+            "size": 1973591
+        },
+        {
+            "hash": "8c969092639f7378e2249ba3a3da8008",
+            "path": "peer/msvc-17/GalaxyPeer64.dll",
+            "resource": "GalaxyPeer/64514091/windows/peer/msvc-17/GalaxyPeer64.dll.zip",
+            "size": 2523831
+        }
+    ],
+    "symlinks": [],
+    "version": "0.0.0.608"
+}

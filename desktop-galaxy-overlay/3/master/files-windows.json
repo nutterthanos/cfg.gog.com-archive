@@ -1,0 +1,445 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "31904a8dbb5ccd071b335127e462672c",
+            "path": "overlay/cef.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/cef.pak.zip",
+            "size": 647557
+        },
+        {
+            "hash": "1c9b45e87528b8bb8cfa884ea0099a85",
+            "path": "overlay/d3dcompiler_43.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/d3dcompiler_43.dll.zip",
+            "size": 903654
+        },
+        {
+            "hash": "75895a5668a43f7b8d3cf1f57e937bbe",
+            "path": "overlay/d3dcompiler_46.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/d3dcompiler_46.dll.zip",
+            "size": 1343878
+        },
+        {
+            "hash": "0446594ce7cfaa0bdabc735dda32b657",
+            "path": "overlay/ffmpegsumo.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/ffmpegsumo.dll.zip",
+            "size": 450090
+        },
+        {
+            "hash": "be4e054f3afe37bf3949e485bf4d2e22",
+            "path": "overlay/GalaxyOverlay.exe",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/GalaxyOverlay.exe.zip",
+            "size": 1405576
+        },
+        {
+            "hash": "450553ebd50160a48c3822ba08cf4c0f",
+            "path": "overlay/icudt.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/icudt.dll.zip",
+            "size": 4131872
+        },
+        {
+            "hash": "e78cded7a7769987c52d18340f7028b4",
+            "path": "overlay/libcef.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/libcef.dll.zip",
+            "size": 17377037
+        },
+        {
+            "hash": "2d6715e95541b2ce4c5230d00e93ebf9",
+            "path": "overlay/libEGL.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/libEGL.dll.zip",
+            "size": 65953
+        },
+        {
+            "hash": "06c9a78be50ad2d9ca19880c52e0eabf",
+            "path": "overlay/libGLESv2.dll",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/libGLESv2.dll.zip",
+            "size": 406964
+        },
+        {
+            "hash": "52086e80c658540a081940925e1defda",
+            "path": "overlay/frontend/index.html",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/index.html.zip",
+            "size": 1594
+        },
+        {
+            "hash": "8ceae905cf310e6dffc30b1accf9f8ff",
+            "path": "overlay/frontend/public/fonts/LatoWeb-Light.ttf",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/fonts/LatoWeb-Light.ttf.zip",
+            "size": 304702
+        },
+        {
+            "hash": "5d14391995929c6799688d83c870794a",
+            "path": "overlay/frontend/public/fonts/LatoWeb-Regular.ttf",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/fonts/LatoWeb-Regular.ttf.zip",
+            "size": 307868
+        },
+        {
+            "hash": "9b24cccae80a98e96ad6f558a98478eb",
+            "path": "overlay/frontend/public/fonts/LatoWeb-Semibold.ttf",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/fonts/LatoWeb-Semibold.ttf.zip",
+            "size": 311508
+        },
+        {
+            "hash": "c680f37ff1ea06339ef39fb829ef9ae7",
+            "path": "overlay/frontend/public/images/gog-logo-1x.png",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/images/gog-logo-1x.png.zip",
+            "size": 10686
+        },
+        {
+            "hash": "d21c568864853c72e567f0602c22d9fb",
+            "path": "overlay/frontend/public/images/gog-logo-2x.png",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/images/gog-logo-2x.png.zip",
+            "size": 27637
+        },
+        {
+            "hash": "53a291e12b699d0bba000de64bf9622c",
+            "path": "overlay/frontend/public/scripts/overlay/common.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/common.js.zip",
+            "size": 338
+        },
+        {
+            "hash": "bb51d43abf037c2093e16b996ff99979",
+            "path": "overlay/frontend/public/scripts/overlay/iframeMessanger.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/iframeMessanger.js.zip",
+            "size": 1012
+        },
+        {
+            "hash": "7f3699708821f0c143242c69f6f8a314",
+            "path": "overlay/frontend/public/scripts/overlay/iframeMessenger.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/iframeMessenger.js.zip",
+            "size": 984
+        },
+        {
+            "hash": "5d6ae11a7c3faf9168d976081cb907ce",
+            "path": "overlay/frontend/public/scripts/overlay/overlayApp.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/overlayApp.js.zip",
+            "size": 427
+        },
+        {
+            "hash": "34208c306303fd2c501c70913a9bd87e",
+            "path": "overlay/frontend/public/scripts/overlay/overlayIframeMessenger.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/overlayIframeMessenger.js.zip",
+            "size": 215
+        },
+        {
+            "hash": "208a698de6a0f76e6d93c7ffdf74ef76",
+            "path": "overlay/frontend/public/scripts/overlay/wrapper.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/wrapper.js.zip",
+            "size": 308
+        },
+        {
+            "hash": "cab97fb7832531b90a8b1f005bb5514f",
+            "path": "overlay/frontend/public/scripts/overlay/constants/baseConst.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/constants/baseConst.js.zip",
+            "size": 360
+        },
+        {
+            "hash": "1a66122c9a71c2e7cd7d968b00fcbb8c",
+            "path": "overlay/frontend/public/scripts/overlay/constants/eventsConst.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/constants/eventsConst.js.zip",
+            "size": 457
+        },
+        {
+            "hash": "2531eb9e3ec27a4c30b6324cdf230ca9",
+            "path": "overlay/frontend/public/scripts/overlay/constants/testConst.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/constants/testConst.js.zip",
+            "size": 349
+        },
+        {
+            "hash": "5f97bb146e918e9a71594a4ad162ebce",
+            "path": "overlay/frontend/public/scripts/overlay/controllers/mainCtrl.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/controllers/mainCtrl.js.zip",
+            "size": 470
+        },
+        {
+            "hash": "4a55d0c537ab0285c570a8351eaaa999",
+            "path": "overlay/frontend/public/scripts/overlay/controllers/viewsCtrl.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/controllers/viewsCtrl.js.zip",
+            "size": 540
+        },
+        {
+            "hash": "2b2c8b54614665bef47a3dd3c53bad04",
+            "path": "overlay/frontend/public/scripts/overlay/directives/galaxyClick.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/directives/galaxyClick.js.zip",
+            "size": 1123
+        },
+        {
+            "hash": "8e2510f92230d4c2e65554145ed50123",
+            "path": "overlay/frontend/public/scripts/overlay/directives/overlayNotification.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/directives/overlayNotification.js.zip",
+            "size": 447
+        },
+        {
+            "hash": "066e42025c9f8dba49d783b2da991879",
+            "path": "overlay/frontend/public/scripts/overlay/models/notification.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notification.js.zip",
+            "size": 423
+        },
+        {
+            "hash": "52bf3e9e8b5d7bb4135ff78ccdc2dd59",
+            "path": "overlay/frontend/public/scripts/overlay/models/view.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/view.js.zip",
+            "size": 513
+        },
+        {
+            "hash": "870b901a5b7b64029eb43176a5b855e2",
+            "path": "overlay/frontend/public/scripts/overlay/models/notifications/achievement.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notifications/achievement.js.zip",
+            "size": 579
+        },
+        {
+            "hash": "d1636c63df7290b5dc709ceaa5798522",
+            "path": "overlay/frontend/public/scripts/overlay/models/notifications/base.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notifications/base.js.zip",
+            "size": 420
+        },
+        {
+            "hash": "54340b2c9c2dd1cbd469d34eeb963e09",
+            "path": "overlay/frontend/public/scripts/overlay/models/notifications/chatMessage.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notifications/chatMessage.js.zip",
+            "size": 507
+        },
+        {
+            "hash": "abf7d65621755c7bbc546b9ca748abae",
+            "path": "overlay/frontend/public/scripts/overlay/models/notifications/gameInvite.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notifications/gameInvite.js.zip",
+            "size": 521
+        },
+        {
+            "hash": "41cf3e41a6452036371df3abba8fbdf3",
+            "path": "overlay/frontend/public/scripts/overlay/models/notifications/simple.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/models/notifications/simple.js.zip",
+            "size": 522
+        },
+        {
+            "hash": "19ca96d6e29a1dec144bdf9ec7e7ca83",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/notificationsCtrl.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/notificationsCtrl.js.zip",
+            "size": 845
+        },
+        {
+            "hash": "74633c3de66f1389a7a35af2be459d2a",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/notificationsMngr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/notificationsMngr.js.zip",
+            "size": 896
+        },
+        {
+            "hash": "01e4b08a261a63c1a1589db7abea73a5",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/overlayNotification.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/overlayNotification.js.zip",
+            "size": 517
+        },
+        {
+            "hash": "bcb4fc80db0b45d11bbb702a98f1b251",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/models/achievement.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/models/achievement.js.zip",
+            "size": 577
+        },
+        {
+            "hash": "d1636c63df7290b5dc709ceaa5798522",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/models/base.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/models/base.js.zip",
+            "size": 420
+        },
+        {
+            "hash": "37212f457faca6a8fbf3482089cd641f",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/models/chatMessage.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/models/chatMessage.js.zip",
+            "size": 507
+        },
+        {
+            "hash": "a16c6ce6e6c3fe5dba72ec71639020be",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/models/gameInvite.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/models/gameInvite.js.zip",
+            "size": 523
+        },
+        {
+            "hash": "089094cda557d7bc22a225e30514c41d",
+            "path": "overlay/frontend/public/scripts/overlay/notifications/models/simple.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/notifications/models/simple.js.zip",
+            "size": 487
+        },
+        {
+            "hash": "5c91c5e2e3d1a44a12dacf4129bc9a1d",
+            "path": "overlay/frontend/public/scripts/overlay/services/eventDispatcher.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/eventDispatcher.js.zip",
+            "size": 661
+        },
+        {
+            "hash": "7be5dfd4dc3371e045d4e34f400d1fce",
+            "path": "overlay/frontend/public/scripts/overlay/services/galaxyOverlay.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/galaxyOverlay.js.zip",
+            "size": 649
+        },
+        {
+            "hash": "836be1747bf2d8f8cdbc5f44510e9f30",
+            "path": "overlay/frontend/public/scripts/overlay/services/galaxyOverlayCaller.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/galaxyOverlayCaller.js.zip",
+            "size": 606
+        },
+        {
+            "hash": "91d1bb198acd56581f6e9ce2744827af",
+            "path": "overlay/frontend/public/scripts/overlay/services/galaxyOverlayObserver.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/galaxyOverlayObserver.js.zip",
+            "size": 651
+        },
+        {
+            "hash": "47d94fe8b49ae3ce5a5225b84ea93c50",
+            "path": "overlay/frontend/public/scripts/overlay/services/helpers.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/helpers.js.zip",
+            "size": 492
+        },
+        {
+            "hash": "b2b5b241d8f0135445265442655848b0",
+            "path": "overlay/frontend/public/scripts/overlay/services/iFrameMessagesListener.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/iFrameMessagesListener.js.zip",
+            "size": 678
+        },
+        {
+            "hash": "516199d40f175b65f077420f0932a29c",
+            "path": "overlay/frontend/public/scripts/overlay/services/listenersManager.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/listenersManager.js.zip",
+            "size": 1438
+        },
+        {
+            "hash": "cca17873319ff6839dfa3c0b6fb48697",
+            "path": "overlay/frontend/public/scripts/overlay/services/lodash.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/lodash.js.zip",
+            "size": 284
+        },
+        {
+            "hash": "e1e1349470b41716610363732540efed",
+            "path": "overlay/frontend/public/scripts/overlay/services/selfCloseMngr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/selfCloseMngr.js.zip",
+            "size": 764
+        },
+        {
+            "hash": "e0a12e06449a0d0e5a87c3d1aeb9364e",
+            "path": "overlay/frontend/public/scripts/overlay/services/webOverlayMngr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/webOverlayMngr.js.zip",
+            "size": 639
+        },
+        {
+            "hash": "697ba8f4a7cb7e04d7cf2a0e4e21e044",
+            "path": "overlay/frontend/public/scripts/overlay/services/helpers/viewsHlpr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/helpers/viewsHlpr.js.zip",
+            "size": 774
+        },
+        {
+            "hash": "741d40f51f09918ef8a4509a67f0844a",
+            "path": "overlay/frontend/public/scripts/overlay/services/managers/notificationsMngr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/managers/notificationsMngr.js.zip",
+            "size": 551
+        },
+        {
+            "hash": "885fd78677029dbd8d54226552bc8c91",
+            "path": "overlay/frontend/public/scripts/overlay/services/managers/webOverlayMngr.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/managers/webOverlayMngr.js.zip",
+            "size": 451
+        },
+        {
+            "hash": "af2ba45b4ea3a723438900dda98489b6",
+            "path": "overlay/frontend/public/scripts/overlay/services/repositories/notificationsRepo.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/services/repositories/notificationsRepo.js.zip",
+            "size": 611
+        },
+        {
+            "hash": "9b6dd33b6fecd01e5d2ae3f91a5d2b2d",
+            "path": "overlay/frontend/public/scripts/overlay/views/overlayView.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/overlay/views/overlayView.js.zip",
+            "size": 1142
+        },
+        {
+            "hash": "7671552a6bb714e5fa1933a47ff4380b",
+            "path": "overlay/frontend/public/scripts/vendors/angular-animate.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/vendors/angular-animate.js.zip",
+            "size": 20158
+        },
+        {
+            "hash": "455f82d18c1eec51eb1d5e0d595a01e8",
+            "path": "overlay/frontend/public/scripts/vendors/angular.min.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/vendors/angular.min.js.zip",
+            "size": 43968
+        },
+        {
+            "hash": "32015dd42e9582a80a84736f5d9a44d7",
+            "path": "overlay/frontend/public/scripts/vendors/jquery.min.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/vendors/jquery.min.js.zip",
+            "size": 28873
+        },
+        {
+            "hash": "b08f919c86e8808f6b772d73201bc046",
+            "path": "overlay/frontend/public/scripts/vendors/lodash.min.js",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/scripts/vendors/lodash.min.js.zip",
+            "size": 16701
+        },
+        {
+            "hash": "3563df81153432c1bb01f8abcc69ce35",
+            "path": "overlay/frontend/public/styles/main.css",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/styles/main.css.zip",
+            "size": 3638
+        },
+        {
+            "hash": "fafc8078ce755d2eb76a8478b726f422",
+            "path": "overlay/frontend/public/styles/main.css.map",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/frontend/public/styles/main.css.map.zip",
+            "size": 3769
+        },
+        {
+            "hash": "fb8a847ec0d155df6e0e364df6177f0d",
+            "path": "overlay/locales/de.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/de.pak.zip",
+            "size": 3704
+        },
+        {
+            "hash": "efceb48cb183234684b7ef030ec49c41",
+            "path": "overlay/locales/en-GB.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/en-GB.pak.zip",
+            "size": 3394
+        },
+        {
+            "hash": "4954cb7184da213e4ed8feb2ef7e30e9",
+            "path": "overlay/locales/en-us.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/en-us.pak.zip",
+            "size": 3392
+        },
+        {
+            "hash": "58b3dd770a40fe2204dfc4c0a82c9684",
+            "path": "overlay/locales/es.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/es.pak.zip",
+            "size": 3748
+        },
+        {
+            "hash": "42f9a62623003457a705c7ab77e0d3db",
+            "path": "overlay/locales/fr.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/fr.pak.zip",
+            "size": 3792
+        },
+        {
+            "hash": "a8cf81b634f30d774518386851216e9e",
+            "path": "overlay/locales/ja.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/ja.pak.zip",
+            "size": 3813
+        },
+        {
+            "hash": "2047e68bede4ca1fb4e05f14899d106f",
+            "path": "overlay/locales/pl.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/pl.pak.zip",
+            "size": 3788
+        },
+        {
+            "hash": "7034b4f7402a294ebd4aab4eb3a32c7d",
+            "path": "overlay/locales/pt-BR.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/pt-BR.pak.zip",
+            "size": 3645
+        },
+        {
+            "hash": "99a7a6f342531700b236e26b8c29472c",
+            "path": "overlay/locales/pt-PT.pak",
+            "resource": "GalaxyOverlay/60304371/windows/overlay/locales/pt-PT.pak.zip",
+            "size": 3634
+        }
+    ],
+    "symlinks": [],
+    "version": "0.0.0.240"
+}

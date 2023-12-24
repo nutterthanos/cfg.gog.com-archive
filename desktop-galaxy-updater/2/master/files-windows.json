@@ -1,0 +1,97 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "336b9d015ca9512df0278b9287d34525",
+            "path": "expat.dll",
+            "resource": "GalaxyUpdater/45077465/windows/expat.dll.zip",
+            "size": 45444
+        },
+        {
+            "hash": "411196c3c90267e44ed042746ad8cfe6",
+            "path": "GalaxyUpdater.exe",
+            "resource": "GalaxyUpdater/45077465/windows/GalaxyUpdater.exe.zip",
+            "size": 670181
+        },
+        {
+            "hash": "238eaf5cfca4823e3c29937dddb9104f",
+            "path": "libeay32.dll",
+            "resource": "GalaxyUpdater/45077465/windows/libeay32.dll.zip",
+            "size": 539260
+        },
+        {
+            "hash": "6675bd82374e328c91e0fb5063d54c42",
+            "path": "pcre.dll",
+            "resource": "GalaxyUpdater/45077465/windows/pcre.dll.zip",
+            "size": 122857
+        },
+        {
+            "hash": "e636c5621ba8ed4acf5248904aa52cb8",
+            "path": "PocoCrypto.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoCrypto.dll.zip",
+            "size": 45324
+        },
+        {
+            "hash": "30a4cbf79d14597a49faea448b23c33a",
+            "path": "PocoFoundation.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoFoundation.dll.zip",
+            "size": 467728
+        },
+        {
+            "hash": "c6e81fb17c1695ad184273c20e484966",
+            "path": "PocoJSON.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoJSON.dll.zip",
+            "size": 112100
+        },
+        {
+            "hash": "323b0a8842e4fbabdca1f4dbf0bd63eb",
+            "path": "PocoNet.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoNet.dll.zip",
+            "size": 324259
+        },
+        {
+            "hash": "3cf5d033819bf847ca43d94280ff0cbf",
+            "path": "PocoNetSSL.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoNetSSL.dll.zip",
+            "size": 85219
+        },
+        {
+            "hash": "cc12cdca7a16868eeb38993c45950090",
+            "path": "PocoUtil.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoUtil.dll.zip",
+            "size": 147427
+        },
+        {
+            "hash": "a6ddf931b675add67483f06c2b266e06",
+            "path": "PocoXml.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoXml.dll.zip",
+            "size": 132081
+        },
+        {
+            "hash": "b0eaf65b2c5cdfbd49037bb73113d6ad",
+            "path": "PocoZip.dll",
+            "resource": "GalaxyUpdater/45077465/windows/PocoZip.dll.zip",
+            "size": 89650
+        },
+        {
+            "hash": "480e977fc7d98fd6ea58e81de4fae73e",
+            "path": "rootCA.pem",
+            "resource": "GalaxyUpdater/45077465/windows/rootCA.pem.zip",
+            "size": 172617
+        },
+        {
+            "hash": "873fc5b43d61aee6ee0dad47c2f47209",
+            "path": "ssleay32.dll",
+            "resource": "GalaxyUpdater/45077465/windows/ssleay32.dll.zip",
+            "size": 117934
+        },
+        {
+            "hash": "640d14c72234f77aec4d2abf4dc729d9",
+            "path": "zlib.dll",
+            "resource": "GalaxyUpdater/45077465/windows/zlib.dll.zip",
+            "size": 38760
+        }
+    ],
+    "symlinks": [],
+    "version": "1.0.7.2022"
+}

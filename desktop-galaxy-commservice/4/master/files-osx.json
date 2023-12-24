@@ -1,0 +1,22 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://galaxy-client-update.gog.com",
+    "files": [
+        {
+            "hash": "46299882ec548a611db2d5844d30f143",
+            "path": "com.gog.galaxy.commservice.plist",
+            "resource": "GalaxyCommunicationService/118939282/osx/com.gog.galaxy.commservice.plist.zip",
+            "size": 524
+        },
+        {
+            "hash": "7dfb642be749e0436daa5587edb09236",
+            "path": "GalaxyCommunication",
+            "resource": "GalaxyCommunicationService/118939282/osx/GalaxyCommunication.zip",
+            "size": 4341812
+        }
+    ],
+    "projectName": "GalaxyCommunicationService",
+    "symlinks": [],
+    "timestamp": "118939282",
+    "version": "1.2.25.3"
+}

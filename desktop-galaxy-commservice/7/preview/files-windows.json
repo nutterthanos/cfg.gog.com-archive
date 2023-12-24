@@ -1,0 +1,20 @@
+{
+    "applicationType": "GogGalaxy",
+    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
+    "files": [
+        {
+            "exists": true,
+            "hash": "e424558e967e42846199dfe36e2afe7f",
+            "path": "GalaxyCommunication.exe",
+            "resource": "GalaxyCommunicationService/296746730/windows/GalaxyCommunication.exe.zip",
+            "sha256": "b893c0583b627aba4e85abaec96f37e690d05b3e7d499f899fbe246c9fa1f2ec",
+            "size": 3157650,
+            "unsignedHash": "15ed0460f6450b0209f3e28698acc976"
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyCommunicationService",
+    "symlinks": [],
+    "timestamp": "296746730",
+    "version": "2.0.10.91"
+}

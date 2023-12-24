@@ -1,0 +1,13 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "a785687c7457771995289627493ef93c",
+            "path": "GalaxyCommunication.exe",
+            "resource": "GalaxyCommunicationService/45077624/windows/GalaxyCommunication.exe.zip",
+            "size": 2108214
+        }
+    ],
+    "symlinks": [],
+    "version": "1.1.0.922"
+}

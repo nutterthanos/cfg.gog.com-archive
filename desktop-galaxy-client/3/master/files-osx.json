@@ -1,0 +1,799 @@
+{
+    "directories": [],
+    "files": [
+        {
+            "hash": "35600c24b4372f1975a61b01f43aa7f5",
+            "path": "Contents/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Info.plist.zip",
+            "size": 846
+        },
+        {
+            "hash": "67d4b8545c433032d9e601ba6ac6bf3d",
+            "path": "Contents/PkgInfo",
+            "resource": "GalaxyClient/51192782/osx/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "1ef3ff1c581ea434a8cef17de5f2333c",
+            "path": "Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/_CodeSignature/CodeResources.zip",
+            "size": 2503
+        },
+        {
+            "hash": "070a869f616c47c05390740ec9dfdeb0",
+            "path": "Contents/Frameworks/libcrypto.1.0.0.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libcrypto.1.0.0.dylib.zip",
+            "size": 694550
+        },
+        {
+            "hash": "b7f6728c5fd0f8cb90f4c12d2aa8b317",
+            "path": "Contents/Frameworks/libexpat.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libexpat.dylib.zip",
+            "size": 67356
+        },
+        {
+            "hash": "daf2dd606c62289c3d4a75c586f2bad5",
+            "path": "Contents/Frameworks/libpcre.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libpcre.dylib.zip",
+            "size": 196534
+        },
+        {
+            "hash": "1a2d84df514ba626ba85f125b7352258",
+            "path": "Contents/Frameworks/libPocoCrypto.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoCrypto.31.dylib.zip",
+            "size": 58237
+        },
+        {
+            "hash": "eac6112c90e1ac0a471f5afd3a86cb6b",
+            "path": "Contents/Frameworks/libPocoData.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoData.31.dylib.zip",
+            "size": 588714
+        },
+        {
+            "hash": "544bfafc960d02378cabaca01f5a0a44",
+            "path": "Contents/Frameworks/libPocoDataSQLite.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoDataSQLite.31.dylib.zip",
+            "size": 112640
+        },
+        {
+            "hash": "28cef3a16918dc4cd5d37b1faaaf08a2",
+            "path": "Contents/Frameworks/libPocoFoundation.1.6.1.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoFoundation.1.6.1.dylib.zip",
+            "size": 545416
+        },
+        {
+            "hash": "adf7057b032916775a6391c7411e00fd",
+            "path": "Contents/Frameworks/libPocoJSON.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoJSON.31.dylib.zip",
+            "size": 102922
+        },
+        {
+            "hash": "867777552a53a14755ff1f7487680ad2",
+            "path": "Contents/Frameworks/libPocoNet.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoNet.31.dylib.zip",
+            "size": 399321
+        },
+        {
+            "hash": "ba1502190daa4f5ed87c45396c5eb1d9",
+            "path": "Contents/Frameworks/libPocoNetSSL.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoNetSSL.31.dylib.zip",
+            "size": 90958
+        },
+        {
+            "hash": "3b0aac77720a0d8ca5ab04ffe004edb8",
+            "path": "Contents/Frameworks/libPocoUtil.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoUtil.31.dylib.zip",
+            "size": 150038
+        },
+        {
+            "hash": "cc44aed35def7dfac7cb9a5d11062f1c",
+            "path": "Contents/Frameworks/libPocoXML.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoXML.31.dylib.zip",
+            "size": 146869
+        },
+        {
+            "hash": "5daf4901059108617905c5b7a5c8ae60",
+            "path": "Contents/Frameworks/libPocoZip.31.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libPocoZip.31.dylib.zip",
+            "size": 95138
+        },
+        {
+            "hash": "202284ae0675c70ed54fdca6fb572cc1",
+            "path": "Contents/Frameworks/libsqlite.3.8.11.1.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libsqlite.3.8.11.1.dylib.zip",
+            "size": 619370
+        },
+        {
+            "hash": "e7cc5b228177d00c4437a5ff290b195b",
+            "path": "Contents/Frameworks/libssl.1.0.0.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libssl.1.0.0.dylib.zip",
+            "size": 154547
+        },
+        {
+            "hash": "e75f7c865cd888244b89944b7550be4e",
+            "path": "Contents/Frameworks/libz.1.2.8.dylib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/libz.1.2.8.dylib.zip",
+            "size": 51129
+        },
+        {
+            "hash": "7cddbc9358d431cbfb071a5c20d3ef9b",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework.zip",
+            "size": 24759472
+        },
+        {
+            "hash": "5db8f1519e15ed0fd783c7fdc876efcf",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/_CodeSignature/CodeResources.zip",
+            "size": 2953
+        },
+        {
+            "hash": "bf913e90363a609326895ed4dbb8be75",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/ffmpegsumo.so",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Libraries/ffmpegsumo.so.zip",
+            "size": 504897
+        },
+        {
+            "hash": "efe1f6288b1c81daab769eb606a7c9b3",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak.zip",
+            "size": 563361
+        },
+        {
+            "hash": "cee409ad644f7e7429d1a1f7d3446dd5",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_100_percent.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_100_percent.pak.zip",
+            "size": 335746
+        },
+        {
+            "hash": "701422e069ef9e1c22acd5bab85bfd6a",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_200_percent.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef_200_percent.pak.zip",
+            "size": 490078
+        },
+        {
+            "hash": "748377f804327dbe9b7028c9ce1b213d",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_inspector",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_inspector.zip",
+            "size": 30139
+        },
+        {
+            "hash": "01bc339f0eda4d26d5e0342f41f6a931",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/devtools_resources.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/devtools_resources.pak.zip",
+            "size": 996081
+        },
+        {
+            "hash": "d59b13c25b710107cea7ad1462c1b077",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/icudtl.dat",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/icudtl.dat.zip",
+            "size": 4441575
+        },
+        {
+            "hash": "12a39070566ac3537bb9fe77e9b0e5f4",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/Info.plist.zip",
+            "size": 697
+        },
+        {
+            "hash": "6a85e2542e9cece0220c057d1b911461",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/natives_blob.bin",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/natives_blob.bin.zip",
+            "size": 82975
+        },
+        {
+            "hash": "76053dc6c00f1cfeea6448157028be84",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/snapshot_blob.bin",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/snapshot_blob.bin.zip",
+            "size": 150187
+        },
+        {
+            "hash": "0f59eef436dd62446f4691905fef8bb2",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/am.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/am.lproj/locale.pak.zip",
+            "size": 8357
+        },
+        {
+            "hash": "d04158fb0b4c96bbf58760c86812a6f9",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ar.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ar.lproj/locale.pak.zip",
+            "size": 8164
+        },
+        {
+            "hash": "8ae081cc2b051486d986df9dd8177aa3",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bg.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bg.lproj/locale.pak.zip",
+            "size": 8489
+        },
+        {
+            "hash": "f2f9df4a61ae9368d12274cb6b02b428",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bn.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/bn.lproj/locale.pak.zip",
+            "size": 8623
+        },
+        {
+            "hash": "b02c9d7b92e6007d197b401627f18dbb",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ca.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ca.lproj/locale.pak.zip",
+            "size": 7629
+        },
+        {
+            "hash": "637c388b8e80fe87215128276a29d3aa",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Info.plist.zip",
+            "size": 620
+        },
+        {
+            "hash": "23b7d7d024abb0f558420e098800bf27",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "4dff92c86da1bb835cf78fc608969c9f",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/_CodeSignature/CodeResources.zip",
+            "size": 832
+        },
+        {
+            "hash": "b782347ecdd81c03910bbee286d7e71d",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/MacOS/crash_report_sender",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/MacOS/crash_report_sender.zip",
+            "size": 27537
+        },
+        {
+            "hash": "ef2d072397ea665c6a89281220929cf9",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/Breakpad.nib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/Breakpad.nib.zip",
+            "size": 8177
+        },
+        {
+            "hash": "4ba266fe3ec1e27df4f079ce3f501abc",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/crash_report_sender.icns",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/crash_report_sender.icns.zip",
+            "size": 149391
+        },
+        {
+            "hash": "adcaa3a7f16a355048dd21484c6eeaeb",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/English.lproj/Localizable.strings",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/crash_report_sender.app/Contents/Resources/English.lproj/Localizable.strings.zip",
+            "size": 839
+        },
+        {
+            "hash": "24c7444092913bf8749de1d8e2cc5a8a",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cs.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cs.lproj/locale.pak.zip",
+            "size": 7872
+        },
+        {
+            "hash": "09efd40cf6effef56d9b4ba8fd97a113",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/da.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/da.lproj/locale.pak.zip",
+            "size": 7215
+        },
+        {
+            "hash": "53e9fec423ba3a58be58f435ae56fcce",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/de.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/de.lproj/locale.pak.zip",
+            "size": 7602
+        },
+        {
+            "hash": "4845d38c4cc3ae74fe208f4f933a167c",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/el.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/el.lproj/locale.pak.zip",
+            "size": 9019
+        },
+        {
+            "hash": "63b3c586ce87f7598abeef4c1a75060e",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en.lproj/locale.pak.zip",
+            "size": 6841
+        },
+        {
+            "hash": "2be4e4492a3cf1e4bca1c13987e29136",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en_GB.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/en_GB.lproj/locale.pak.zip",
+            "size": 6846
+        },
+        {
+            "hash": "89810f6010fa64d932e0cdf94346a06b",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es.lproj/locale.pak.zip",
+            "size": 7585
+        },
+        {
+            "hash": "514bac1f73f6dc8bc1c51e1e6fb28be6",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es_419.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/es_419.lproj/locale.pak.zip",
+            "size": 7575
+        },
+        {
+            "hash": "f215919da654265acbdd2a6de70941dd",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/et.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/et.lproj/locale.pak.zip",
+            "size": 7288
+        },
+        {
+            "hash": "e6af5bcfd63939c600ac2a7886017c4e",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fa.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fa.lproj/locale.pak.zip",
+            "size": 7895
+        },
+        {
+            "hash": "21cb75f84d7eefc86c451ed53c642556",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fi.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fi.lproj/locale.pak.zip",
+            "size": 7373
+        },
+        {
+            "hash": "6e0a5218b350528f7cb66a600eb8751e",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fil.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fil.lproj/locale.pak.zip",
+            "size": 7551
+        },
+        {
+            "hash": "ad588bcba2702334da0907e57e79a0ee",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fr.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/fr.lproj/locale.pak.zip",
+            "size": 7766
+        },
+        {
+            "hash": "1a604943db707ac5fc988ff150a274a8",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/gu.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/gu.lproj/locale.pak.zip",
+            "size": 8465
+        },
+        {
+            "hash": "c71094793efe309ad7f6876ec756fde5",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/he.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/he.lproj/locale.pak.zip",
+            "size": 7561
+        },
+        {
+            "hash": "02275d5c67169e3ad1a4b9befbb2a360",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hi.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hi.lproj/locale.pak.zip",
+            "size": 8545
+        },
+        {
+            "hash": "09e569ae4580af02f6ca5175816034b9",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hr.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hr.lproj/locale.pak.zip",
+            "size": 7588
+        },
+        {
+            "hash": "5c9b744b5b799b3f726cc1ef33cd836e",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hu.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/hu.lproj/locale.pak.zip",
+            "size": 7811
+        },
+        {
+            "hash": "07d471532b4775e7d73fbf51123662ca",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/id.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/id.lproj/locale.pak.zip",
+            "size": 7059
+        },
+        {
+            "hash": "8c425d683c7bcaaee965b6d50c14aca1",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/it.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/it.lproj/locale.pak.zip",
+            "size": 7313
+        },
+        {
+            "hash": "133e6fbd1a73ca5ac88ef642a4ba3317",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ja.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ja.lproj/locale.pak.zip",
+            "size": 7772
+        },
+        {
+            "hash": "935b8f463580e3b86590c23fa88f3794",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/kn.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/kn.lproj/locale.pak.zip",
+            "size": 8832
+        },
+        {
+            "hash": "f4e05b8d49a0133b219e7db5a33434e9",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ko.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ko.lproj/locale.pak.zip",
+            "size": 7428
+        },
+        {
+            "hash": "7c6643531837835f492addc77fdd11c6",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lt.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lt.lproj/locale.pak.zip",
+            "size": 7819
+        },
+        {
+            "hash": "eafcf9864296ec992da3289f2043899f",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lv.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/lv.lproj/locale.pak.zip",
+            "size": 7810
+        },
+        {
+            "hash": "5ec22c29cdc4a505a526c49b53031656",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ml.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ml.lproj/locale.pak.zip",
+            "size": 9270
+        },
+        {
+            "hash": "975d2979fcc81301d6cb17b2d3d32493",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/mr.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/mr.lproj/locale.pak.zip",
+            "size": 8482
+        },
+        {
+            "hash": "c2d58409a1fe4ba649ce9a538564d281",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ms.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ms.lproj/locale.pak.zip",
+            "size": 7148
+        },
+        {
+            "hash": "cb4b4cc0bec517705f22095beedb2e38",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nb.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nb.lproj/locale.pak.zip",
+            "size": 7285
+        },
+        {
+            "hash": "02ec884897bca895f098796deb0a161f",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nl.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/nl.lproj/locale.pak.zip",
+            "size": 7368
+        },
+        {
+            "hash": "258040b8887ae483ae3e624477b820ea",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pl.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pl.lproj/locale.pak.zip",
+            "size": 7801
+        },
+        {
+            "hash": "8496f814319cc77e58d94e6d6c49ddb2",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_BR.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_BR.lproj/locale.pak.zip",
+            "size": 7392
+        },
+        {
+            "hash": "caa37ee540c31e17aeb1279efb44e901",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_PT.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/pt_PT.lproj/locale.pak.zip",
+            "size": 7448
+        },
+        {
+            "hash": "77ceea948bcc608065519496639fd528",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ro.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ro.lproj/locale.pak.zip",
+            "size": 7724
+        },
+        {
+            "hash": "75b92bf342835ead22ebf72c03c5bcef",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ru.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ru.lproj/locale.pak.zip",
+            "size": 8710
+        },
+        {
+            "hash": "2689eaa98b722dafa3124d8d4d70bb9e",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sk.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sk.lproj/locale.pak.zip",
+            "size": 7969
+        },
+        {
+            "hash": "b77337fa5ac27b2cb504bd17b3c27aa8",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sl.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sl.lproj/locale.pak.zip",
+            "size": 7426
+        },
+        {
+            "hash": "04a5d8128f1964bc9bad670f8e90517d",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sr.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sr.lproj/locale.pak.zip",
+            "size": 8586
+        },
+        {
+            "hash": "d31a94c5f705c05cde61fe9f789c1674",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sv.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sv.lproj/locale.pak.zip",
+            "size": 7152
+        },
+        {
+            "hash": "e57cba9b534244c1cdbb39afc890f501",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sw.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/sw.lproj/locale.pak.zip",
+            "size": 7294
+        },
+        {
+            "hash": "d2afaef20a06b4eeaded5d26932d5507",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ta.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/ta.lproj/locale.pak.zip",
+            "size": 8782
+        },
+        {
+            "hash": "250dae00cfd9fa67a78641f84dfab5b1",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/te.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/te.lproj/locale.pak.zip",
+            "size": 8774
+        },
+        {
+            "hash": "2795be8a08739b9ddaa6975b3645013f",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/th.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/th.lproj/locale.pak.zip",
+            "size": 8130
+        },
+        {
+            "hash": "4426826b6c6094581c635f7a1d095c83",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/tr.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/tr.lproj/locale.pak.zip",
+            "size": 7420
+        },
+        {
+            "hash": "d01d7ff15c1db101e85332509b76141a",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/uk.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/uk.lproj/locale.pak.zip",
+            "size": 8574
+        },
+        {
+            "hash": "8325a4c30fe0d0389c7abf4771e7aa27",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/vi.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/vi.lproj/locale.pak.zip",
+            "size": 7561
+        },
+        {
+            "hash": "c610b99952259ed36a02bedb2e98093d",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_CN.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_CN.lproj/locale.pak.zip",
+            "size": 7275
+        },
+        {
+            "hash": "e55debda56c7b168bf8858558154d737",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_TW.lproj/locale.pak",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/zh_TW.lproj/locale.pak.zip",
+            "size": 7218
+        },
+        {
+            "hash": "91f1496e131359a0ab27cccd32573b13",
+            "path": "Contents/Frameworks/GalaxyClient Helper EH.app/Contents/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper EH.app/Contents/Info.plist.zip",
+            "size": 800
+        },
+        {
+            "hash": "5cf5ab75d453e455f061fe99232094f6",
+            "path": "Contents/Frameworks/GalaxyClient Helper EH.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper EH.app/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "ea8e3157ca1a7e3d68a53a8a390a7b19",
+            "path": "Contents/Frameworks/GalaxyClient Helper EH.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper EH.app/Contents/_CodeSignature/CodeResources.zip",
+            "size": 709
+        },
+        {
+            "hash": "749d1746e33658e8bda7b7615ebb8cab",
+            "path": "Contents/Frameworks/GalaxyClient Helper EH.app/Contents/MacOS/GalaxyClient Helper EH",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper EH.app/Contents/MacOS/GalaxyClient Helper EH.zip",
+            "size": 399969
+        },
+        {
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Frameworks/GalaxyClient Helper EH.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper EH.app/Contents/Resources/Galaxy.icns.zip",
+            "size": 1055751
+        },
+        {
+            "hash": "2e8db1f7339cd329e2d95d5f70abd665",
+            "path": "Contents/Frameworks/GalaxyClient Helper NP.app/Contents/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper NP.app/Contents/Info.plist.zip",
+            "size": 800
+        },
+        {
+            "hash": "5cf5ab75d453e455f061fe99232094f6",
+            "path": "Contents/Frameworks/GalaxyClient Helper NP.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper NP.app/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "ea8e3157ca1a7e3d68a53a8a390a7b19",
+            "path": "Contents/Frameworks/GalaxyClient Helper NP.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper NP.app/Contents/_CodeSignature/CodeResources.zip",
+            "size": 709
+        },
+        {
+            "hash": "2e71d7008a7e278132d48f456bd87956",
+            "path": "Contents/Frameworks/GalaxyClient Helper NP.app/Contents/MacOS/GalaxyClient Helper NP",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper NP.app/Contents/MacOS/GalaxyClient Helper NP.zip",
+            "size": 399975
+        },
+        {
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Frameworks/GalaxyClient Helper NP.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper NP.app/Contents/Resources/Galaxy.icns.zip",
+            "size": 1055751
+        },
+        {
+            "hash": "5b27682515f29019f35044be565d7329",
+            "path": "Contents/Frameworks/GalaxyClient Helper.app/Contents/Info.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper.app/Contents/Info.plist.zip",
+            "size": 797
+        },
+        {
+            "hash": "5cf5ab75d453e455f061fe99232094f6",
+            "path": "Contents/Frameworks/GalaxyClient Helper.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper.app/Contents/PkgInfo.zip",
+            "size": 172
+        },
+        {
+            "hash": "ea8e3157ca1a7e3d68a53a8a390a7b19",
+            "path": "Contents/Frameworks/GalaxyClient Helper.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "size": 709
+        },
+        {
+            "hash": "6f531ee1f766ab0e9ef052746200467a",
+            "path": "Contents/Frameworks/GalaxyClient Helper.app/Contents/MacOS/GalaxyClient Helper",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper.app/Contents/MacOS/GalaxyClient Helper.zip",
+            "size": 399969
+        },
+        {
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Frameworks/GalaxyClient Helper.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/51192782/osx/Contents/Frameworks/GalaxyClient Helper.app/Contents/Resources/Galaxy.icns.zip",
+            "size": 1055751
+        },
+        {
+            "hash": "837ffbfaa61b3848a61048708e1c84ac",
+            "path": "Contents/Library/LaunchDaemons/com.gog.galaxy.clientservice.plist",
+            "resource": "GalaxyClient/51192782/osx/Contents/Library/LaunchDaemons/com.gog.galaxy.clientservice.plist.zip",
+            "size": 541
+        },
+        {
+            "hash": "089e81c8455768d5f9e01e61317b9823",
+            "path": "Contents/MacOS/GalaxyClient",
+            "resource": "GalaxyClient/51192782/osx/Contents/MacOS/GalaxyClient.zip",
+            "size": 2904112
+        },
+        {
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/Galaxy.icns.zip",
+            "size": 1055751
+        },
+        {
+            "hash": "e7eacd755483d5749faa039cfeb3c695",
+            "path": "Contents/Resources/GalaxyClientService",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/GalaxyClientService.zip",
+            "size": 581727
+        },
+        {
+            "hash": "de33a7bb06fb0fffb1faf4e7090b57bd",
+            "path": "Contents/Resources/MainMenu.nib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/MainMenu.nib.zip",
+            "size": 16940
+        },
+        {
+            "hash": "4ef2165d5578d99f1d933f42139a7a39",
+            "path": "Contents/Resources/rootCA.pem",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/rootCA.pem.zip",
+            "size": 170171
+        },
+        {
+            "hash": "9cfeabb62c179c887b49e1ef83b9357d",
+            "path": "Contents/Resources/SettingsWindow.nib",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/SettingsWindow.nib.zip",
+            "size": 20422
+        },
+        {
+            "hash": "6ce650c1761c4bf8809a3528cfb22bda",
+            "path": "Contents/Resources/web/common.js",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/common.js.zip",
+            "size": 762
+        },
+        {
+            "hash": "13b15219c5f3a3e7bb2625dc37b7d3f4",
+            "path": "Contents/Resources/web/eula",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/eula.zip",
+            "size": 1015
+        },
+        {
+            "hash": "bfae09622edfabe2aa5e2eb6db61a784",
+            "path": "Contents/Resources/web/external-window.html",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/external-window.html.zip",
+            "size": 797
+        },
+        {
+            "hash": "8611dec6cc586cc267f2dc504cd11e10",
+            "path": "Contents/Resources/web/index.html",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/index.html.zip",
+            "size": 21681
+        },
+        {
+            "hash": "060340af09861995c8b3654281913505",
+            "path": "Contents/Resources/web/mainPage.js",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/mainPage.js.zip",
+            "size": 1723
+        },
+        {
+            "hash": "ae01eb6a22b15de0893e1bff58148683",
+            "path": "Contents/Resources/web/css/d0b75d3.css",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/css/d0b75d3.css.zip",
+            "size": 1724234
+        },
+        {
+            "hash": "d99ad713797d286e8f62d251550ce96d",
+            "path": "Contents/Resources/web/galaxyProtocols/galaxy_webbroker_service/galaxy_webbroker_service.proto",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/galaxyProtocols/galaxy_webbroker_service/galaxy_webbroker_service.proto.zip",
+            "size": 464
+        },
+        {
+            "hash": "5063a24595ffffaf7a9face43d698d33",
+            "path": "Contents/Resources/web/galaxyProtocols/gog_pb/gog_pb.proto",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/galaxyProtocols/gog_pb/gog_pb.proto.zip",
+            "size": 886
+        },
+        {
+            "hash": "667cfd96a31f5e0040316b6f53562485",
+            "path": "Contents/Resources/web/js/ac9ac76.js",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/js/ac9ac76.js.zip",
+            "size": 441555
+        },
+        {
+            "hash": "b1fad11a61d709e4204af2adaaa31694",
+            "path": "Contents/Resources/web/js/c9b728d.js",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/js/c9b728d.js.zip",
+            "size": 564585
+        },
+        {
+            "hash": "b2da932007bba1d540a8adcf7eb70cba",
+            "path": "Contents/Resources/web/locales/de/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/de/general.json.zip",
+            "size": 5902
+        },
+        {
+            "hash": "b7e6ee87bc88655308c026ac8a0c3991",
+            "path": "Contents/Resources/web/locales/en/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/en/general.json.zip",
+            "size": 5195
+        },
+        {
+            "hash": "c5c8ec330ad009f60aab9476d5411476",
+            "path": "Contents/Resources/web/locales/es/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/es/general.json.zip",
+            "size": 5489
+        },
+        {
+            "hash": "5efd8a577747c2332e298b29c56bcedb",
+            "path": "Contents/Resources/web/locales/es-MX/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/es-MX/general.json.zip",
+            "size": 1756
+        },
+        {
+            "hash": "b31d488dbe1ee94464131a77b4a00e82",
+            "path": "Contents/Resources/web/locales/fr/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/fr/general.json.zip",
+            "size": 6000
+        },
+        {
+            "hash": "22a72bbfce5537b0193b90dfd6adc3fd",
+            "path": "Contents/Resources/web/locales/pl/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/pl/general.json.zip",
+            "size": 5450
+        },
+        {
+            "hash": "b3ed2595329f5a1aae9154e360af67e9",
+            "path": "Contents/Resources/web/locales/pt/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/pt/general.json.zip",
+            "size": 5484
+        },
+        {
+            "hash": "5efd8a577747c2332e298b29c56bcedb",
+            "path": "Contents/Resources/web/locales/pt-BR/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/pt-BR/general.json.zip",
+            "size": 1756
+        },
+        {
+            "hash": "c28576e2abc134057c4d13c532be6301",
+            "path": "Contents/Resources/web/locales/ru/general.json",
+            "resource": "GalaxyClient/51192782/osx/Contents/Resources/web/locales/ru/general.json.zip",
+            "size": 6758
+        }
+    ],
+    "symlinks": [],
+    "version": "1.1.5.27"
+}
