@@ -1,0 +1,45 @@
+{
+	"status" : "online",
+	"channel" : "production",
+	"talkInterval" : 600,
+	"complainInterval" : 600,	
+	"timestamp" : 0,
+	"downloadOrderRandomization": false,
+	"downloadParallelization": 10,
+	"downloadReceiveTimeout": 5,
+	"updateGamePiecesCacheDelay": 900,
+	"updateGamePiecesCacheInterval" : 21600,
+	"externalPlatformSyncInterval" : 21600,
+	"end_points" : {
+		"files" : "galaxy-client-update.gog.com",
+		"products" : "products.gog.com",
+		"users" : "users.gog.com",
+		"auth" : "auth.gog.com",
+		"cdn" : "cdn.gog.com",
+		"productsDetails" : "api.gog.com",
+		"gameplay" : "gameplay.gog.com",
+		"gog-api" : "api.gog.com",
+		"remoteConfig": "remote-config.gog.com",
+		"redsights": "redsights.live.cdpred.services"
+	},
+	"intervals" : {
+		"quick" : 1,
+		"presence" : 5,
+		"short" : 10,
+		"normal" : 300,
+		"selfUpdateCheck" : 360,
+		"long" : 1440,
+		"eternity" : 10080,
+		"allProductDetails" : 10080
+	},
+	"cloudSyncControl": {
+		"periodicPermil": 1000,
+		"userActionPermil": 1000,
+		"enableLocalFileDeletion": true
+	},
+	"oldProductDetailsCachePurgePermil" : 1,
+	"checkPluginUpdateInterval": 86400,
+	"recentClientLanguagesPruningDelay": 2700,
+	"recentClientLanguagesLatestMaxAge": 604800,
+	"recentClientLanguagesOtherMaxAge" : 2419200
+}
