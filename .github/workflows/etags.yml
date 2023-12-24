@@ -1,0 +1,27 @@
+name: Check cfg.gog.com
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  Archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3.5.2
+
+      - name: Run Archive script
+        run: |
+          bash Archive.sh
+
+          # Add and commit changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated config Files"
+
+          # Push changes
+          git push origin ${{ github.ref }}
