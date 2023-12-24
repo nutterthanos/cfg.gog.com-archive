@@ -35,6 +35,8 @@ compare_etag() {
             printf "Failed to download %s\n" "$url"
             return 1
         fi
+    else
+        echo "No update available for $url"
 
         # Calculate SHA-1 hash
         sha1=$(calculate_sha1 "$file_path")
