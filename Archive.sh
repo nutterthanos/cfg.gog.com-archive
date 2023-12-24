@@ -31,7 +31,7 @@ compare_etag() {
         mkdir -p "$(dirname "$file_path")"
 
         # Download the file
-        if ! curl -s -o "$file_path" "$url"; then
+        if ! curl -s -o "$file_path" -O "$url"; then
             printf "Failed to download %s\n" "$url"
             return 1
         fi
