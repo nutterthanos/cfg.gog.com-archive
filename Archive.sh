@@ -51,7 +51,7 @@ update_etag() {
 
     awk -v url="$url" -v new_etag="$new_etag" '{
         if ($1 == "\""url"\":") {
-            print $1, "\""new_etag"\""
+            print "\""url"\": \""new_etag"\""
         } else {
             print $0
         }
