@@ -16,8 +16,14 @@ compare_etag() {
             return 1
         fi
 
+        # Extract the file name from the URL
+        file_name=$(basename "$url")
+
+        # Create directories if they don't exist
+        mkdir -p "$(dirname "$file_name")"
+
         # Download the file
-        if ! curl -s -O "$url"; then
+        if ! curl -s -o "$file_name" "$url"; then
             echo "Failed to download $url"
             return 1
         fi
@@ -176,8 +182,8 @@ echo "" >> README.md
 
 # Iterate through the URLs
 for url in "${urls[@]}"; do
-    etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
-    compare_etag $url $etag
+    etag=$(curl -sI "$url" | grep -i "etag" | awk -F'"' '{print $2}')
+    compare_etag "$url" "$etag"
 done
 
 # Iterate through the files in the repository and append to README.md
