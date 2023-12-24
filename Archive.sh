@@ -57,6 +57,29 @@ update_etag() {
     mv "$tmp_file" Etag.json
 }
 
+# Function to calculate SHA-1 hash of a file in the latest commit
+calculate_sha1() {
+    local file=$1
+    local sha1_hash=$(git log -n 1 --pretty=format:"%H" -- "$file" | xargs -I{} git cat-file -p {}:"$file" | sha1sum | awk '{ print $1 }')
+    echo "$sha1_hash"
+}
+
+# List of files/directories to exclude
+excluded_files=("Etag.json" "README.md" ".git" ".github" ".github/workflows" ".github/workflows/etags.yml" "Archive.sh")
+
+# Create an empty Etag.json file if it doesn't exist
+if [[ ! -f "Etag.json" ]]; then
+    echo "{}" > Etag.json
+fi
+
+# Clear the existing content of README.md and add header information to README.md
+echo "GOG config archive" > README.md
+echo "" >> README.md
+echo "Archiving https://cfg.gog.com contents" >> README.md
+echo "" >> README.md
+echo "GOG Config Files and SHA1 Hashes:" >> README.md
+echo "" >> README.md
+
 # List of URLs to download
 urls=(
     "https://cfg.gog.com/desktop-galaxy-client/config.json"
@@ -180,35 +203,6 @@ urls=(
     "https://cfg.gog.com/desktop-galaxy-updater/5/preview/files-osx.json"
     "https://cfg.gog.com/desktop-galaxy-updater/6/preview/files-osx.json"
     "https://cfg.gog.com/desktop-galaxy-updater/7/preview/files-osx.json"
-)
-
-# Function to calculate SHA-1 hash of a file in the latest commit
-calculate_sha1() {
-    local file=$1
-    local sha1_hash=$(git log -n 1 --pretty=format:"%H" -- "$file" | xargs -I{} git cat-file -p {}:"$file" | sha1sum | awk '{ print $1 }')
-    echo "$sha1_hash"
-}
-
-# List of files/directories to exclude
-excluded_files=("Etag.json" "README.md" ".git" ".github" ".github/workflows" ".github/workflows/etags.yml" "Archive.sh")
-
-# Create an empty Etag.json file if it doesn't exist
-if [[ ! -f "Etag.json" ]]; then
-    echo "{}" > Etag.json
-fi
-
-# Clear the existing content of README.md and add header information to README.md
-echo "GOG config archive" > README.md
-echo "" >> README.md
-echo "Archiving https://cfg.gog.com contents" >> README.md
-echo "" >> README.md
-echo "GOG Config Files and SHA1 Hashes:" >> README.md
-echo "" >> README.md
-
-# List of URLs to download
-urls=(
-    "https://cfg.gog.com/desktop-galaxy-client/config.json"
-    # ... (remaining URLs)
 )
 
 # Iterate through the URLs
