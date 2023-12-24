@@ -28,6 +28,10 @@ compare_etag() {
             printf "Failed to download %s\n" "$url"
             return 1
         fi
+    else
+         echo "No update available for $url"
+        fi
+}
 
         # Calculate SHA-1 hash
         sha1=$(calculate_sha1 "$file_path")
@@ -38,43 +42,6 @@ compare_etag() {
         printf "No update available for %s\n" "$url"
     fi
 }
-
-# Function to update Etag value in the JSON file using a temporary file
-update_etag() {
-    local url=$1
-    local new_etag=$2
-
-    awk -v url="$url" -v new_etag="$new_etag" '{
-        if ($1 == "\""url"\":") {
-            print "\""url"\": \""new_etag"\""
-        } else {
-            print $0
-        }
-    }' Etag.json > Etag.json.tmp && mv Etag.json.tmp Etag.json
-}
-
-# Function to calculate SHA-1 hash of a file in the latest commit
-calculate_sha1() {
-    local file=$1
-    local sha1_hash=$(git log -n 1 --pretty=format:"%H" -- "$file" | xargs -I{} git cat-file -p {}:"$file" | sha1sum | awk '{ print $1 }')
-    echo "$sha1_hash"
-}
-
-# List of files/directories to exclude
-excluded_files=("Etag.json" "README.md" ".git" ".github" ".github/workflows" ".github/workflows/etags.yml" "Archive.sh")
-
-# Create an empty Etag.json file if it doesn't exist
-if [[ ! -f "Etag.json" ]]; then
-    echo "{}" > Etag.json
-fi
-
-# Clear the existing content of README.md and add header information to README.md
-echo "GOG config archive" > README.md
-echo "" >> README.md
-echo "Archiving https://cfg.gog.com contents" >> README.md
-echo "" >> README.md
-echo "GOG Config Files and SHA1 Hashes:" >> README.md
-echo "" >> README.md
 
 # List of URLs to download
 urls=(
@@ -201,10 +168,33 @@ urls=(
     "https://cfg.gog.com/desktop-galaxy-updater/7/preview/files-osx.json"
 )
 
+# Function to calculate SHA-1 hash of a file in the latest commit
+calculate_sha1() {
+    local file=$1
+    local sha1_hash=$(git log -n 1 --pretty=format:"%H" -- "$file" | xargs -I{} git cat-file -p {}:"$file" | sha1sum | awk '{ print $1 }')
+    echo "$sha1_hash"
+}
+
+# List of files/directories to exclude
+excluded_files=("Etag.json" "README.md" ".git" ".github" ".github/workflows" ".github/workflows/etags.yml" "Archive.sh")
+
+# Create an empty Etag.json file if it doesn't exist
+if [[ ! -f "Etag.json" ]]; then
+    echo "{}" > Etag.json
+fi
+
+# Clear the existing content of README.md and add header information to README.md
+echo "GOG config archive" > README.md
+echo "" >> README.md
+echo "Archiving https://cfg.gog.com contents" >> README.md
+echo "" >> README.md
+echo "GOG Config Files and SHA1 Hashes:" >> README.md
+echo "" >> README.md
+
 # Iterate through the URLs
 for url in "${urls[@]}"; do
-    etag=$(curl -sI "$url" | grep -i "Etag" | awk -F'"' '{print $2}')
-    compare_etag "$url" "$etag"
+    etag=$(curl -sI $url | grep -i "etag" | awk -F'"' '{print $2}')
+    compare_etag $url $etag
 done
 
 # Iterate through the files in the repository and append to README.md
@@ -212,6 +202,7 @@ for file in $(git ls-files); do
     # Check if the file is not in the excluded list
     if ! [[ " ${excluded_files[@]} " =~ " $file " ]]; then
         sha1=$(calculate_sha1 "$file")
-        printf "%s | %s\n\n" "$file" "$sha1" >> README.md
+        echo "$file | $sha1" >> README.md
+        echo "" >> README.md  # Add a newline character after each entry
     fi
 done
