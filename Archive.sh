@@ -16,14 +16,14 @@ compare_etag() {
             return 1
         fi
 
-        # Extract the file name from the URL
-        file_name=$(basename "$url")
+        # Extract the file path from the URL
+        file_path=$(echo "$url" | sed 's|https://cfg.gog.com/||')
 
         # Create directories if they don't exist
-        mkdir -p "$(dirname "$file_name")"
+        mkdir -p "$(dirname "$file_path")"
 
         # Download the file
-        if ! curl -s -o "$file_name" "$url"; then
+        if ! curl -s -o "$file_path" "$url"; then
             echo "Failed to download $url"
             return 1
         fi
