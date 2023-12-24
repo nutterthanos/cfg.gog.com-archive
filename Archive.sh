@@ -37,13 +37,14 @@ compare_etag() {
         fi
     else
         echo "No update available for $url"
+    fi
+
+    # Calculate SHA-1 hash
+    sha1=$(calculate_sha1 "$file_path")
+
+    # Append to README.md
+    printf "%s | %s\n\n" "$file_path" "$sha1" >> README.md
 }
-
-        # Calculate SHA-1 hash
-        sha1=$(calculate_sha1 "$file_path")
-
-        # Append to README.md
-        printf "%s | %s\n\n" "$file_path" "$sha1" >> README.md
 
 # List of URLs to download
 urls=(
