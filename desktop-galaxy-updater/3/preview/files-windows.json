@@ -1,103 +1,11 @@
-{
-    "directories": [],
-    "files": [
-        {
-            "hash": "336b9d015ca9512df0278b9287d34525",
-            "path": "expat.dll",
-            "resource": "GalaxyUpdater/63913312/windows/expat.dll.zip",
-            "size": 45444
-        },
-        {
-            "hash": "9dfda4769712e4577266d01ed77e5224",
-            "path": "GalaxyUpdater.exe",
-            "resource": "GalaxyUpdater/63913312/windows/GalaxyUpdater.exe.zip",
-            "size": 680006
-        },
-        {
-            "hash": "238eaf5cfca4823e3c29937dddb9104f",
-            "path": "libeay32.dll",
-            "resource": "GalaxyUpdater/63913312/windows/libeay32.dll.zip",
-            "size": 539260
-        },
-        {
-            "hash": "eb665d08dd245816e0977ef1f16ebe48",
-            "path": "pcre.dll",
-            "resource": "GalaxyUpdater/63913312/windows/pcre.dll.zip",
-            "size": 123554
-        },
-        {
-            "hash": "83a369e477f4f04361169f106e8f9f25",
-            "path": "PocoCrypto.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoCrypto.dll.zip",
-            "size": 45316
-        },
-        {
-            "hash": "f6f7298a6f40318475e9c56a5ef2bbb9",
-            "path": "PocoFoundation.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoFoundation.dll.zip",
-            "size": 469008
-        },
-        {
-            "hash": "889c42113479d936a16f60a664d1acb9",
-            "path": "PocoJSON.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoJSON.dll.zip",
-            "size": 110958
-        },
-        {
-            "hash": "88748deb54c7a9db2d1ac6cdc8e40a16",
-            "path": "PocoNet.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoNet.dll.zip",
-            "size": 324302
-        },
-        {
-            "hash": "38ca1d5e67e2f373e7aeee1b726c28b5",
-            "path": "PocoNetSSL.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoNetSSL.dll.zip",
-            "size": 85228
-        },
-        {
-            "hash": "771d57d741ae83534c9570fdeafae108",
-            "path": "PocoUtil.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoUtil.dll.zip",
-            "size": 147531
-        },
-        {
-            "hash": "3ac1ab313ede8a420bedc4505b5c71f0",
-            "path": "PocoXml.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoXml.dll.zip",
-            "size": 132026
-        },
-        {
-            "hash": "0a35bda10cfe03cd56e1e5cb382d2bbd",
-            "path": "PocoZip.dll",
-            "resource": "GalaxyUpdater/63913312/windows/PocoZip.dll.zip",
-            "size": 89653
-        },
-        {
-            "hash": "4ef2165d5578d99f1d933f42139a7a39",
-            "path": "rootCA.pem",
-            "resource": "GalaxyUpdater/63913312/windows/rootCA.pem.zip",
-            "size": 169178
-        },
-        {
-            "hash": "873fc5b43d61aee6ee0dad47c2f47209",
-            "path": "ssleay32.dll",
-            "resource": "GalaxyUpdater/63913312/windows/ssleay32.dll.zip",
-            "size": 117934
-        },
-        {
-            "hash": "1a15e6606bac9647e7ad3caa543377cf",
-            "path": "vcredist_x86_2015.exe",
-            "resource": "GalaxyUpdater/63913312/windows/vcredist_x86_2015.exe.zip",
-            "size": 13551466
-        },
-        {
-            "hash": "640d14c72234f77aec4d2abf4dc729d9",
-            "path": "zlib.dll",
-            "resource": "GalaxyUpdater/63913312/windows/zlib.dll.zip",
-            "size": 38760
-        }
-    ],
-    "symlinks": [],
-    "version": "1.1.5.35"
-}
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>504 - Gateway Timeout</title>
+	</head>
+	<body>
+		<h1>504 - Gateway Timeout</h1>
+	</body>
+</html>

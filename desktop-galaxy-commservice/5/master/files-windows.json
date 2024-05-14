@@ -1,20 +1,11 @@
-{
-    "applicationType": "GogGalaxy",
-    "baseURI": "https://content-system.gog.com/open_link/download?path=/open/galaxy/client",
-    "files": [
-        {
-            "exists": true,
-            "hash": "71814a02e7e3264c8066958c27ce60d3",
-            "path": "GalaxyCommunication.exe",
-            "resource": "GalaxyCommunicationService/175191233/windows/GalaxyCommunication.exe.zip",
-            "sha256": "7d49f6574fd71cee0af8f0af7b18388ffbd13faa20a450140945b67289bc43e2",
-            "size": 2708115,
-            "unsignedHash": "7ea7d7719da72b94fed739cc1ec852a3"
-        }
-    ],
-    "forceUpdate": false,
-    "projectName": "GalaxyCommunicationService",
-    "symlinks": [],
-    "timestamp": "175191233",
-    "version": "1.2.38.105"
-}
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>504 - Gateway Timeout</title>
+	</head>
+	<body>
+		<h1>504 - Gateway Timeout</h1>
+	</body>
+</html>

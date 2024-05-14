@@ -1,58 +1,11 @@
-{
-    "applicationType": "GogGalaxy",
-    "baseURI": "https://galaxy-client-update.gog.com",
-    "files": [
-        {
-            "hash": "15e8d3322c22983820662311afdca643",
-            "path": "peer/msvc-15/GalaxyPeer.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-15/GalaxyPeer.dll.zip",
-            "size": 2732388
-        },
-        {
-            "hash": "0ea5136ca79554dda961528eca010ed5",
-            "path": "peer/msvc-15/GalaxyPeer64.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-15/GalaxyPeer64.dll.zip",
-            "size": 4068925
-        },
-        {
-            "hash": "d5e616bb63ef2a598382a8e684940354",
-            "path": "peer/msvc-16/GalaxyPeer.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-16/GalaxyPeer.dll.zip",
-            "size": 2907872
-        },
-        {
-            "hash": "5a2d4248794244d21e8918a34b1a36be",
-            "path": "peer/msvc-16/GalaxyPeer64.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-16/GalaxyPeer64.dll.zip",
-            "size": 3893195
-        },
-        {
-            "hash": "74d5cf676743a75719f25bbbe57820dc",
-            "path": "peer/msvc-17/GalaxyPeer.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-17/GalaxyPeer.dll.zip",
-            "size": 2854539
-        },
-        {
-            "hash": "74fef52a94e92969fc7015f502b49ea5",
-            "path": "peer/msvc-17/GalaxyPeer64.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-17/GalaxyPeer64.dll.zip",
-            "size": 3989605
-        },
-        {
-            "hash": "0c9beb744eaa5dea279f55eb63533494",
-            "path": "peer/msvc-18/GalaxyPeer.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-18/GalaxyPeer.dll.zip",
-            "size": 2807156
-        },
-        {
-            "hash": "bc6721da6ac0e6516e53b4416ed566f9",
-            "path": "peer/msvc-18/GalaxyPeer64.dll",
-            "resource": "GalaxyPeer/116678174/windows/peer/msvc-18/GalaxyPeer64.dll.zip",
-            "size": 3920879
-        }
-    ],
-    "projectName": "GalaxyPeer",
-    "symlinks": [],
-    "timestamp": "116678174",
-    "version": "1.2.27.1"
-}
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>504 - Gateway Timeout</title>
+	</head>
+	<body>
+		<h1>504 - Gateway Timeout</h1>
+	</body>
+</html>

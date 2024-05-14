@@ -1,64 +1,11 @@
-{
-    "applicationType": "GogGalaxy",
-    "baseURI": "https://galaxy-client-update.gog.com",
-    "files": [
-        {
-            "hash": "79eb8351ac1f141b6c1cb75dc52d90ca",
-            "path": "expat.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/expat.dll.zip",
-            "size": 51648
-        },
-        {
-            "hash": "b2ab4c5b84762f6beafc9e786ca540c7",
-            "path": "GalaxyCommunication.exe",
-            "resource": "GalaxyCommunicationService/118939347/windows/GalaxyCommunication.exe.zip",
-            "size": 2676214
-        },
-        {
-            "hash": "ae0208a4b7f9aed47e046d7551d6b6b7",
-            "path": "pcre.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/pcre.dll.zip",
-            "size": 129469
-        },
-        {
-            "hash": "c01872633512bb99493307615393fcda",
-            "path": "PocoFoundation.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/PocoFoundation.dll.zip",
-            "size": 422154
-        },
-        {
-            "hash": "fc549d06fe887cace57a3237f098517c",
-            "path": "PocoJSON.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/PocoJSON.dll.zip",
-            "size": 94861
-        },
-        {
-            "hash": "7901af35ae241c32cca67f9410b5617b",
-            "path": "PocoNet.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/PocoNet.dll.zip",
-            "size": 297024
-        },
-        {
-            "hash": "cd4aa0e0e53bf079f75cbc38d8411dee",
-            "path": "PocoUtil.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/PocoUtil.dll.zip",
-            "size": 138014
-        },
-        {
-            "hash": "29f9f5d91881eacc21866e141c6c29e1",
-            "path": "PocoXml.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/PocoXml.dll.zip",
-            "size": 135407
-        },
-        {
-            "hash": "30128df994d311feb01413ad77cd92f2",
-            "path": "zlib.dll",
-            "resource": "GalaxyCommunicationService/118939347/windows/zlib.dll.zip",
-            "size": 44498
-        }
-    ],
-    "projectName": "GalaxyCommunicationService",
-    "symlinks": [],
-    "timestamp": "118939347",
-    "version": "1.2.25.3"
-}
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>504 - Gateway Timeout</title>
+	</head>
+	<body>
+		<h1>504 - Gateway Timeout</h1>
+	</body>
+</html>
