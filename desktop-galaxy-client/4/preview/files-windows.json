@@ -779,4 +779,336 @@
         {
             "hash": "017993ebcf098192f597d34da53f818f",
             "path": "web/microserviceMenu/img/cat-rpg-week.jpg",
-            "resource": "GalaxyClient/119983
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-rpg-week.jpg.zip",
+            "size": 35057
+        },
+        {
+            "hash": "52cf07ad883d5858a7967b4422c5229e",
+            "path": "web/microserviceMenu/img/cat-rpg.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-rpg.jpg.zip",
+            "size": 4763
+        },
+        {
+            "hash": "5c793361fde0f5ce4ef8ae4fd0b683cc",
+            "path": "web/microserviceMenu/img/cat-sale.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-sale.jpg.zip",
+            "size": 4528
+        },
+        {
+            "hash": "c7414ae5c73d62749cba5ed3003fb5f4",
+            "path": "web/microserviceMenu/img/cat-shooter.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-shooter.jpg.zip",
+            "size": 5725
+        },
+        {
+            "hash": "012128d6eb88b7f3f63e4ab03f70e2b5",
+            "path": "web/microserviceMenu/img/cat-sim.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-sim.jpg.zip",
+            "size": 6081
+        },
+        {
+            "hash": "7d5152a9753d5a61a04a0450612955d0",
+            "path": "web/microserviceMenu/img/cat-sports.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-sports.jpg.zip",
+            "size": 6362
+        },
+        {
+            "hash": "fbfbb1373820e04219860257449669db",
+            "path": "web/microserviceMenu/img/cat-star-wars-sale.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-star-wars-sale.jpg.zip",
+            "size": 37224
+        },
+        {
+            "hash": "0c19385f92eb5bc763a0bf7886b28f17",
+            "path": "web/microserviceMenu/img/cat-strategy.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-strategy.jpg.zip",
+            "size": 5437
+        },
+        {
+            "hash": "84bbba26fbf38658d102e7d388af4ae8",
+            "path": "web/microserviceMenu/img/cat-sw-bg.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-sw-bg.jpg.zip",
+            "size": 26360
+        },
+        {
+            "hash": "5cad04ac37313f8e3a714cf7903cd1b4",
+            "path": "web/microserviceMenu/img/cat-tacoma-bg.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-tacoma-bg.jpg.zip",
+            "size": 139081
+        },
+        {
+            "hash": "a5a2a2c0864ad8f08cd5b5bbd75e7aee",
+            "path": "web/microserviceMenu/img/cat-weekly-sale.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/cat-weekly-sale.jpg.zip",
+            "size": 36952
+        },
+        {
+            "hash": "8e80fbb5b4e12175be539367e582513d",
+            "path": "web/microserviceMenu/img/dragons-dogma-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/dragons-dogma-logo.png.zip",
+            "size": 41909
+        },
+        {
+            "hash": "c71e386b9c77e6cebbcee7dfcfba1f69",
+            "path": "web/microserviceMenu/img/enter_icon.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/enter_icon.png.zip",
+            "size": 888
+        },
+        {
+            "hash": "c410b1b34b6c3c4f4145f41af3448e65",
+            "path": "web/microserviceMenu/img/full-throttle-bg.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/full-throttle-bg.png.zip",
+            "size": 437619
+        },
+        {
+            "hash": "67b606a40bab35737fb954d100676571",
+            "path": "web/microserviceMenu/img/full-throttle-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/full-throttle-logo.png.zip",
+            "size": 44530
+        },
+        {
+            "hash": "e2bbcc02524dc40425608fe9b1805726",
+            "path": "web/microserviceMenu/img/gwent-bg.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/gwent-bg.png.zip",
+            "size": 904478
+        },
+        {
+            "hash": "4f75e954287bac9ed8eb151ae7c236c3",
+            "path": "web/microserviceMenu/img/gwent-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/gwent-logo.png.zip",
+            "size": 15792
+        },
+        {
+            "hash": "e8a221d925b73036413c3cff7e254a9e",
+            "path": "web/microserviceMenu/img/hellblade-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/hellblade-logo.png.zip",
+            "size": 5438
+        },
+        {
+            "hash": "aeaa721522b5a5eacc9f5ca66e0b8195",
+            "path": "web/microserviceMenu/img/img-load.gif",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/img-load.gif.zip",
+            "size": 294
+        },
+        {
+            "hash": "d033df633b7dd3751a413f71d7abf0f5",
+            "path": "web/microserviceMenu/img/lang-and-currency-bg.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/lang-and-currency-bg.png.zip",
+            "size": 10196
+        },
+        {
+            "hash": "f2689d059dc5d01e2112e70d45c09b2f",
+            "path": "web/microserviceMenu/img/linux-cover.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/linux-cover.jpg.zip",
+            "size": 52460
+        },
+        {
+            "hash": "9dbb0db77ee38be7c39e230e441c79d7",
+            "path": "web/microserviceMenu/img/little-nightmares-bg.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/little-nightmares-bg.jpg.zip",
+            "size": 59378
+        },
+        {
+            "hash": "c74007ad70e46517ea4cc9852576ab77",
+            "path": "web/microserviceMenu/img/little-nightmares-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/little-nightmares-logo.png.zip",
+            "size": 22078
+        },
+        {
+            "hash": "7495274f1f7ebe74bee9085fa33be791",
+            "path": "web/microserviceMenu/img/mac-cover.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/mac-cover.jpg.zip",
+            "size": 53953
+        },
+        {
+            "hash": "9feac64c40b9cf595f0bcae99c788735",
+            "path": "web/microserviceMenu/img/mouse_icon.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/mouse_icon.png.zip",
+            "size": 931
+        },
+        {
+            "hash": "698e96cb8398e1bb5c5d76ebd3b956b0",
+            "path": "web/microserviceMenu/img/navigation_icon.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/navigation_icon.png.zip",
+            "size": 969
+        },
+        {
+            "hash": "8bc60fc45b4539747037e48e125e5010",
+            "path": "web/microserviceMenu/img/os_icons_1x.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/os_icons_1x.png.zip",
+            "size": 1315
+        },
+        {
+            "hash": "7a4715177f0423c531184a045594d9da",
+            "path": "web/microserviceMenu/img/os_icons_2x.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/os_icons_2x.png.zip",
+            "size": 2044
+        },
+        {
+            "hash": "5ab6b549665f847c1834afba4190b581",
+            "path": "web/microserviceMenu/img/outlast-bg.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/outlast-bg.jpg.zip",
+            "size": 99867
+        },
+        {
+            "hash": "959dd02cea079d181f69caeb276e2a46",
+            "path": "web/microserviceMenu/img/outlast-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/outlast-logo.png.zip",
+            "size": 31375
+        },
+        {
+            "hash": "7bc6403860b64cdd86e51bcaf7e62ad1",
+            "path": "web/microserviceMenu/img/shelf.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/shelf.png.zip",
+            "size": 148102
+        },
+        {
+            "hash": "c4cfe6eb783984e6f09a935bca627d68",
+            "path": "web/microserviceMenu/img/special-notification-fallsale.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/special-notification-fallsale.jpg.zip",
+            "size": 9884
+        },
+        {
+            "hash": "689e19a120998c417f0aad066f9846c4",
+            "path": "web/microserviceMenu/img/tacoma-logo.png",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/tacoma-logo.png.zip",
+            "size": 11754
+        },
+        {
+            "hash": "d3975b5b9d4663876e4c44947016e721",
+            "path": "web/microserviceMenu/img/windows-cover.jpg",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/img/windows-cover.jpg.zip",
+            "size": 54629
+        },
+        {
+            "hash": "4ca9c0f401d8e353affa6e9341a3597f",
+            "path": "web/microserviceMenu/js/bundle.js",
+            "resource": "GalaxyClient/119983109/windows/web/microserviceMenu/js/bundle.js.zip",
+            "size": 28668
+        },
+        {
+            "hash": "4c55df7e15403797ce6efa948ef63ed0",
+            "path": "web/scripts/angularMomentDeps.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/angularMomentDeps.js.zip",
+            "size": 25012
+        },
+        {
+            "hash": "ac56859ed5249adc0d44ded7e47bed5c",
+            "path": "web/scripts/coreDeps.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/coreDeps.js.zip",
+            "size": 135873
+        },
+        {
+            "hash": "c5753d13a741d0b111abcff1705272da",
+            "path": "web/scripts/desktopNotificationsOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/desktopNotificationsOur.js.zip",
+            "size": 5139
+        },
+        {
+            "hash": "3c2cd945b1ba8b74a326da4ab30e0467",
+            "path": "web/scripts/dynamicLocaleDep.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/dynamicLocaleDep.js.zip",
+            "size": 1437
+        },
+        {
+            "hash": "2dbda04165d93a256af4521f6ead03d6",
+            "path": "web/scripts/galaxyNotificationsOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/galaxyNotificationsOur.js.zip",
+            "size": 12499
+        },
+        {
+            "hash": "638e409a0b28225fa13c6412f9afbf19",
+            "path": "web/scripts/gwentLauncherMainOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/gwentLauncherMainOur.js.zip",
+            "size": 429
+        },
+        {
+            "hash": "4a356126b9573eb7bd1e9a7494737410",
+            "path": "web/scripts/jqueryDeps.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/jqueryDeps.js.zip",
+            "size": 28902
+        },
+        {
+            "hash": "eb0c6b7f2b25419a3e1d25dce8193ee0",
+            "path": "web/scripts/mainDeps.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/mainDeps.js.zip",
+            "size": 85889
+        },
+        {
+            "hash": "46ba585aa34725e8158ddf1d0be0c4a4",
+            "path": "web/scripts/mainOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/mainOur.js.zip",
+            "size": 133037
+        },
+        {
+            "hash": "c7b8f7563c126ead508fee9ec703bd30",
+            "path": "web/scripts/overlayDeps.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/overlayDeps.js.zip",
+            "size": 18273
+        },
+        {
+            "hash": "f5779c659fad143035e54955cc21d0c8",
+            "path": "web/scripts/overlayOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/overlayOur.js.zip",
+            "size": 49948
+        },
+        {
+            "hash": "2dc45dd27177e8eb7938e73430e9dcb1",
+            "path": "web/scripts/settingsOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/settingsOur.js.zip",
+            "size": 16466
+        },
+        {
+            "hash": "8bb9bce876d7498e7d5e47c2bbdf2159",
+            "path": "web/scripts/windowOur.js",
+            "resource": "GalaxyClient/119983109/windows/web/scripts/windowOur.js.zip",
+            "size": 16155
+        },
+        {
+            "hash": "85f28df5dc8749fe4855e58f760086c5",
+            "path": "web/styles/client/chatWindowTemplate.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/chatWindowTemplate.css.zip",
+            "size": 5706
+        },
+        {
+            "hash": "6ba442830ef0bc7cdc7c791bb30ea071",
+            "path": "web/styles/client/desktopNotifications.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/desktopNotifications.css.zip",
+            "size": 3964
+        },
+        {
+            "hash": "27b97f45e4e0df98e8a059b571d36ca9",
+            "path": "web/styles/client/externalWindow.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/externalWindow.css.zip",
+            "size": 6266
+        },
+        {
+            "hash": "979f5ce1ce20234c1b24b0e69515fdd2",
+            "path": "web/styles/client/gwentBanner.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/gwentBanner.css.zip",
+            "size": 31522
+        },
+        {
+            "hash": "3239a7b1ecf84283b1ac47947c56448a",
+            "path": "web/styles/client/main.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/main.css.zip",
+            "size": 18695
+        },
+        {
+            "hash": "58f8b2e20bc5447051ac5bbf7bb4f7ff",
+            "path": "web/styles/client/settingsWindow.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/client/settingsWindow.css.zip",
+            "size": 7429
+        },
+        {
+            "hash": "058db63f548face5a9e770aae0c34654",
+            "path": "web/styles/overlay/overlay.css",
+            "resource": "GalaxyClient/119983109/windows/web/styles/overlay/overlay.css.zip",
+            "size": 13301
+        }
+    ],
+    "projectName": "GalaxyClient",
+    "symlinks": [],
+    "timestamp": "119983109",
+    "version": "1.2.31.10"
+}

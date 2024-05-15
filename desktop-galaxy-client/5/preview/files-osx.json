@@ -2489,4 +2489,195 @@
         {
             "exists": true,
             "hash": "5efb016d7cf5d290935033accda956ea",
-            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ru.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ru.lproj/locale.pak.zip",
+            "sha256": "ac1d233664a05477a0fcd12fdc91e5137b5b45fc3814912b119097b740016a85",
+            "size": 86533,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "4a8f9e6d216f84953e17485e8d67b891",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fr.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fr.lproj/locale.pak.zip",
+            "sha256": "ef15bf7367486c81fccd58207bae8b14d1f8cd584be73cab5679941832398a20",
+            "size": 74983,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "6f3454a01c8a130b516bcda474e936bd",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fi.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/fi.lproj/locale.pak.zip",
+            "sha256": "1e25074e6ab623f5f57a890e4d44ab0eabf833125a31903549e908372984c4c6",
+            "size": 70805,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "20d73b2f3015753995fac92bc16a3682",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/id.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/id.lproj/locale.pak.zip",
+            "sha256": "d3618c77f21c765923e00a03179facea40c13350038ff0c04d7c80ad49ec8608",
+            "size": 66811,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "29927d933d46c3443694ca734841a5fa",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nl.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/nl.lproj/locale.pak.zip",
+            "sha256": "8e581509eb963b55c63e4366f8fe6909070ea53366ce94763ae23d4f4a0a7995",
+            "size": 70614,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "d2e563d51be3261c9fa40f65ecc358cf",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/th.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/th.lproj/locale.pak.zip",
+            "sha256": "be9573e66ca15f9538a54e35455033bc758825300c75a676af027c39c5515271",
+            "size": 82748,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "a938cbfe7f25bcd860abbf5fc2d83873",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bn.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/bn.lproj/locale.pak.zip",
+            "sha256": "265655a24b1867acbf4a7194029feb675fb983bd0ff5ba97df913a8ebe2f6850",
+            "size": 93442,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "8cab2631ac6f4bd0536061896b0d84fc",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ro.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ro.lproj/locale.pak.zip",
+            "sha256": "b77606535e79e0b8789abcd3a63ec4cf66396ff742aa20905dcf255598200a4a",
+            "size": 73686,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "6981b2f6d4ea3005f2c766c1a46abe39",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hr.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hr.lproj/locale.pak.zip",
+            "sha256": "9fc9dbe3d1dbb14f85752fc8d2de9dedc733a10ed68f321fefeee21dab0786cd",
+            "size": 73690,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "134938989766d41809e66164f8b243f6",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hi.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/hi.lproj/locale.pak.zip",
+            "sha256": "f996ccd8da1d57371f63b6fdeb9228f84c796cc3d56b6ad5e2d3cabe6cfdfddf",
+            "size": 93212,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "46b91bb583d59d36ed29c1f9b2e63cb3",
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ca.lproj/locale.pak",
+            "resource": "GalaxyClient/175882620/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Resources/ca.lproj/locale.pak.zip",
+            "sha256": "3104c05ef8df6c96df928e645bfa150563e3ca7fcc517667df1868a9f0790f13",
+            "size": 72530,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "e58d42dae3dd8d7b649f7c63b6e5a142",
+            "path": "Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Info.plist",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Info.plist.zip",
+            "sha256": "bdcba6587d43debba1c16a17ba87f0eed18d86d5e3859c476ebf3bde04cf6268",
+            "size": 742,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "dd13e229ae8549d091f695819a54a6b1",
+            "path": "Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/PkgInfo.zip",
+            "sha256": "cd487fa44a8b388e5d3f0eb5093fcd5207ee0ac38e17e47481a41c9aee31c0de",
+            "size": 122,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5ad589d34235f116d2761f036379c199",
+            "path": "Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "563cf5bd7c02352ec0d5977b787c19c01a854e6385bbcb57237b96bb3c265ce6",
+            "size": 818,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "926435e1c9afa73ca42cf0c89a54b43a",
+            "path": "Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Resources/MainMenu.nib",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Resources/MainMenu.nib.zip",
+            "sha256": "db7bc87f55355edd4b051d2c52fb68705170a01d4c7de4e924268e98dbc2dfb9",
+            "size": 1058,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Protocol Helper.app/Contents/Resources/Galaxy.icns.zip",
+            "sha256": "0c9d72f75b1aefd6f7032f81f35f7d370069ebb2822f61284deea384eea3ee21",
+            "size": 1055949,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "5cf5ab75d453e455f061fe99232094f6",
+            "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/PkgInfo",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/PkgInfo.zip",
+            "sha256": "574b611d6fc25cad95fdf7ea7a89aa62eebc5d369cdb7e8c476e7e602bfdb560",
+            "size": 122,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "6365f1a4d04cc282ed78299deaf2e87f",
+            "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/_CodeSignature/CodeResources",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "f17df2f4a4e8c8dda0b832a5132785471f03e7a0975b7b5b597bf82df6a47e78",
+            "size": 732,
+            "unsignedHash": null
+        },
+        {
+            "exists": true,
+            "hash": "0c2c29ec6b34b5ec5ef42f18d15ea91f",
+            "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/Resources/Galaxy.icns",
+            "resource": "GalaxyClient/166631662/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/Resources/Galaxy.icns.zip",
+            "sha256": "0c9d72f75b1aefd6f7032f81f35f7d370069ebb2822f61284deea384eea3ee21",
+            "size": 1055949,
+            "unsignedHash": null
+        }
+    ],
+    "forceUpdate": false,
+    "projectName": "GalaxyClient",
+    "symlinks": [
+        {
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Chromium Embedded Framework",
+            "target": "Versions/A/Chromium Embedded Framework"
+        },
+        {
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Resources",
+            "target": "Versions/A/Resources"
+        },
+        {
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Libraries",
+            "target": "Versions/A/Libraries"
+        },
+        {
+            "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/Current",
+            "target": "A"
+        }
+    ],
+    "timestamp": "186750960",
+    "version": "1.2.60.17"
+}
