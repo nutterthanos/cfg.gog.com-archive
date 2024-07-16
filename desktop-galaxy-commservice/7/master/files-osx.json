@@ -13,17 +13,17 @@
         },
         {
             "exists": true,
-            "hash": "c8e11e52637e6224ee08ecca55001795",
+            "hash": "33310af0d469d92bbe42cfc4ebb6e5b1",
             "path": "GalaxyCommunication",
-            "resource": "GalaxyCommunicationService/320426181/osx/GalaxyCommunication.zip",
-            "sha256": "c30c36020e0d060b3891deade7f8b3be49ba5824708a658e9e452af116ca59b8",
-            "size": 4983044,
-            "unsignedHash": "fd40797e190c6f3a14b0577fcdb9a544"
+            "resource": "GalaxyCommunicationService/326562703/osx/GalaxyCommunication.zip",
+            "sha256": "315b79ba4562e5d9cbbe024e1726c24214949751b79962d7d1201a111c5d4ad2",
+            "size": 4983791,
+            "unsignedHash": "290ca578cd106ce54199585e6f9c08a5"
         }
     ],
     "forceUpdate": false,
     "projectName": "GalaxyCommunicationService",
     "symlinks": [],
-    "timestamp": "320426181",
-    "version": "2.0.11.248"
+    "timestamp": "326562703",
+    "version": "2.0.12.59"
 }

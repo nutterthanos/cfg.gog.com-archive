@@ -4,17 +4,17 @@
     "files": [
         {
             "exists": true,
-            "hash": "880582f1109fcd85a0a37cee73c341d4",
+            "hash": "f62251807758caac83a13f322afe68cc",
             "path": "GalaxyCommunication.exe",
-            "resource": "GalaxyCommunicationService/320426149/windows/GalaxyCommunication.exe.zip",
-            "sha256": "e4724a1452c799f13e307202383e013302b35e755bc7af267ba3386bee0fd415",
-            "size": 3158606,
-            "unsignedHash": "c584dd6daefa1f02621ed1f91cc8c07f"
+            "resource": "GalaxyCommunicationService/326562553/windows/GalaxyCommunication.exe.zip",
+            "sha256": "b8134caa61e1b8822ef04292ddae8a8a0e4626e030d43da24af5804a9e39e809",
+            "size": 3159603,
+            "unsignedHash": "fa5f9576cdee42cf590d3afce2769c76"
         }
     ],
     "forceUpdate": false,
     "projectName": "GalaxyCommunicationService",
     "symlinks": [],
-    "timestamp": "320426149",
-    "version": "2.0.11.250"
+    "timestamp": "326562553",
+    "version": "2.0.12.61"
 }

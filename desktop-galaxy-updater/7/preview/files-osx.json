@@ -4,155 +4,155 @@
     "files": [
         {
             "exists": true,
-            "hash": "6cdfc5a2c8badcad01d795d61fbb91ad",
+            "hash": "ced8bf70a818e32709ccc86c1fb86c39",
             "path": "GalaxyUpdater.app/Contents/_CodeSignature/CodeResources",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/_CodeSignature/CodeResources.zip",
-            "sha256": "a042098ffa3644e341f93df28b77dd1984f766436de4060ef75d0c445dc44a0c",
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "32c397bab96de95086121bd0b8d2d20cd07a0d9f31d70ff95f5d9d772ca7e961",
             "size": 3963,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "f0e29649f73bc7957afa045e07430b04",
+            "hash": "c0aa97ee8db4d1b426951aeab3f734ba",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libcrypto.1.1.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libcrypto.1.1.dylib.zip",
-            "sha256": "b90f56f7080f642222a92099fc6a774e570ea6f61431d343aaeb5c6f24fd3c0e",
-            "size": 1248828,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libcrypto.1.1.dylib.zip",
+            "sha256": "5e8d58aaaa75644154bca174251ee8f95a059a18409554dba3d6f7758a01fe77",
+            "size": 1248829,
             "unsignedHash": "f3ae1fa41275dcefebe3e49c63bcb375"
         },
         {
             "exists": true,
-            "hash": "c05d67e23d297b78031aabca3e8fcc93",
+            "hash": "cae7be66e7cff2c88f7e930c67fed555",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libexpat.1.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libexpat.1.dylib.zip",
-            "sha256": "96ad1ff7e8319ff5359e3c4226c4281768956e6f981a43db7c21b7810e9a30c5",
-            "size": 75623,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libexpat.1.dylib.zip",
+            "sha256": "29d1ef065a350fc3675e91acd30dcd277ac2432bf1e8ab088525ddd3f5ad5249",
+            "size": 75624,
             "unsignedHash": "342c3dbe2224f2cb6f598e3910d85ec2"
         },
         {
             "exists": true,
-            "hash": "0b33ac7dfafd90e2ce2271b6c0280b1c",
+            "hash": "bebc3534fffb98092ea99c8dfe8692cf",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libpcre2-8.0.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libpcre2-8.0.dylib.zip",
-            "sha256": "b6397028b8a9cc09b520a8dae5f2eb35829002cc159f39295fa25345470dd167",
-            "size": 284105,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libpcre2-8.0.dylib.zip",
+            "sha256": "75282fe02eb1a960ebcb20e5ba014979c41877317cdebb09aaa7e907307188d0",
+            "size": 284108,
             "unsignedHash": "7082392f0afdb700c2a6d4d0c2311f03"
         },
         {
             "exists": true,
-            "hash": "98d9d1faa5991430708003304f438f66",
+            "hash": "f1b837fa22d383335d2e101ba542cbbd",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoCrypto.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoCrypto.92.dylib.zip",
-            "sha256": "bb92ead489633b61c7242772124a92b440f81c44c8cb48be903b8a9ee961c47e",
-            "size": 114571,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoCrypto.92.dylib.zip",
+            "sha256": "b32edd2b0a4d54f27ec391663232f4c917b924fd08cbad899eb3969c2653f33c",
+            "size": 114572,
             "unsignedHash": "b6c02c534193014310642ed26d7a64ba"
         },
         {
             "exists": true,
-            "hash": "4b06ffef3c4d2652550a3b0a41c81301",
+            "hash": "8913f8417ec832f0cee9bd2b21174ab9",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoData.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoData.92.dylib.zip",
-            "sha256": "fdaf5331f9734e61a05dcce69af932c8c3a13cf409c8d0a2babca1a4592d59b4",
-            "size": 541955,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoData.92.dylib.zip",
+            "sha256": "6a21dd6a6814e338a701d4f0f9ac3bc41d891cfde2ed54f81afd73d49d1dc626",
+            "size": 541953,
             "unsignedHash": "1b26e2cbe31d26a48e319513494bfec0"
         },
         {
             "exists": true,
-            "hash": "75cfb398de100934033ae3c6e0c833a7",
+            "hash": "bced3970214fe5796ffb73b79a88815b",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoDataSQLite.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoDataSQLite.92.dylib.zip",
-            "sha256": "10f9418c76aa3ee95ba0422a3938810a8cff545b826bdf9968cd6a138e1c43b3",
-            "size": 109558,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoDataSQLite.92.dylib.zip",
+            "sha256": "d5962aea739af26980ed3bf0a620ba14127a83f8aa7851dfef26927c4b786309",
+            "size": 109550,
             "unsignedHash": "523daedc9950a16fa86f42b45c82ef26"
         },
         {
             "exists": true,
-            "hash": "e852348f15140d6b710f6335e544bc18",
+            "hash": "ab64e7ef7052ef9aea81ffa55a24a304",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoFoundation.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoFoundation.92.dylib.zip",
-            "sha256": "284320aa8504da82440fd305370128374dc5ddf4a4138160df01bb3ca0e99d91",
-            "size": 630804,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoFoundation.92.dylib.zip",
+            "sha256": "c4c1ff99f930b8279ad327aaab87615571a996c629e82d799742f2ae22aad352",
+            "size": 630805,
             "unsignedHash": "7e70fc6ca504281169e01b06cfd9c8e5"
         },
         {
             "exists": true,
-            "hash": "a6cdde2b769b3819539a3e59c4bc846f",
+            "hash": "b9c26ee1aa505274af98ccee5d08852c",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoJSON.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoJSON.92.dylib.zip",
-            "sha256": "774e77e5fd926526cbb9c42779f125d1869d885840640894470a534f001cee50",
-            "size": 138241,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoJSON.92.dylib.zip",
+            "sha256": "1486d503fcf97e2b2641c0bb8665ca800e9f231b52f078af646bdd51ab43edea",
+            "size": 138236,
             "unsignedHash": "5d6459cbbb368e943b81c702e0d16bc0"
         },
         {
             "exists": true,
-            "hash": "a7b70044a8a9154222bbf66fd5ff2e14",
+            "hash": "0e0d75cb28f53065651515d21dec9dff",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoNet.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNet.92.dylib.zip",
-            "sha256": "d3308be0f77d47faa0aaf5f0c004afe0d906ce5d8aaad18c907c8bcca6fdbfb5",
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNet.92.dylib.zip",
+            "sha256": "3d96edd74deabc539a39c594fcf07e21a757b3c2ac0d62de7c8eea808921bf9d",
             "size": 489946,
             "unsignedHash": "0f266caee5ef47926c667b04f7012dc3"
         },
         {
             "exists": true,
-            "hash": "5b0b8f98cbb2116656c514c1fa796523",
+            "hash": "2ecb09e634ca45823c9ef5407a449221",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoNetSSL.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNetSSL.92.dylib.zip",
-            "sha256": "fb5b76086a1424ac6142f393922df176e22eb69e7948ad4510a7b90644dd70fe",
-            "size": 103609,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoNetSSL.92.dylib.zip",
+            "sha256": "b4e3020ae002766b965398634fe7053d030f778b2c0458be3c2dad1df4cc33a8",
+            "size": 103598,
             "unsignedHash": "19567e3267ffb75d57bc84c703fab197"
         },
         {
             "exists": true,
-            "hash": "f61046abd643dbb21419469c38a041d1",
+            "hash": "f1542d99458dbfc115d0a08ee4c1af08",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoUtil.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoUtil.92.dylib.zip",
-            "sha256": "a8230bac2f7c7a066a28bd68f66210b8806913bdc18e62775225031e254f1421",
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoUtil.92.dylib.zip",
+            "sha256": "ffa544adea6d1a134e04fe74e57dab2a5cf7c9fe807ab524b06cfedb263bfa4a",
             "size": 160921,
             "unsignedHash": "b44c50d4954d11805b1e318fae5db67d"
         },
         {
             "exists": true,
-            "hash": "9fea05d544a10e61d2a7260c3347a822",
+            "hash": "ee2443ff3859f44d75d607bbca3c5c2c",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoXML.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoXML.92.dylib.zip",
-            "sha256": "9603444354988352e51ad817de56717f0d3986dffe6abf250c9c93d00f8b4f36",
-            "size": 169530,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoXML.92.dylib.zip",
+            "sha256": "b9b16e56b31d84e66fe5a6e63e23056b42a809ac5bb081251214f1418b20973b",
+            "size": 169531,
             "unsignedHash": "265b67dbae20aa2574e5dc8912fee5ae"
         },
         {
             "exists": true,
-            "hash": "a45e21f877548b04cbb798f6728e0785",
+            "hash": "276323dc6a77971f5988ddb226b0e855",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libPocoZip.92.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoZip.92.dylib.zip",
-            "sha256": "118bf1d6a42ded586849d56e9b89aa635838a69ce277380d7852f225683ed495",
-            "size": 93221,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libPocoZip.92.dylib.zip",
+            "sha256": "61f85abf3d53cb01e984a331f04b750feaaf0142f4e975fd7472e3ffee3d4d35",
+            "size": 93219,
             "unsignedHash": "499e0d61e1f1af45a5450157db7f4c6f"
         },
         {
             "exists": true,
-            "hash": "de593d0fd163cc7bd37a0aa17d3913b2",
+            "hash": "e09b06e0f0d0789c442a05082db873bf",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libsqlite.3.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libsqlite.3.dylib.zip",
-            "sha256": "efabc7c48eaf7644f0eee4f9634cf9bb5cb63ff90ba4d49d1b025c2f111a6cff",
-            "size": 745958,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libsqlite.3.dylib.zip",
+            "sha256": "7749d65832d3c3ddf1340e479d4f05e8dac361f1b13235fd69af8fe3647f844f",
+            "size": 745956,
             "unsignedHash": "6df277c0540235baf6682f65f68882df"
         },
         {
             "exists": true,
-            "hash": "c10aa077e4d043d6705df7395c07bf05",
+            "hash": "42942739f6a1ff2dffc596039f2b6abb",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libssl.1.1.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libssl.1.1.dylib.zip",
-            "sha256": "c1d320dde2f7488f25b045dd54991e6be37e4938ec56736e3f4693912714e6b9",
-            "size": 235240,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libssl.1.1.dylib.zip",
+            "sha256": "d049acee23095be8ae89c70107a85f4ab3e8de10684169c92bf849e9120534f3",
+            "size": 235239,
             "unsignedHash": "5dff8464ca87702f059299a50ca68357"
         },
         {
             "exists": true,
-            "hash": "933d39c2aac3b0a85203434e077d2b21",
+            "hash": "a7f28656c142fb7c3db0caf68f19a00a",
             "path": "GalaxyUpdater.app/Contents/Frameworks/libz.1.dylib",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/libz.1.dylib.zip",
-            "sha256": "14434f254a0432e2e4ae05910c1ac8694e8d510042e2f2ec2986ad8322c542d9",
-            "size": 60263,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/libz.1.dylib.zip",
+            "sha256": "232b446640e7bd3d525594fe8740142a54f754e48aa29af8b11093e72bdf7489",
+            "size": 60265,
             "unsignedHash": "9892a1c2406c96cd69f0885da033fd37"
         },
         {
@@ -166,11 +166,11 @@
         },
         {
             "exists": true,
-            "hash": "6b68e5b65c861d872b99cf3a31787816",
+            "hash": "59b0c68f26718c53d8f8df39c152f58f",
             "path": "GalaxyUpdater.app/Contents/Frameworks/QtCore.framework/QtCore",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/QtCore.framework/QtCore.zip",
-            "sha256": "f88d94dfcbfb9bf142571cbf69caaf6f8908f4e37ad1fb6f1bd1e949482d3064",
-            "size": 3022502,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/QtCore.framework/QtCore.zip",
+            "sha256": "38985b5ae83ce94cd11ee7a91b8e33f43717bc83f0142a6a2b22f0fef3577688",
+            "size": 3022498,
             "unsignedHash": "2b034ad6d7fca1df16c80dc001fcda7e"
         },
         {
@@ -202,10 +202,10 @@
         },
         {
             "exists": true,
-            "hash": "d53ce8cd8ae8d46493e4dd9911ae2c60",
+            "hash": "045e67c6c41c7ef33b8096e8ab3602bc",
             "path": "GalaxyUpdater.app/Contents/Frameworks/QtNetwork.framework/QtNetwork",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Frameworks/QtNetwork.framework/QtNetwork.zip",
-            "sha256": "1975b62bdb9eb231b36e8fb288b364d7abf624a11750f05f4fe834607dbd63e3",
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Frameworks/QtNetwork.framework/QtNetwork.zip",
+            "sha256": "8499b4bda90e4e13e6f0557e017704ee4eecd022770063110a51559ce46e5a71",
             "size": 596672,
             "unsignedHash": "acd920f6976db50e64c43b45a3e5916d"
         },
@@ -229,21 +229,21 @@
         },
         {
             "exists": true,
-            "hash": "3a7e5d88b47c3fa55c45329d0d2bd6ff",
+            "hash": "8f17608d0bfe1a66815375499df27871",
             "path": "GalaxyUpdater.app/Contents/Info.plist",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Info.plist.zip",
-            "sha256": "89be31b801bc3ee27ca4ed894ce729545fe51146da4de7a1b875d42107afa76b",
-            "size": 754,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Info.plist.zip",
+            "sha256": "679a54a50dc756cdec169712d12700da2690bcd616eea988a6a7bc6e737dfc2a",
+            "size": 752,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "feeed1ad124deecd5333c02ab00102c0",
+            "hash": "3c931caddd41d61989a9dcc977aa84fa",
             "path": "GalaxyUpdater.app/Contents/MacOS/GalaxyUpdater",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/MacOS/GalaxyUpdater.zip",
-            "sha256": "a39acab0f0beecf7374bea8aff0287fe87bee61b694d5cbe1780f0e9c6c22be7",
-            "size": 2893155,
-            "unsignedHash": "1c9ac54e077fdbdcece6be2e70553dab"
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/MacOS/GalaxyUpdater.zip",
+            "sha256": "116e45a3d088064d492eadd9710936b0ec5ec2ab14f3e6a92e3c8a9b92d3403e",
+            "size": 2922463,
+            "unsignedHash": "5ae0e3b3659d49a7469aa4cbe2ad0e24"
         },
         {
             "exists": true,
@@ -265,11 +265,11 @@
         },
         {
             "exists": true,
-            "hash": "bdbc911f87e039e8fa22a09290eb7852",
+            "hash": "2aef2a0ef620557ac4f81b6b1c06f301",
             "path": "GalaxyUpdater.app/Contents/Resources/Assets.car",
-            "resource": "GalaxyUpdater/320427468/osx/GalaxyUpdater.app/Contents/Resources/Assets.car.zip",
-            "sha256": "6c982aeb6482b2089ba343f797d8e552300cd5c59982fdad5f57563d6ec823e9",
-            "size": 596008,
+            "resource": "GalaxyUpdater/326563822/osx/GalaxyUpdater.app/Contents/Resources/Assets.car.zip",
+            "sha256": "a281a1e5cab58a1b2d0ba85c5d504f868e8496c4a7536d7464ce049e013511e0",
+            "size": 596004,
             "unsignedHash": null
         },
         {
@@ -301,11 +301,11 @@
         },
         {
             "exists": true,
-            "hash": "e9aa0b7de84c5c1b28e2aa8925808383",
+            "hash": "eee8c649e9d5be23e775bf660a6c60ca",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/de-DE/final.json",
-            "resource": "GalaxyUpdater/320335793/osx/GalaxyUpdater.app/Contents/Resources/web/locales/de-DE/final.json.zip",
-            "sha256": "a5e9f680406a5bc50a4be008125de0906a224d631ef3f5e561cd0e090e85273e",
-            "size": 38320,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/de-DE/final.json.zip",
+            "sha256": "00a74a2f0c05a2c9e7246bee0443ee6251af99afbc5747c744a0b58f7b51f6ab",
+            "size": 38554,
             "unsignedHash": null
         },
         {
@@ -319,11 +319,11 @@
         },
         {
             "exists": true,
-            "hash": "35a480f9b79fefcc52fbeb9f407b9ddb",
+            "hash": "da1ce3af7154680d4c030eb8b4f97693",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/en-US/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/en-US/final.json.zip",
-            "sha256": "696168032cb8e76bfeb70892bb7a027e66d9284dd5ee839852f964eed0e5441d",
-            "size": 33686,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/en-US/final.json.zip",
+            "sha256": "84195d046a49c812a218b39acd82de28fd45f7598a53456ea3bf3d493cd544a7",
+            "size": 33872,
             "unsignedHash": null
         },
         {
@@ -337,11 +337,11 @@
         },
         {
             "exists": true,
-            "hash": "f86bc94f7284d7c87078991bb1691469",
+            "hash": "e853d9f3fccf281a3d730d76ec3014bf",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/es-ES/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/es-ES/final.json.zip",
-            "sha256": "006567740a45a57845c12135223bbbb5cbc9521a23cd271f61392d7d3794364c",
-            "size": 37587,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/es-ES/final.json.zip",
+            "sha256": "cb7296c863ca4e1cbd195966ca310755c12f16eb8c934d184f6eb61a08648fa5",
+            "size": 37815,
             "unsignedHash": null
         },
         {
@@ -355,11 +355,11 @@
         },
         {
             "exists": true,
-            "hash": "e25e78f1d479f08220d3bbcc74c98c37",
+            "hash": "48a64dc0feb64651fe53471adcb05d17",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/es-MX/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/es-MX/final.json.zip",
-            "sha256": "c0e0797eb6bce33cec724725534412bf6a8b16f88db7ad8d1ebca391bc975c50",
-            "size": 36271,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/es-MX/final.json.zip",
+            "sha256": "8527661f6d2c764e748a8b3d8e583bca20dc0cd6c737ce2aff392cadf6ce7c11",
+            "size": 36485,
             "unsignedHash": null
         },
         {
@@ -373,11 +373,11 @@
         },
         {
             "exists": true,
-            "hash": "03bd4fc773c0a12e069989d4e5092914",
+            "hash": "2c4ecbf973ef613aabfbf4c57faccd19",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/fr-FR/final.json",
-            "resource": "GalaxyUpdater/320335793/osx/GalaxyUpdater.app/Contents/Resources/web/locales/fr-FR/final.json.zip",
-            "sha256": "494032bc701750d10d06a2fa90ee4f80c4d111796c9fc9325e32e0a242455482",
-            "size": 37952,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/fr-FR/final.json.zip",
+            "sha256": "2e04cdd2ad2e26cc59befa0e97634315cbac23d9ed0cabbce18191d50c59029e",
+            "size": 38179,
             "unsignedHash": null
         },
         {
@@ -391,11 +391,11 @@
         },
         {
             "exists": true,
-            "hash": "b1617c89b11c2c2e7ff865c6ed06c5b2",
+            "hash": "83fb66838f33c3e8e4d91df537c6136e",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/it-IT/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/it-IT/final.json.zip",
-            "sha256": "3566abd38516f238ae24a3a0e091ace67dbd05eabf1a38517c4cb4d35e3f683b",
-            "size": 36616,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/it-IT/final.json.zip",
+            "sha256": "666c801ee85863077b5587a83318f4ae46196970a79dbabdd9067139b4bdad1d",
+            "size": 36835,
             "unsignedHash": null
         },
         {
@@ -409,11 +409,11 @@
         },
         {
             "exists": true,
-            "hash": "a771a1290b4d84472a870182bf30c15b",
+            "hash": "fe8479df581d4c4af3bfc3099c58a3fd",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/ja-JP/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ja-JP/final.json.zip",
-            "sha256": "c47a8e16a1aee21863560b9eab6ccc45af782322a0c4ddf0a6b070c46a991017",
-            "size": 38759,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ja-JP/final.json.zip",
+            "sha256": "e6c22fb54fd50a17bf559b7c64c82eca3b93303c82ffc00bf047c219cf771f37",
+            "size": 38991,
             "unsignedHash": null
         },
         {
@@ -427,11 +427,11 @@
         },
         {
             "exists": true,
-            "hash": "77a3c96ce4f569939a743e8b211523e2",
+            "hash": "9571356ab849ba0f8060aaa50f9ac663",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/ko-KR/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ko-KR/final.json.zip",
-            "sha256": "b0813372912d13b4d2c39c71236badb72de0c9bf7c2f19df86627a8a3fb2c101",
-            "size": 38001,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ko-KR/final.json.zip",
+            "sha256": "ff3ce6d998ea5ca7c31e1aaffce3c2792044919934ca438ff7758c13614414e8",
+            "size": 38234,
             "unsignedHash": null
         },
         {
@@ -454,11 +454,11 @@
         },
         {
             "exists": true,
-            "hash": "8edbec377f7350699e8af3c617c10e3e",
+            "hash": "7ebaff62cd2ab4748c6c725a4b7d2461",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/pl-PL/final.json",
-            "resource": "GalaxyUpdater/320335793/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pl-PL/final.json.zip",
-            "sha256": "db78e3a0ff75194ddda0231d4ec0d180af2bad0eb2688cc55e7e92466be3f1ad",
-            "size": 38665,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pl-PL/final.json.zip",
+            "sha256": "9f4dfa0e4886d237dc3a35aaf145bdd1474ad801b3c3440e7aeea4641665e1d0",
+            "size": 38905,
             "unsignedHash": null
         },
         {
@@ -472,11 +472,11 @@
         },
         {
             "exists": true,
-            "hash": "684aa5212c4986b944f8c99491a0aae6",
+            "hash": "91eb1805b8856a4d8db2f51ed43b2ff5",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/pt-BR/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pt-BR/final.json.zip",
-            "sha256": "5dd381f681a64fee37e93ac29caf8f0d9f09e7fcc9ce7644eccbf272226715a7",
-            "size": 36899,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pt-BR/final.json.zip",
+            "sha256": "d63df68404bffcc01688a3430307ad03bf59af86e9189c6882906e2e142fc114",
+            "size": 37112,
             "unsignedHash": null
         },
         {
@@ -490,11 +490,11 @@
         },
         {
             "exists": true,
-            "hash": "d392918def09a9270ba4dee20bd7f8f1",
+            "hash": "a59f40789a7dc50f90845be077cf34f9",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/pt-PT/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pt-PT/final.json.zip",
-            "sha256": "78d31e4413a6f4fefe421f102261dd3355cd9c2599d6adfc5af7870722859266",
-            "size": 34328,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/pt-PT/final.json.zip",
+            "sha256": "9b92a1a0dd40b55c211265ee5312d4128d579ed0111340bc71397a4d758e04c7",
+            "size": 34513,
             "unsignedHash": null
         },
         {
@@ -508,11 +508,11 @@
         },
         {
             "exists": true,
-            "hash": "5ad44c47df52579049d6dc04e173f01a",
+            "hash": "503c339a8109fd5b1b006e177709cce5",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/ru-RU/final.json",
-            "resource": "GalaxyUpdater/320335793/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ru-RU/final.json.zip",
-            "sha256": "ef6b5f8c4ac11f4b13c5c5af38f707220a1c6d54a5e8909031248bdcea542e68",
-            "size": 43552,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/ru-RU/final.json.zip",
+            "sha256": "03bac6826532a8afdafad702b7600b15703dfc0fd69dc6816ae5f3633e3f064d",
+            "size": 43812,
             "unsignedHash": null
         },
         {
@@ -526,11 +526,11 @@
         },
         {
             "exists": true,
-            "hash": "69b6d269134563b11419c9c28d49eb63",
+            "hash": "fb153306cad76937f92e4e696299967f",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/uk-UA/final.json",
-            "resource": "GalaxyUpdater/302624138/osx/GalaxyUpdater.app/Contents/Resources/web/locales/uk-UA/final.json.zip",
-            "sha256": "2c90eea3a2ecbff599e05f3a64175bda381f291f2600d18c5537a2cc7e207bae",
-            "size": 43825,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/uk-UA/final.json.zip",
+            "sha256": "20b17625d51bfb66af1ce5dc65171447403355b95544bd2e794a9685aaa0c4b2",
+            "size": 44085,
             "unsignedHash": null
         },
         {
@@ -544,11 +544,11 @@
         },
         {
             "exists": true,
-            "hash": "d0cedd82dca288e551bc5d7c4bf646e4",
+            "hash": "b7d17492e021e8dfecad38d1b62e71b5",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hans/final.json",
-            "resource": "GalaxyUpdater/304600435/osx/GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hans/final.json.zip",
-            "sha256": "fa181e19465f5251c7f8a4b57c4bd28dbdfa9f4a779cc5dd73509ac880e56469",
-            "size": 37878,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hans/final.json.zip",
+            "sha256": "cac2e6cc35be9886df2b7fdb3c9657e0496c217b82e9807618d337bd55947320",
+            "size": 38118,
             "unsignedHash": null
         },
         {
@@ -562,11 +562,11 @@
         },
         {
             "exists": true,
-            "hash": "56abbc03ab161bf0652eb5c9cc0c2cbd",
+            "hash": "f7e6f5884bdf7ac9e73c422723473b55",
             "path": "GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hant/final.json",
-            "resource": "GalaxyUpdater/304600435/osx/GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hant/final.json.zip",
-            "sha256": "311ad2ca0f474f64f38e2515aa7d7bd3c94a052e2dad01bdb6753706075ff774",
-            "size": 37640,
+            "resource": "GalaxyUpdater/326299667/osx/GalaxyUpdater.app/Contents/Resources/web/locales/zh-Hant/final.json.zip",
+            "sha256": "4ce98bf9385fb6188bfb848255f41bd9775e04a6662219e22fdfc6223bccf9d3",
+            "size": 37872,
             "unsignedHash": null
         },
         {
@@ -582,6 +582,6 @@
     "forceUpdate": false,
     "projectName": "GalaxyUpdater",
     "symlinks": [],
-    "timestamp": "320427468",
-    "version": "2.0.74.336"
+    "timestamp": "326563822",
+    "version": "2.0.75.138"
 }

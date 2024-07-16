@@ -4,12 +4,12 @@
     "files": [
         {
             "exists": true,
-            "hash": "a90a347882ed95307eb70120528fa4cb",
+            "hash": "d7e40ecd8f88adbf711ebaa27f3c5d85",
             "path": "GalaxyUpdater.exe",
-            "resource": "GalaxyUpdater/320427578/windows/GalaxyUpdater.exe.zip",
-            "sha256": "433cb8254c60a0c326f24d3a3eb697ec7e8d546013af7410cc9940db0fc6350c",
-            "size": 986201,
-            "unsignedHash": "673d52ddc31ba5401d4b9a452e8e7b81"
+            "resource": "GalaxyUpdater/326563833/windows/GalaxyUpdater.exe.zip",
+            "sha256": "5f7d12758115133ede94200b97392eed8de37421d9118373cd2c6cc93b40703d",
+            "size": 996253,
+            "unsignedHash": "9be8886ca75b83a0b569e02f04707039"
         },
         {
             "exists": true,
@@ -175,11 +175,11 @@
         },
         {
             "exists": true,
-            "hash": "e9aa0b7de84c5c1b28e2aa8925808383",
+            "hash": "eee8c649e9d5be23e775bf660a6c60ca",
             "path": "web/locales/de-DE/final.json",
-            "resource": "GalaxyUpdater/320335806/windows/web/locales/de-DE/final.json.zip",
-            "sha256": "a5e9f680406a5bc50a4be008125de0906a224d631ef3f5e561cd0e090e85273e",
-            "size": 38320,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/de-DE/final.json.zip",
+            "sha256": "00a74a2f0c05a2c9e7246bee0443ee6251af99afbc5747c744a0b58f7b51f6ab",
+            "size": 38554,
             "unsignedHash": null
         },
         {
@@ -193,11 +193,11 @@
         },
         {
             "exists": true,
-            "hash": "35a480f9b79fefcc52fbeb9f407b9ddb",
+            "hash": "da1ce3af7154680d4c030eb8b4f97693",
             "path": "web/locales/en-US/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/en-US/final.json.zip",
-            "sha256": "696168032cb8e76bfeb70892bb7a027e66d9284dd5ee839852f964eed0e5441d",
-            "size": 33686,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/en-US/final.json.zip",
+            "sha256": "84195d046a49c812a218b39acd82de28fd45f7598a53456ea3bf3d493cd544a7",
+            "size": 33872,
             "unsignedHash": null
         },
         {
@@ -211,11 +211,11 @@
         },
         {
             "exists": true,
-            "hash": "f86bc94f7284d7c87078991bb1691469",
+            "hash": "e853d9f3fccf281a3d730d76ec3014bf",
             "path": "web/locales/es-ES/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/es-ES/final.json.zip",
-            "sha256": "006567740a45a57845c12135223bbbb5cbc9521a23cd271f61392d7d3794364c",
-            "size": 37587,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/es-ES/final.json.zip",
+            "sha256": "cb7296c863ca4e1cbd195966ca310755c12f16eb8c934d184f6eb61a08648fa5",
+            "size": 37815,
             "unsignedHash": null
         },
         {
@@ -229,11 +229,11 @@
         },
         {
             "exists": true,
-            "hash": "e25e78f1d479f08220d3bbcc74c98c37",
+            "hash": "48a64dc0feb64651fe53471adcb05d17",
             "path": "web/locales/es-MX/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/es-MX/final.json.zip",
-            "sha256": "c0e0797eb6bce33cec724725534412bf6a8b16f88db7ad8d1ebca391bc975c50",
-            "size": 36271,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/es-MX/final.json.zip",
+            "sha256": "8527661f6d2c764e748a8b3d8e583bca20dc0cd6c737ce2aff392cadf6ce7c11",
+            "size": 36485,
             "unsignedHash": null
         },
         {
@@ -247,11 +247,11 @@
         },
         {
             "exists": true,
-            "hash": "03bd4fc773c0a12e069989d4e5092914",
+            "hash": "2c4ecbf973ef613aabfbf4c57faccd19",
             "path": "web/locales/fr-FR/final.json",
-            "resource": "GalaxyUpdater/320335806/windows/web/locales/fr-FR/final.json.zip",
-            "sha256": "494032bc701750d10d06a2fa90ee4f80c4d111796c9fc9325e32e0a242455482",
-            "size": 37952,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/fr-FR/final.json.zip",
+            "sha256": "2e04cdd2ad2e26cc59befa0e97634315cbac23d9ed0cabbce18191d50c59029e",
+            "size": 38179,
             "unsignedHash": null
         },
         {
@@ -265,11 +265,11 @@
         },
         {
             "exists": true,
-            "hash": "b1617c89b11c2c2e7ff865c6ed06c5b2",
+            "hash": "83fb66838f33c3e8e4d91df537c6136e",
             "path": "web/locales/it-IT/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/it-IT/final.json.zip",
-            "sha256": "3566abd38516f238ae24a3a0e091ace67dbd05eabf1a38517c4cb4d35e3f683b",
-            "size": 36616,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/it-IT/final.json.zip",
+            "sha256": "666c801ee85863077b5587a83318f4ae46196970a79dbabdd9067139b4bdad1d",
+            "size": 36835,
             "unsignedHash": null
         },
         {
@@ -283,11 +283,11 @@
         },
         {
             "exists": true,
-            "hash": "a771a1290b4d84472a870182bf30c15b",
+            "hash": "fe8479df581d4c4af3bfc3099c58a3fd",
             "path": "web/locales/ja-JP/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/ja-JP/final.json.zip",
-            "sha256": "c47a8e16a1aee21863560b9eab6ccc45af782322a0c4ddf0a6b070c46a991017",
-            "size": 38759,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/ja-JP/final.json.zip",
+            "sha256": "e6c22fb54fd50a17bf559b7c64c82eca3b93303c82ffc00bf047c219cf771f37",
+            "size": 38991,
             "unsignedHash": null
         },
         {
@@ -301,11 +301,11 @@
         },
         {
             "exists": true,
-            "hash": "77a3c96ce4f569939a743e8b211523e2",
+            "hash": "9571356ab849ba0f8060aaa50f9ac663",
             "path": "web/locales/ko-KR/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/ko-KR/final.json.zip",
-            "sha256": "b0813372912d13b4d2c39c71236badb72de0c9bf7c2f19df86627a8a3fb2c101",
-            "size": 38001,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/ko-KR/final.json.zip",
+            "sha256": "ff3ce6d998ea5ca7c31e1aaffce3c2792044919934ca438ff7758c13614414e8",
+            "size": 38234,
             "unsignedHash": null
         },
         {
@@ -328,11 +328,11 @@
         },
         {
             "exists": true,
-            "hash": "8edbec377f7350699e8af3c617c10e3e",
+            "hash": "7ebaff62cd2ab4748c6c725a4b7d2461",
             "path": "web/locales/pl-PL/final.json",
-            "resource": "GalaxyUpdater/320335806/windows/web/locales/pl-PL/final.json.zip",
-            "sha256": "db78e3a0ff75194ddda0231d4ec0d180af2bad0eb2688cc55e7e92466be3f1ad",
-            "size": 38665,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/pl-PL/final.json.zip",
+            "sha256": "9f4dfa0e4886d237dc3a35aaf145bdd1474ad801b3c3440e7aeea4641665e1d0",
+            "size": 38905,
             "unsignedHash": null
         },
         {
@@ -346,11 +346,11 @@
         },
         {
             "exists": true,
-            "hash": "684aa5212c4986b944f8c99491a0aae6",
+            "hash": "91eb1805b8856a4d8db2f51ed43b2ff5",
             "path": "web/locales/pt-BR/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/pt-BR/final.json.zip",
-            "sha256": "5dd381f681a64fee37e93ac29caf8f0d9f09e7fcc9ce7644eccbf272226715a7",
-            "size": 36899,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/pt-BR/final.json.zip",
+            "sha256": "d63df68404bffcc01688a3430307ad03bf59af86e9189c6882906e2e142fc114",
+            "size": 37112,
             "unsignedHash": null
         },
         {
@@ -364,11 +364,11 @@
         },
         {
             "exists": true,
-            "hash": "d392918def09a9270ba4dee20bd7f8f1",
+            "hash": "a59f40789a7dc50f90845be077cf34f9",
             "path": "web/locales/pt-PT/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/pt-PT/final.json.zip",
-            "sha256": "78d31e4413a6f4fefe421f102261dd3355cd9c2599d6adfc5af7870722859266",
-            "size": 34328,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/pt-PT/final.json.zip",
+            "sha256": "9b92a1a0dd40b55c211265ee5312d4128d579ed0111340bc71397a4d758e04c7",
+            "size": 34513,
             "unsignedHash": null
         },
         {
@@ -382,11 +382,11 @@
         },
         {
             "exists": true,
-            "hash": "5ad44c47df52579049d6dc04e173f01a",
+            "hash": "503c339a8109fd5b1b006e177709cce5",
             "path": "web/locales/ru-RU/final.json",
-            "resource": "GalaxyUpdater/320335806/windows/web/locales/ru-RU/final.json.zip",
-            "sha256": "ef6b5f8c4ac11f4b13c5c5af38f707220a1c6d54a5e8909031248bdcea542e68",
-            "size": 43552,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/ru-RU/final.json.zip",
+            "sha256": "03bac6826532a8afdafad702b7600b15703dfc0fd69dc6816ae5f3633e3f064d",
+            "size": 43812,
             "unsignedHash": null
         },
         {
@@ -400,11 +400,11 @@
         },
         {
             "exists": true,
-            "hash": "69b6d269134563b11419c9c28d49eb63",
+            "hash": "fb153306cad76937f92e4e696299967f",
             "path": "web/locales/uk-UA/final.json",
-            "resource": "GalaxyUpdater/302624148/windows/web/locales/uk-UA/final.json.zip",
-            "sha256": "2c90eea3a2ecbff599e05f3a64175bda381f291f2600d18c5537a2cc7e207bae",
-            "size": 43825,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/uk-UA/final.json.zip",
+            "sha256": "20b17625d51bfb66af1ce5dc65171447403355b95544bd2e794a9685aaa0c4b2",
+            "size": 44085,
             "unsignedHash": null
         },
         {
@@ -418,11 +418,11 @@
         },
         {
             "exists": true,
-            "hash": "d0cedd82dca288e551bc5d7c4bf646e4",
+            "hash": "b7d17492e021e8dfecad38d1b62e71b5",
             "path": "web/locales/zh-Hans/final.json",
-            "resource": "GalaxyUpdater/304600446/windows/web/locales/zh-Hans/final.json.zip",
-            "sha256": "fa181e19465f5251c7f8a4b57c4bd28dbdfa9f4a779cc5dd73509ac880e56469",
-            "size": 37878,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/zh-Hans/final.json.zip",
+            "sha256": "cac2e6cc35be9886df2b7fdb3c9657e0496c217b82e9807618d337bd55947320",
+            "size": 38118,
             "unsignedHash": null
         },
         {
@@ -436,11 +436,11 @@
         },
         {
             "exists": true,
-            "hash": "56abbc03ab161bf0652eb5c9cc0c2cbd",
+            "hash": "f7e6f5884bdf7ac9e73c422723473b55",
             "path": "web/locales/zh-Hant/final.json",
-            "resource": "GalaxyUpdater/304600446/windows/web/locales/zh-Hant/final.json.zip",
-            "sha256": "311ad2ca0f474f64f38e2515aa7d7bd3c94a052e2dad01bdb6753706075ff774",
-            "size": 37640,
+            "resource": "GalaxyUpdater/326299678/windows/web/locales/zh-Hant/final.json.zip",
+            "sha256": "4ce98bf9385fb6188bfb848255f41bd9775e04a6662219e22fdfc6223bccf9d3",
+            "size": 37872,
             "unsignedHash": null
         },
         {
@@ -465,6 +465,6 @@
     "forceUpdate": false,
     "projectName": "GalaxyUpdater",
     "symlinks": [],
-    "timestamp": "320427578",
-    "version": "2.0.74.352"
+    "timestamp": "326563833",
+    "version": "2.0.75.142"
 }
