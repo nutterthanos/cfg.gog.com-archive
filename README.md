@@ -16,7 +16,7 @@ desktop-galaxy-client/5/master/files-windows.json | dcc582db127572aee419758deaf9
 
 desktop-galaxy-client/6/master/files-windows.json | 8a28d3ff0ddb6de16518d0377154425a73b5e808
 
-desktop-galaxy-client/7/master/files-windows.json | edf567186143a0e104125da26f013d5578d1708c
+desktop-galaxy-client/7/master/files-windows.json | 5380550567f6a8c41403480b625cfd9230ba9104
 
 desktop-galaxy-client/2/preview/files-windows.json | b2c3bf7591b040037d20ee42ceec2a24acd1f3f5
 
@@ -28,7 +28,7 @@ desktop-galaxy-client/5/preview/files-windows.json | dcc582db127572aee419758deaf
 
 desktop-galaxy-client/6/preview/files-windows.json | 8a28d3ff0ddb6de16518d0377154425a73b5e808
 
-desktop-galaxy-client/7/preview/files-windows.json | edf567186143a0e104125da26f013d5578d1708c
+desktop-galaxy-client/7/preview/files-windows.json | 5380550567f6a8c41403480b625cfd9230ba9104
 
 desktop-galaxy-commservice/2/master/files-windows.json | b69be95e3f8d1fe5254679e5befe6a6892a01d9d
 
@@ -40,7 +40,7 @@ desktop-galaxy-commservice/5/master/files-windows.json | 5ed64b136894daf402a7655
 
 desktop-galaxy-commservice/6/master/files-windows.json | e46b5beb3e1ddd2eb8f7066e0a4f96cc7891006c
 
-desktop-galaxy-commservice/7/master/files-windows.json | 62db0a6d19b4c0cf42a9e35c946adc7b21a9ee50
+desktop-galaxy-commservice/7/master/files-windows.json | 34245477c7f4e252253eeaa891cf2113eb6764c4
 
 desktop-galaxy-commservice/2/preview/files-windows.json | b69be95e3f8d1fe5254679e5befe6a6892a01d9d
 
@@ -52,7 +52,7 @@ desktop-galaxy-commservice/5/preview/files-windows.json | 5ed64b136894daf402a765
 
 desktop-galaxy-commservice/6/preview/files-windows.json | e46b5beb3e1ddd2eb8f7066e0a4f96cc7891006c
 
-desktop-galaxy-commservice/7/preview/files-windows.json | 62db0a6d19b4c0cf42a9e35c946adc7b21a9ee50
+desktop-galaxy-commservice/7/preview/files-windows.json | 34245477c7f4e252253eeaa891cf2113eb6764c4
 
 desktop-galaxy-overlay/2/master/files-windows.json | 18b277c2d2510074714fbe2e2c3a96775de05c56
 
@@ -64,7 +64,7 @@ desktop-galaxy-overlay/5/master/files-windows.json | 278734d49c95d0425f44efe5198
 
 desktop-galaxy-overlay/6/master/files-windows.json | 7462f78fca8e4b6b1f9ff2e31dbb08eaa0282851
 
-desktop-galaxy-overlay/7/master/files-windows.json | 3b9bc02e6fba173473c9d61e1683f649c5679aa2
+desktop-galaxy-overlay/7/master/files-windows.json | 3cf0b79015f306f785d0435a96239e521e125e39
 
 desktop-galaxy-overlay/2/preview/files-windows.json | 18b277c2d2510074714fbe2e2c3a96775de05c56
 
@@ -76,7 +76,7 @@ desktop-galaxy-overlay/5/preview/files-windows.json | 278734d49c95d0425f44efe519
 
 desktop-galaxy-overlay/6/preview/files-windows.json | 7462f78fca8e4b6b1f9ff2e31dbb08eaa0282851
 
-desktop-galaxy-overlay/7/preview/files-windows.json | 3b9bc02e6fba173473c9d61e1683f649c5679aa2
+desktop-galaxy-overlay/7/preview/files-windows.json | 3cf0b79015f306f785d0435a96239e521e125e39
 
 desktop-galaxy-peer/2/master/files-windows.json | 3bb4047c1370d9894c7b385f10b9cbcfbe8e8669
 
@@ -112,7 +112,7 @@ desktop-galaxy-updater/5/master/files-windows.json | 99fb535403a0aee1b6a515f1cd3
 
 desktop-galaxy-updater/6/master/files-windows.json | 196706effcfb1b53a84317ad22689b5546e59859
 
-desktop-galaxy-updater/7/master/files-windows.json | 6d5c08fb59d14ada56bd7a6f16b216dc991f3d03
+desktop-galaxy-updater/7/master/files-windows.json | e28be3e6f1c8b7f9cfb9634a6ccdd57816132fa6
 
 desktop-galaxy-updater/2/preview/files-windows.json | 9c52970f50dc7f553dc1e143861c2018909eaf29
 
@@ -124,7 +124,7 @@ desktop-galaxy-updater/5/preview/files-windows.json | 99fb535403a0aee1b6a515f1cd
 
 desktop-galaxy-updater/6/preview/files-windows.json | 196706effcfb1b53a84317ad22689b5546e59859
 
-desktop-galaxy-updater/7/preview/files-windows.json | 6d5c08fb59d14ada56bd7a6f16b216dc991f3d03
+desktop-galaxy-updater/7/preview/files-windows.json | e28be3e6f1c8b7f9cfb9634a6ccdd57816132fa6
 
 desktop-galaxy-client/2/master/files-osx.json | 0ce489aaf3d0c0f0e6a31891e591a2721b5a52a4
 
@@ -136,7 +136,7 @@ desktop-galaxy-client/5/master/files-osx.json | 1ac63eeda005b895c99d56c1b4f59869
 
 desktop-galaxy-client/6/master/files-osx.json | 5714127380cb266c9f3b2dd2c9c288feec5ef4e2
 
-desktop-galaxy-client/7/master/files-osx.json | 988c2c9054c742f38c94c2ca3c0493b8b11bfdf6
+desktop-galaxy-client/7/master/files-osx.json | e8db3792a70df0a9dfe4151847f1e0a183bc17a6
 
 desktop-galaxy-client/2/preview/files-osx.json | 0ce489aaf3d0c0f0e6a31891e591a2721b5a52a4
 
@@ -148,7 +148,7 @@ desktop-galaxy-client/5/preview/files-osx.json | 1ac63eeda005b895c99d56c1b4f5986
 
 desktop-galaxy-client/6/preview/files-osx.json | 5714127380cb266c9f3b2dd2c9c288feec5ef4e2
 
-desktop-galaxy-client/7/preview/files-osx.json | 988c2c9054c742f38c94c2ca3c0493b8b11bfdf6
+desktop-galaxy-client/7/preview/files-osx.json | e8db3792a70df0a9dfe4151847f1e0a183bc17a6
 
 desktop-galaxy-commservice/2/master/files-osx.json | 8d998cab07e5ef28acb5a08fd5ed316037552234
 
@@ -160,7 +160,7 @@ desktop-galaxy-commservice/5/master/files-osx.json | 6c1f5cd194d7ff970d0493c0a48
 
 desktop-galaxy-commservice/6/master/files-osx.json | 59ba009cdbb79c80be0dceffb8b6a702b54c0b02
 
-desktop-galaxy-commservice/7/master/files-osx.json | 1777186d411e232f6c87d1cc5a8ff521121cf467
+desktop-galaxy-commservice/7/master/files-osx.json | 78508fd1e8548f211d1cd24a32b0b86baa73c745
 
 desktop-galaxy-commservice/2/preview/files-osx.json | 8d998cab07e5ef28acb5a08fd5ed316037552234
 
@@ -172,7 +172,7 @@ desktop-galaxy-commservice/5/preview/files-osx.json | 6c1f5cd194d7ff970d0493c0a4
 
 desktop-galaxy-commservice/6/preview/files-osx.json | 59ba009cdbb79c80be0dceffb8b6a702b54c0b02
 
-desktop-galaxy-commservice/7/preview/files-osx.json | 1777186d411e232f6c87d1cc5a8ff521121cf467
+desktop-galaxy-commservice/7/preview/files-osx.json | 78508fd1e8548f211d1cd24a32b0b86baa73c745
 
 desktop-galaxy-overlay/2/master/files-osx.json | 18b277c2d2510074714fbe2e2c3a96775de05c56
 
@@ -184,7 +184,7 @@ desktop-galaxy-overlay/5/master/files-osx.json | 11866c18c9e9fddd500d71274beb2eb
 
 desktop-galaxy-overlay/6/master/files-osx.json | aa9be8129ce622925a36e6089ae2a1ab27766452
 
-desktop-galaxy-overlay/7/master/files-osx.json | a45e187f300e50c7c48036e5f982282fa468efc5
+desktop-galaxy-overlay/7/master/files-osx.json | ab682449edecbfed4de304b6566603437442cec6
 
 desktop-galaxy-overlay/2/preview/files-osx.json | 18b277c2d2510074714fbe2e2c3a96775de05c56
 
@@ -196,7 +196,7 @@ desktop-galaxy-overlay/5/preview/files-osx.json | 11866c18c9e9fddd500d71274beb2e
 
 desktop-galaxy-overlay/6/preview/files-osx.json | aa9be8129ce622925a36e6089ae2a1ab27766452
 
-desktop-galaxy-overlay/7/preview/files-osx.json | a45e187f300e50c7c48036e5f982282fa468efc5
+desktop-galaxy-overlay/7/preview/files-osx.json | ab682449edecbfed4de304b6566603437442cec6
 
 desktop-galaxy-peer/2/master/files-osx.json | 34acaf2114da2c9ec59b7fe12c57ab4a6224592d
 
@@ -232,7 +232,7 @@ desktop-galaxy-updater/5/master/files-osx.json | 2439342dd5186ec37058f0b63cc248a
 
 desktop-galaxy-updater/6/master/files-osx.json | cfa16ccbf2178d0cbb788f668804183a104b499e
 
-desktop-galaxy-updater/7/master/files-osx.json | 1620c19071e8f59a3d82743f30f2619f339d1c17
+desktop-galaxy-updater/7/master/files-osx.json | 5c35ad54357539ca558c92e6599783dcff996e11
 
 desktop-galaxy-updater/2/preview/files-osx.json | e26d8c65e448736818498652071fd1ee517f27ee
 
@@ -244,7 +244,7 @@ desktop-galaxy-updater/5/preview/files-osx.json | 2439342dd5186ec37058f0b63cc248
 
 desktop-galaxy-updater/6/preview/files-osx.json | cfa16ccbf2178d0cbb788f668804183a104b499e
 
-desktop-galaxy-updater/7/preview/files-osx.json | 1620c19071e8f59a3d82743f30f2619f339d1c17
+desktop-galaxy-updater/7/preview/files-osx.json | 5c35ad54357539ca558c92e6599783dcff996e11
 
 desktop-galaxy-client/2/master/files-osx.json | 0ce489aaf3d0c0f0e6a31891e591a2721b5a52a4
 
@@ -286,13 +286,13 @@ desktop-galaxy-client/6/preview/files-osx.json | 5714127380cb266c9f3b2dd2c9c288f
 
 desktop-galaxy-client/6/preview/files-windows.json | 8a28d3ff0ddb6de16518d0377154425a73b5e808
 
-desktop-galaxy-client/7/master/files-osx.json | 988c2c9054c742f38c94c2ca3c0493b8b11bfdf6
+desktop-galaxy-client/7/master/files-osx.json | e8db3792a70df0a9dfe4151847f1e0a183bc17a6
 
-desktop-galaxy-client/7/master/files-windows.json | edf567186143a0e104125da26f013d5578d1708c
+desktop-galaxy-client/7/master/files-windows.json | 5380550567f6a8c41403480b625cfd9230ba9104
 
-desktop-galaxy-client/7/preview/files-osx.json | 988c2c9054c742f38c94c2ca3c0493b8b11bfdf6
+desktop-galaxy-client/7/preview/files-osx.json | e8db3792a70df0a9dfe4151847f1e0a183bc17a6
 
-desktop-galaxy-client/7/preview/files-windows.json | edf567186143a0e104125da26f013d5578d1708c
+desktop-galaxy-client/7/preview/files-windows.json | 5380550567f6a8c41403480b625cfd9230ba9104
 
 desktop-galaxy-client/config.json | 193601af75d2ad0dcf024c2c0fd1874abf3d3e0b
 
@@ -336,13 +336,13 @@ desktop-galaxy-commservice/6/preview/files-osx.json | 59ba009cdbb79c80be0dceffb8
 
 desktop-galaxy-commservice/6/preview/files-windows.json | e46b5beb3e1ddd2eb8f7066e0a4f96cc7891006c
 
-desktop-galaxy-commservice/7/master/files-osx.json | 1777186d411e232f6c87d1cc5a8ff521121cf467
+desktop-galaxy-commservice/7/master/files-osx.json | 78508fd1e8548f211d1cd24a32b0b86baa73c745
 
-desktop-galaxy-commservice/7/master/files-windows.json | 62db0a6d19b4c0cf42a9e35c946adc7b21a9ee50
+desktop-galaxy-commservice/7/master/files-windows.json | 34245477c7f4e252253eeaa891cf2113eb6764c4
 
-desktop-galaxy-commservice/7/preview/files-osx.json | 1777186d411e232f6c87d1cc5a8ff521121cf467
+desktop-galaxy-commservice/7/preview/files-osx.json | 78508fd1e8548f211d1cd24a32b0b86baa73c745
 
-desktop-galaxy-commservice/7/preview/files-windows.json | 62db0a6d19b4c0cf42a9e35c946adc7b21a9ee50
+desktop-galaxy-commservice/7/preview/files-windows.json | 34245477c7f4e252253eeaa891cf2113eb6764c4
 
 desktop-galaxy-overlay/2/master/files-osx.json | 18b277c2d2510074714fbe2e2c3a96775de05c56
 
@@ -384,13 +384,13 @@ desktop-galaxy-overlay/6/preview/files-osx.json | aa9be8129ce622925a36e6089ae2a1
 
 desktop-galaxy-overlay/6/preview/files-windows.json | 7462f78fca8e4b6b1f9ff2e31dbb08eaa0282851
 
-desktop-galaxy-overlay/7/master/files-osx.json | a45e187f300e50c7c48036e5f982282fa468efc5
+desktop-galaxy-overlay/7/master/files-osx.json | ab682449edecbfed4de304b6566603437442cec6
 
-desktop-galaxy-overlay/7/master/files-windows.json | 3b9bc02e6fba173473c9d61e1683f649c5679aa2
+desktop-galaxy-overlay/7/master/files-windows.json | 3cf0b79015f306f785d0435a96239e521e125e39
 
-desktop-galaxy-overlay/7/preview/files-osx.json | a45e187f300e50c7c48036e5f982282fa468efc5
+desktop-galaxy-overlay/7/preview/files-osx.json | ab682449edecbfed4de304b6566603437442cec6
 
-desktop-galaxy-overlay/7/preview/files-windows.json | 3b9bc02e6fba173473c9d61e1683f649c5679aa2
+desktop-galaxy-overlay/7/preview/files-windows.json | 3cf0b79015f306f785d0435a96239e521e125e39
 
 desktop-galaxy-peer/2/master/files-osx.json | 34acaf2114da2c9ec59b7fe12c57ab4a6224592d
 
@@ -480,11 +480,11 @@ desktop-galaxy-updater/6/preview/files-osx.json | cfa16ccbf2178d0cbb788f66880418
 
 desktop-galaxy-updater/6/preview/files-windows.json | 196706effcfb1b53a84317ad22689b5546e59859
 
-desktop-galaxy-updater/7/master/files-osx.json | 1620c19071e8f59a3d82743f30f2619f339d1c17
+desktop-galaxy-updater/7/master/files-osx.json | 5c35ad54357539ca558c92e6599783dcff996e11
 
-desktop-galaxy-updater/7/master/files-windows.json | 6d5c08fb59d14ada56bd7a6f16b216dc991f3d03
+desktop-galaxy-updater/7/master/files-windows.json | e28be3e6f1c8b7f9cfb9634a6ccdd57816132fa6
 
-desktop-galaxy-updater/7/preview/files-osx.json | 1620c19071e8f59a3d82743f30f2619f339d1c17
+desktop-galaxy-updater/7/preview/files-osx.json | 5c35ad54357539ca558c92e6599783dcff996e11
 
-desktop-galaxy-updater/7/preview/files-windows.json | 6d5c08fb59d14ada56bd7a6f16b216dc991f3d03
+desktop-galaxy-updater/7/preview/files-windows.json | e28be3e6f1c8b7f9cfb9634a6ccdd57816132fa6
 
