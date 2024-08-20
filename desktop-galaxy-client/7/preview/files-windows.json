@@ -67,39 +67,39 @@
         },
         {
             "exists": true,
-            "hash": "fd8b7ae72c480726c35e7aa6107bfaf5",
+            "hash": "dac074eb3e91a4de565d6c600d5aabc2",
             "path": "GalaxyClient Helper.exe",
-            "resource": "GalaxyClient/326563833/windows/GalaxyClient Helper.exe.zip",
-            "sha256": "d5f2645ffd2eec2fb8af30590d85d9043e0eac963d973058aaf4efcfeed51ac7",
-            "size": 1149323,
-            "unsignedHash": "667b5f6817eecff97128ef1491527ce0"
+            "resource": "GalaxyClient/329924481/windows/GalaxyClient Helper.exe.zip",
+            "sha256": "e426df5a7fb8bef477ae0e076d4df820dd59762b7d45c8c1005ce88dc56ef455",
+            "size": 1149915,
+            "unsignedHash": "e5935af5089209d0dfc055659f022ab5"
         },
         {
             "exists": true,
-            "hash": "d77bb6fb58ef683b8977c59f989dfe09",
+            "hash": "c22bf8f80eac9ae94bc6309e86796d83",
             "path": "GalaxyClient.exe",
-            "resource": "GalaxyClient/326563833/windows/GalaxyClient.exe.zip",
-            "sha256": "38e4fb9d5646ba921da0bd9d77564894eb9b3732a6c32eece0c3f85f9fb61a12",
-            "size": 5035191,
-            "unsignedHash": "8d8476629bab5fa1266d37a3ed991ef4"
+            "resource": "GalaxyClient/329924481/windows/GalaxyClient.exe.zip",
+            "sha256": "c4b00923b89bf6c1312b96b41c7f566be59fcd6b8a7234088a2e3faa2523c816",
+            "size": 5043742,
+            "unsignedHash": "e9b03252149b07e66a02483ad4bb115f"
         },
         {
             "exists": true,
-            "hash": "947ce74e9ce58aaac6e0e74db68f2de5",
+            "hash": "75ec6603417e69d41690fef15b18c7a4",
             "path": "GalaxyClientService.exe",
-            "resource": "GalaxyClient/326563833/windows/GalaxyClientService.exe.zip",
-            "sha256": "cd07845919c3fc58948bd7ffaef3c13bcfc4352ffdaa70534df96e2f2614a8eb",
-            "size": 837769,
-            "unsignedHash": "b229cee2a517f25708c826f9ac788f97"
+            "resource": "GalaxyClient/329924481/windows/GalaxyClientService.exe.zip",
+            "sha256": "84f173b05bbbd5e5fbeda394674a85d8ad3a32fed481ea023978002239b5053e",
+            "size": 825314,
+            "unsignedHash": "9891b0f52545ec4ed2de8f57bf4b3da4"
         },
         {
             "exists": true,
-            "hash": "76cef69936b167a9eba74a78debf6260",
+            "hash": "4f3210f911eabeebc8da2c6b3b5c4caa",
             "path": "GOG Galaxy Notifications Renderer.exe",
-            "resource": "GalaxyClient/326563833/windows/GOG Galaxy Notifications Renderer.exe.zip",
-            "sha256": "d0c5e081a3aec176ac0f9c729547ab796d14ffb2e1480568c68d0f98c92f1c71",
-            "size": 1291010,
-            "unsignedHash": "37f8ca4ede88af06721e44c2385f01c3"
+            "resource": "GalaxyClient/329924481/windows/GOG Galaxy Notifications Renderer.exe.zip",
+            "sha256": "27a3a9d0eea27f7b697a9444a0568504b163b419a7835bef32ed1543b885fad8",
+            "size": 1290642,
+            "unsignedHash": "68399e806dab6494fc6fa550c975e9ea"
         },
         {
             "exists": true,
@@ -5161,29 +5161,29 @@
         },
         {
             "exists": true,
-            "hash": "8e2db42f1fa66405772d3c62c29ec548",
+            "hash": "25ad8bba516e7fd7aac52f53cbc36332",
             "path": "web/chatWindowTemplate.js",
-            "resource": "GalaxyClient/298990957/windows/web/chatWindowTemplate.js.zip",
-            "sha256": "781643ae4a51bb3cc8c4ed9d63eaf39fd3d6bb6506c7e06974564f28ad6ebaf8",
-            "size": 7826,
+            "resource": "GalaxyClient/329495521/windows/web/chatWindowTemplate.js.zip",
+            "sha256": "b670915ed8cc7b4517396b45c80cd2c49f5f2937409a5919df330307f8126f4e",
+            "size": 7829,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "4edf1386e5247cc32eef8acc02a353f7",
+            "hash": "48118b2e8bc5085d5fb898e445c39d77",
             "path": "web/client.css",
-            "resource": "GalaxyClient/326299678/windows/web/client.css.zip",
-            "sha256": "23846cdb62b11e5212687467a0671074c8bb1419d18ca9ede44f85120297da93",
-            "size": 31715,
+            "resource": "GalaxyClient/329495521/windows/web/client.css.zip",
+            "sha256": "7f673fd7fd94ed853fd9dc4c6c85151c378a5294009359eccabb1426cb9bc3d8",
+            "size": 31732,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "5126ec8a09444ea2632ecbbf6b5140b2",
+            "hash": "f3fad11b285f73003ef188a5e364c307",
             "path": "web/client.js",
-            "resource": "GalaxyClient/326563833/windows/web/client.js.zip",
-            "sha256": "dcd9c2b18bb80747fa29bd7f4bd9795fee543c9dbeaa600a7b2b8a1aaee3a135",
-            "size": 715568,
+            "resource": "GalaxyClient/329831117/windows/web/client.js.zip",
+            "sha256": "80f3f8a3efe72749726e4655276575ed1ecf12acd23d21a8836aa042b6082341",
+            "size": 720199,
             "unsignedHash": null
         },
         {
@@ -5206,11 +5206,11 @@
         },
         {
             "exists": true,
-            "hash": "6f420c5006efad7e7698cdb49ff2d1b6",
+            "hash": "48862249a29a46f2101bd459fa77cd8a",
             "path": "web/cloudSyncConflictWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/cloudSyncConflictWindow.js.zip",
-            "sha256": "0ce87c83dfe0c3a1148ab199e5b3c8dae2c36c6ea8e091e4549bc4489935fd6c",
-            "size": 144071,
+            "resource": "GalaxyClient/329831117/windows/web/cloudSyncConflictWindow.js.zip",
+            "sha256": "fa45721e688371229a1b62c3e660634f9e20a20b3d10d187d92724e1afcce35b",
+            "size": 147914,
             "unsignedHash": null
         },
         {
@@ -5233,11 +5233,11 @@
         },
         {
             "exists": true,
-            "hash": "ba5b9a136ca9813c205e4e598aee7ce2",
+            "hash": "e67917f74579beb85319bd3cb3d76c43",
             "path": "web/cloudSyncQuotaExceededWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/cloudSyncQuotaExceededWindow.js.zip",
-            "sha256": "513fb924c93f75bd7978d29af520be43c44a3a88aaaf4899d1cd20b894f63d4a",
-            "size": 145197,
+            "resource": "GalaxyClient/329831117/windows/web/cloudSyncQuotaExceededWindow.js.zip",
+            "sha256": "26540c882a9f0b057bdfaf2bfede2bee455a0eb981a657ff7943baacb0379f57",
+            "size": 149122,
             "unsignedHash": null
         },
         {
@@ -5251,11 +5251,11 @@
         },
         {
             "exists": true,
-            "hash": "084f520162b801340d1566f2cc2721b6",
+            "hash": "72fa2c807291c3598747a3e15fdc9caf",
             "path": "web/desktopNotifications.js",
-            "resource": "GalaxyClient/326299678/windows/web/desktopNotifications.js.zip",
-            "sha256": "e193c42944a3d69fbb2801a3196d799229b69a36aef88dc18d669eec168dfc20",
-            "size": 46137,
+            "resource": "GalaxyClient/329495521/windows/web/desktopNotifications.js.zip",
+            "sha256": "e0b1f1aaa2a0c22566676a0da93796a4b4b89c0731fc108b9ec03c7c6739fbe9",
+            "size": 46085,
             "unsignedHash": null
         },
         {
@@ -5278,11 +5278,11 @@
         },
         {
             "exists": true,
-            "hash": "9209fde9e5c3524b3d54cf78451ec0b2",
+            "hash": "ba53993e87dd680d846717bce6934ddb",
             "path": "web/findFriendsWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/findFriendsWindow.js.zip",
-            "sha256": "96887c263b683611527e4a6d47fc1647c09322ede180338316d8dbd8ef2ee996",
-            "size": 157461,
+            "resource": "GalaxyClient/329831117/windows/web/findFriendsWindow.js.zip",
+            "sha256": "f7c0253939e0bc42b705b83d9757e89e169510b8bf0e62133c8d283a27ad5c18",
+            "size": 161079,
             "unsignedHash": null
         },
         {
@@ -5305,11 +5305,11 @@
         },
         {
             "exists": true,
-            "hash": "fb7aa34f03b5f29ec06c2fa56b0199bf",
+            "hash": "c4cd75cb02be053e927d8dc67f81c41d",
             "path": "web/friendsListWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/friendsListWindow.js.zip",
-            "sha256": "185a6189ac4abd1b2eba1dd8240500f343764690de25b656ef0121ca84321d2e",
-            "size": 176878,
+            "resource": "GalaxyClient/329831117/windows/web/friendsListWindow.js.zip",
+            "sha256": "f8ef8de47b0ac04999515ae5b1e481b67aa80e9158ee0a94411de281791d97a9",
+            "size": 180612,
             "unsignedHash": null
         },
         {
@@ -5341,20 +5341,20 @@
         },
         {
             "exists": true,
-            "hash": "2ff4e7f57f462e6d0cc0adfbe7a168b9",
+            "hash": "6b4a23e37a366f8abccad1c8901c626d",
             "path": "web/gameConfigWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/gameConfigWindow.js.zip",
-            "sha256": "b2073cb46b2b61a421cb64ceaeccf735c6782e869dc34ff7940318ce466fd422",
-            "size": 174695,
+            "resource": "GalaxyClient/329831117/windows/web/gameConfigWindow.js.zip",
+            "sha256": "0e521f042f6f4f48b0b00bab45ff93e1f1d9dd61ff02d52546f684a3ed7c7da9",
+            "size": 178494,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "f97b60858259c68f228f40a328cfee69",
+            "hash": "71c4007dcb5f18871810bd14b08795c6",
             "path": "web/gameEditWindow.css",
-            "resource": "GalaxyClient/326299678/windows/web/gameEditWindow.css.zip",
-            "sha256": "e9f6d422159a1b1934e5fc8f89d2bc663b23641e432624d1a7f817135d561422",
-            "size": 13977,
+            "resource": "GalaxyClient/329495521/windows/web/gameEditWindow.css.zip",
+            "sha256": "b29223e91306f83a155a5f191afeaf0cf130364e1395863f67663ed9a267be16",
+            "size": 13993,
             "unsignedHash": null
         },
         {
@@ -5368,11 +5368,11 @@
         },
         {
             "exists": true,
-            "hash": "0bed8532840d581f6561e2d759780b90",
+            "hash": "d0dcf4afaf85803f2cfe767cc4ddf588",
             "path": "web/gameEditWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/gameEditWindow.js.zip",
-            "sha256": "32dd30a9d898727aaafebb962c081833a1337e9c1117cbc4f9772b8a2f9e9892",
-            "size": 191349,
+            "resource": "GalaxyClient/329831117/windows/web/gameEditWindow.js.zip",
+            "sha256": "9e1c06e55e66871a8c1704fa16c52afab9f6383b8f152da6dbfb4142c45c2b33",
+            "size": 194843,
             "unsignedHash": null
         },
         {
@@ -6277,11 +6277,11 @@
         },
         {
             "exists": true,
-            "hash": "eee8c649e9d5be23e775bf660a6c60ca",
+            "hash": "dfd86016b696af828ab5e112e58bca67",
             "path": "web/locales/de-DE/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/de-DE/final.json.zip",
-            "sha256": "00a74a2f0c05a2c9e7246bee0443ee6251af99afbc5747c744a0b58f7b51f6ab",
-            "size": 38554,
+            "resource": "GalaxyClient/329495521/windows/web/locales/de-DE/final.json.zip",
+            "sha256": "b9c1edaf12dd2c6c7a4472fbaa95825898583e5d494a95b744374be56047a1a6",
+            "size": 38546,
             "unsignedHash": null
         },
         {
@@ -6295,11 +6295,11 @@
         },
         {
             "exists": true,
-            "hash": "da1ce3af7154680d4c030eb8b4f97693",
+            "hash": "1bd74c5041a7d0ff683547ab7014abe8",
             "path": "web/locales/en-US/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/en-US/final.json.zip",
-            "sha256": "84195d046a49c812a218b39acd82de28fd45f7598a53456ea3bf3d493cd544a7",
-            "size": 33872,
+            "resource": "GalaxyClient/329495521/windows/web/locales/en-US/final.json.zip",
+            "sha256": "e762b031c9a4c0ba87635e28836849bb03e2b263c5ca4ce3e2562fc79e0fd05f",
+            "size": 33896,
             "unsignedHash": null
         },
         {
@@ -6313,11 +6313,11 @@
         },
         {
             "exists": true,
-            "hash": "e853d9f3fccf281a3d730d76ec3014bf",
+            "hash": "d125572750394d7220b57a3d92413726",
             "path": "web/locales/es-ES/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/es-ES/final.json.zip",
-            "sha256": "cb7296c863ca4e1cbd195966ca310755c12f16eb8c934d184f6eb61a08648fa5",
-            "size": 37815,
+            "resource": "GalaxyClient/329495521/windows/web/locales/es-ES/final.json.zip",
+            "sha256": "fe1b884e6ae70a893ecc9373e794e8de0dae21c7393b34c930f4657aeb8a1a4c",
+            "size": 37841,
             "unsignedHash": null
         },
         {
@@ -6331,11 +6331,11 @@
         },
         {
             "exists": true,
-            "hash": "48a64dc0feb64651fe53471adcb05d17",
+            "hash": "69837b05578b68cd7df09f5c170a2292",
             "path": "web/locales/es-MX/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/es-MX/final.json.zip",
-            "sha256": "8527661f6d2c764e748a8b3d8e583bca20dc0cd6c737ce2aff392cadf6ce7c11",
-            "size": 36485,
+            "resource": "GalaxyClient/329495521/windows/web/locales/es-MX/final.json.zip",
+            "sha256": "f310735b6a3e4bc863cb90228c711b704e7d3ecbadc2d795f04e7b53a7526288",
+            "size": 36513,
             "unsignedHash": null
         },
         {
@@ -6349,10 +6349,10 @@
         },
         {
             "exists": true,
-            "hash": "2c4ecbf973ef613aabfbf4c57faccd19",
+            "hash": "756516247728ba64d7219f5c1608c903",
             "path": "web/locales/fr-FR/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/fr-FR/final.json.zip",
-            "sha256": "2e04cdd2ad2e26cc59befa0e97634315cbac23d9ed0cabbce18191d50c59029e",
+            "resource": "GalaxyClient/329495521/windows/web/locales/fr-FR/final.json.zip",
+            "sha256": "32756e20dcb84c79d84cf32bfb7c2b183ce5108c246a4e4105a5f8295c5bd2d1",
             "size": 38179,
             "unsignedHash": null
         },
@@ -6367,11 +6367,11 @@
         },
         {
             "exists": true,
-            "hash": "83fb66838f33c3e8e4d91df537c6136e",
+            "hash": "8cb7c5c8d6dcb670fb050cd9f14a8e4f",
             "path": "web/locales/it-IT/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/it-IT/final.json.zip",
-            "sha256": "666c801ee85863077b5587a83318f4ae46196970a79dbabdd9067139b4bdad1d",
-            "size": 36835,
+            "resource": "GalaxyClient/329495521/windows/web/locales/it-IT/final.json.zip",
+            "sha256": "9827d1c4b7c32f873a66b14344ba36aca912ec4b26210be41016a03de7234b57",
+            "size": 36862,
             "unsignedHash": null
         },
         {
@@ -6385,11 +6385,11 @@
         },
         {
             "exists": true,
-            "hash": "fe8479df581d4c4af3bfc3099c58a3fd",
+            "hash": "50dac1eb09f76180c5d910e5a24dc2c6",
             "path": "web/locales/ja-JP/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/ja-JP/final.json.zip",
-            "sha256": "e6c22fb54fd50a17bf559b7c64c82eca3b93303c82ffc00bf047c219cf771f37",
-            "size": 38991,
+            "resource": "GalaxyClient/329495521/windows/web/locales/ja-JP/final.json.zip",
+            "sha256": "d58b0a99aaa830fa9d911051f2df390a11e37bbcdffb966c754a54bd798ffdb1",
+            "size": 39020,
             "unsignedHash": null
         },
         {
@@ -6403,11 +6403,11 @@
         },
         {
             "exists": true,
-            "hash": "9571356ab849ba0f8060aaa50f9ac663",
+            "hash": "1810a07116f6767a038be47cd0abcd60",
             "path": "web/locales/ko-KR/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/ko-KR/final.json.zip",
-            "sha256": "ff3ce6d998ea5ca7c31e1aaffce3c2792044919934ca438ff7758c13614414e8",
-            "size": 38234,
+            "resource": "GalaxyClient/329495521/windows/web/locales/ko-KR/final.json.zip",
+            "sha256": "744e11ef7fb8434550ca57d3dc63e941ff97ed2b6aad726dea350b12e0ef6a7d",
+            "size": 38259,
             "unsignedHash": null
         },
         {
@@ -6430,11 +6430,11 @@
         },
         {
             "exists": true,
-            "hash": "7ebaff62cd2ab4748c6c725a4b7d2461",
+            "hash": "07b60e9b65ec5431cff30e20f9e089bf",
             "path": "web/locales/pl-PL/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/pl-PL/final.json.zip",
-            "sha256": "9f4dfa0e4886d237dc3a35aaf145bdd1474ad801b3c3440e7aeea4641665e1d0",
-            "size": 38905,
+            "resource": "GalaxyClient/329495521/windows/web/locales/pl-PL/final.json.zip",
+            "sha256": "f1005b9ac2cf732d50c4972dad460cdb66884c40b88c34510e5be7a6cf070260",
+            "size": 38906,
             "unsignedHash": null
         },
         {
@@ -6448,11 +6448,11 @@
         },
         {
             "exists": true,
-            "hash": "91eb1805b8856a4d8db2f51ed43b2ff5",
+            "hash": "e45a528720a33da289b3b0168faa289e",
             "path": "web/locales/pt-BR/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/pt-BR/final.json.zip",
-            "sha256": "d63df68404bffcc01688a3430307ad03bf59af86e9189c6882906e2e142fc114",
-            "size": 37112,
+            "resource": "GalaxyClient/329495521/windows/web/locales/pt-BR/final.json.zip",
+            "sha256": "6321e1b324e0ba6dd83bb13bfea0a3a93b7f11a5d14b84149065b0ab8013c5b0",
+            "size": 37141,
             "unsignedHash": null
         },
         {
@@ -6466,11 +6466,11 @@
         },
         {
             "exists": true,
-            "hash": "a59f40789a7dc50f90845be077cf34f9",
+            "hash": "927d69c2e72020941c59ee61dabe15ef",
             "path": "web/locales/pt-PT/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/pt-PT/final.json.zip",
-            "sha256": "9b92a1a0dd40b55c211265ee5312d4128d579ed0111340bc71397a4d758e04c7",
-            "size": 34513,
+            "resource": "GalaxyClient/329495521/windows/web/locales/pt-PT/final.json.zip",
+            "sha256": "4e3fa7c0958cc9a43b43e3325a886feae674ed674c4cafa58d84974171e524f2",
+            "size": 34536,
             "unsignedHash": null
         },
         {
@@ -6484,11 +6484,11 @@
         },
         {
             "exists": true,
-            "hash": "503c339a8109fd5b1b006e177709cce5",
+            "hash": "3d833ae73bdbbedb501347d07e664555",
             "path": "web/locales/ru-RU/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/ru-RU/final.json.zip",
-            "sha256": "03bac6826532a8afdafad702b7600b15703dfc0fd69dc6816ae5f3633e3f064d",
-            "size": 43812,
+            "resource": "GalaxyClient/329495521/windows/web/locales/ru-RU/final.json.zip",
+            "sha256": "fb15878154c254167aaf2125624006a9ef9b2c7bff57a1831cbf29c893e9e85a",
+            "size": 43846,
             "unsignedHash": null
         },
         {
@@ -6502,11 +6502,11 @@
         },
         {
             "exists": true,
-            "hash": "fb153306cad76937f92e4e696299967f",
+            "hash": "32e88c6dd255d011506561ece43a15ae",
             "path": "web/locales/uk-UA/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/uk-UA/final.json.zip",
-            "sha256": "20b17625d51bfb66af1ce5dc65171447403355b95544bd2e794a9685aaa0c4b2",
-            "size": 44085,
+            "resource": "GalaxyClient/329495521/windows/web/locales/uk-UA/final.json.zip",
+            "sha256": "c6d27cc1d1637991a05df8cce22e752a41364f7b02c0956bfd8fa187042e3661",
+            "size": 44145,
             "unsignedHash": null
         },
         {
@@ -6520,11 +6520,11 @@
         },
         {
             "exists": true,
-            "hash": "b7d17492e021e8dfecad38d1b62e71b5",
+            "hash": "532f758cff99ef03b7e9ea0337882c14",
             "path": "web/locales/zh-Hans/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/zh-Hans/final.json.zip",
-            "sha256": "cac2e6cc35be9886df2b7fdb3c9657e0496c217b82e9807618d337bd55947320",
-            "size": 38118,
+            "resource": "GalaxyClient/329495521/windows/web/locales/zh-Hans/final.json.zip",
+            "sha256": "e2141740724f4eb06cbbc5b5ad5a5a75d2d3134b8c10c170e5ba819b9bad78bb",
+            "size": 38142,
             "unsignedHash": null
         },
         {
@@ -6538,11 +6538,11 @@
         },
         {
             "exists": true,
-            "hash": "f7e6f5884bdf7ac9e73c422723473b55",
+            "hash": "94ce91db55d809e6c0c2cab071b3f7fd",
             "path": "web/locales/zh-Hant/final.json",
-            "resource": "GalaxyClient/326299678/windows/web/locales/zh-Hant/final.json.zip",
-            "sha256": "4ce98bf9385fb6188bfb848255f41bd9775e04a6662219e22fdfc6223bccf9d3",
-            "size": 37872,
+            "resource": "GalaxyClient/329495521/windows/web/locales/zh-Hant/final.json.zip",
+            "sha256": "ad22287f02e0a54d543c8dd718247222800e2821c4620c7c8affa8f3f516e732",
+            "size": 37899,
             "unsignedHash": null
         },
         {
@@ -6574,11 +6574,11 @@
         },
         {
             "exists": true,
-            "hash": "0ffee2a83a7537a6994e05d9d2d2a9ce",
+            "hash": "e7c5614798f6c4cefdecd61a239ac2a7",
             "path": "web/login.js",
-            "resource": "GalaxyClient/326299678/windows/web/login.js.zip",
-            "sha256": "8f10492456ee4d8bfd50442d5a3045c7915b9b9b037ce9906da5e7e56a9cc067",
-            "size": 57633,
+            "resource": "GalaxyClient/329495521/windows/web/login.js.zip",
+            "sha256": "31e4a1b15a942ae237c93b2413d84b6b788081149140ca664c752eefcff948ee",
+            "size": 57596,
             "unsignedHash": null
         },
         {
@@ -6619,11 +6619,11 @@
         },
         {
             "exists": true,
-            "hash": "262c362368cc1762cfc8656883094e2c",
+            "hash": "95dc8c291cb6fc70dc7a1deee1835e0d",
             "path": "web/overlay.js",
-            "resource": "GalaxyClient/326299678/windows/web/overlay.js.zip",
-            "sha256": "bab2b32ca67c06d46ce8941dcdada6c64293ef96bcf01c2b6e009e8278284bf4",
-            "size": 158895,
+            "resource": "GalaxyClient/329495521/windows/web/overlay.js.zip",
+            "sha256": "2012dbbb470e243446ad851bce29102b22e793a384d012a58ab67dc07fe4f0a8",
+            "size": 158847,
             "unsignedHash": null
         },
         {
@@ -6646,11 +6646,11 @@
         },
         {
             "exists": true,
-            "hash": "3d51cb1ed823c0a33825a5d8eb66adc3",
+            "hash": "df07811a5ff77d76518cfae28aba4ce6",
             "path": "web/platformConflictPrompt.js",
-            "resource": "GalaxyClient/326299678/windows/web/platformConflictPrompt.js.zip",
-            "sha256": "27aa7396ca7b729a356cd2babe72715710517ccbf78e63994535c56c44c99ff1",
-            "size": 143789,
+            "resource": "GalaxyClient/329831117/windows/web/platformConflictPrompt.js.zip",
+            "sha256": "da418badfb2abb22eeae590b9c0e83ef44c1c1c0a9fc995c942fea48f95a39ab",
+            "size": 147625,
             "unsignedHash": null
         },
         {
@@ -6673,11 +6673,11 @@
         },
         {
             "exists": true,
-            "hash": "e43e9bb7d69094d6347b557976c26f28",
+            "hash": "acd9970ffa84ef216c4adc55e018350b",
             "path": "web/platformDisconnectPrompt.js",
-            "resource": "GalaxyClient/326299678/windows/web/platformDisconnectPrompt.js.zip",
-            "sha256": "016ee8c0d240b0e3db2b610b2b6c4b4229fbd14cfdb2152e37ca5fee2d46f242",
-            "size": 143684,
+            "resource": "GalaxyClient/329831117/windows/web/platformDisconnectPrompt.js.zip",
+            "sha256": "599a50e5bb3e144629d2413990f40a14adb76be6c926e9a8f95f3bae3badfb6a",
+            "size": 147524,
             "unsignedHash": null
         },
         {
@@ -6700,11 +6700,11 @@
         },
         {
             "exists": true,
-            "hash": "e9fe306327fc8d88f7a456a11a7c7de7",
+            "hash": "271caaf3462f0c9059c40ea861badd9f",
             "path": "web/pluginFeaturesPrompt.js",
-            "resource": "GalaxyClient/326299678/windows/web/pluginFeaturesPrompt.js.zip",
-            "sha256": "12f730e1920821411e68c866849ccbf5b5628dae9132ba1232b1d2be67d58af4",
-            "size": 144747,
+            "resource": "GalaxyClient/329831117/windows/web/pluginFeaturesPrompt.js.zip",
+            "sha256": "2d4e859710aa434cef6e48b6d7c7ebe8c84a9a93a3e74b391f1c3a0713c19a75",
+            "size": 148586,
             "unsignedHash": null
         },
         {
@@ -6727,11 +6727,11 @@
         },
         {
             "exists": true,
-            "hash": "dc809a53ae0011017e604047465bb296",
+            "hash": "d1eaad4a46aed3935602418079e69028",
             "path": "web/recentViewCustomizationWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/recentViewCustomizationWindow.js.zip",
-            "sha256": "7f4af378d973b41206d45f41f369ab23a7d7437f87679d0ebdadd20f4930e551",
-            "size": 152593,
+            "resource": "GalaxyClient/329831117/windows/web/recentViewCustomizationWindow.js.zip",
+            "sha256": "3043939b6802ed6cc9027f54fb633d5aec0d730d376b13d2eded46240be03a04",
+            "size": 156413,
             "unsignedHash": null
         },
         {
@@ -6754,11 +6754,11 @@
         },
         {
             "exists": true,
-            "hash": "afea68c13caa31949520dd4685139cec",
+            "hash": "a82cc8a174fe41f24f60c3b40c07c888",
             "path": "web/settingsWindow.js",
-            "resource": "GalaxyClient/326299678/windows/web/settingsWindow.js.zip",
-            "sha256": "0b6fa5d56fdbc3b5b0ab1fe74897ed345ebcfe1bdf0f1c5a26f70f7beed0c51d",
-            "size": 187539,
+            "resource": "GalaxyClient/329831117/windows/web/settingsWindow.js.zip",
+            "sha256": "fe100a5798ef8669af734940a7bee714b6ab1aca33fcd344347e52209202c441",
+            "size": 191366,
             "unsignedHash": null
         },
         {
@@ -7051,11 +7051,11 @@
         },
         {
             "exists": true,
-            "hash": "89c342e4175ea0a5d82811deeb62dec2",
+            "hash": "05e8bd89d49c58a6be3c81fb8058de13",
             "path": "web/vendor.js",
-            "resource": "GalaxyClient/302624148/windows/web/vendor.js.zip",
-            "sha256": "837b81e958d2624d5480029f71f4ba547eca7de85dd6b82a79689c17a622ad3d",
-            "size": 674809,
+            "resource": "GalaxyClient/329495521/windows/web/vendor.js.zip",
+            "sha256": "c5b8dc8a0907bb494252823c47faac73fc29c7002b648876a965ac34b1f696f7",
+            "size": 674794,
             "unsignedHash": null
         },
         {
@@ -7098,6 +7098,6 @@
     "forceUpdate": false,
     "projectName": "GalaxyClient",
     "symlinks": [],
-    "timestamp": "326563833",
-    "version": "2.0.75.142"
+    "timestamp": "329924481",
+    "version": "2.0.76.59"
 }
