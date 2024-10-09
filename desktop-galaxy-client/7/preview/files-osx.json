@@ -4,65 +4,65 @@
     "files": [
         {
             "exists": true,
-            "hash": "aaae544f3a5921ca24424e33880ebd68",
+            "hash": "0eeb73a50e2b07284ac0c095881bd9ab",
             "path": "Contents/_CodeSignature/CodeResources",
-            "resource": "GalaxyClient/331920048/osx/Contents/_CodeSignature/CodeResources.zip",
-            "sha256": "cd4827bf1eb3d4546a65c620ccae945874ad7d10de13fa9b9f6ac76b9b118580",
-            "size": 48726,
+            "resource": "GalaxyClient/334760206/osx/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "42af4c79594b38214c380ef7353c00b1c98793001b498c2f037484c6d69ba220",
+            "size": 48708,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "0b77fadca60d7a9645ba35d966745153",
+            "hash": "c8b9d78916bbdc18c2a5fa2e7a9cf06d",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/_CodeSignature/CodeResources",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/_CodeSignature/CodeResources.zip",
-            "sha256": "cd613db41207db5399a96199c59462334ae68ad45ee1b4f91cc108b5af4276f5",
-            "size": 5344,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/_CodeSignature/CodeResources.zip",
+            "sha256": "8c544c4453862af304e426071103b5b3413d50e6fdd3142f17e0fef69fca2e2d",
+            "size": 5345,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "a1546534479e6093a7a3823d3cf34008",
+            "hash": "9212f00d3f2fa200d0f1c74fd91fb876",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework.zip",
-            "sha256": "8aca45d5fae6970d12a89e5d79a59594a69e452a239abd2faab899122da5228e",
-            "size": 55680649,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Chromium Embedded Framework.zip",
+            "sha256": "88f70208cebe3b430aff5b6bb192d4a1ceae7c97a84aaf78d61850666778f4cf",
+            "size": 55680645,
             "unsignedHash": "184e31db780fd1f564e35f69e6fc73c0"
         },
         {
             "exists": true,
-            "hash": "2b596687966fa3fe804bbc09de240c84",
+            "hash": "6030c591a80424e6368292e884db023d",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libEGL.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libEGL.dylib.zip",
-            "sha256": "326cc8d2693ad9769107cf6366c47e06624b53782a0cdf98793a168791d4f341",
-            "size": 87868,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libEGL.dylib.zip",
+            "sha256": "25dce2a09f8fe3095ff0195ed695a4ef73d5eabfc6579bb53210f5382f0bdaf1",
+            "size": 87858,
             "unsignedHash": "61f4c7f887cb17d955f5180087cb2ff2"
         },
         {
             "exists": true,
-            "hash": "e9423b428fe7b91cc9cf6c1c34103cda",
+            "hash": "802395834812930d159790d4c7638874",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libGLESv2.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libGLESv2.dylib.zip",
-            "sha256": "7d0a971209b7622e2ce2ad606d10e5515f671a9bc68139729fa2c7d0f9fbcd3d",
-            "size": 1133059,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libGLESv2.dylib.zip",
+            "sha256": "43309247cb79b118f466f4eb8153479426bb548dcad827936f06c1cf107a7737",
+            "size": 1133054,
             "unsignedHash": "29f83178482a3f57d497d7cd5c50ed1a"
         },
         {
             "exists": true,
-            "hash": "1605d01c311eb25ffe08be79ad6c846d",
+            "hash": "53b54733ba2045f12b6ca56bc16ff475",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib.zip",
-            "sha256": "a34eafcf3b0cb637205d21629a77f4dfb8763ead40cb7f7e1b2b95f2bf864210",
-            "size": 105504,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libEGL.dylib.zip",
+            "sha256": "71a4f3d6886efea0b1e8a894818ff2332cf502cf7902f32d700dd7cb47147b60",
+            "size": 105501,
             "unsignedHash": "9cb79280fa16648439e92dd600ccb8b0"
         },
         {
             "exists": true,
-            "hash": "cc95700600c03db8ee7cac647a72af1e",
+            "hash": "52697bdd42929febb9a64014a409d4bf",
             "path": "Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib.zip",
-            "sha256": "260751a9e4f17c263f98aa885ae47af5eba7c9bc74e3a6c98789fcbee3b19469",
-            "size": 1026208,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Chromium Embedded Framework.framework/Versions/A/Libraries/libswiftshader_libGLESv2.dylib.zip",
+            "sha256": "e9cab63bf01da4c7579e357bad4128cfb124877814d66fbce86e30f4c39ff520",
+            "size": 1026204,
             "unsignedHash": "8f78b3b6480f0e983d28d7cfef9f57dd"
         },
         {
@@ -634,29 +634,29 @@
         },
         {
             "exists": true,
-            "hash": "283648b669a088ae3ec91f22a8e8db9e",
+            "hash": "226ade16f3d60244464b83a222275e74",
             "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/_CodeSignature/CodeResources",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/_CodeSignature/CodeResources.zip",
-            "sha256": "da45dbd081069b0a3a7e95f006596dc93347582ccd63a6febb3c41560a7b8901",
-            "size": 803,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "918bcc0c14a241d46bb907b39fa9a259a670520227edb3524ad15aec0c46ff81",
+            "size": 804,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "5a8eda9eb1f83290a8d6bd59d7f255a8",
+            "hash": "7ed3265d9910c83764a0f3af2fe404c8",
             "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/Info.plist",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/Info.plist.zip",
-            "sha256": "f597e93205bf5d35792428a5471cce1b8bf4aaf19de72789bb9ba745831263f2",
-            "size": 771,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/Info.plist.zip",
+            "sha256": "5baa596dabecaa6a44dbbdf8deab389cc73572eb321cc3b8a09acf9b438eae7a",
+            "size": 770,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "c651ba727371e7a7e7c1a6fb2fe9cdf1",
+            "hash": "adc588e4104fa600f2fc18cdbdaee104",
             "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/MacOS/GOG Galaxy Helper",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/MacOS/GOG Galaxy Helper.zip",
-            "sha256": "55c6a1fada6ac6a5214d87240efb70416e6b6d31906090407960ca4f155c1c8b",
-            "size": 7636505,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/MacOS/GOG Galaxy Helper.zip",
+            "sha256": "fc6daadabb2d9187585561ede46aaacf01016440eb5afbcb38bef95b1ef8651d",
+            "size": 7675338,
             "unsignedHash": null
         },
         {
@@ -679,182 +679,182 @@
         },
         {
             "exists": true,
-            "hash": "dc43d0bf333333beae8327de7f488d77",
+            "hash": "2aef2a0ef620557ac4f81b6b1c06f301",
             "path": "Contents/Frameworks/GOG Galaxy Helper.app/Contents/Resources/Assets.car",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/Resources/Assets.car.zip",
-            "sha256": "33d9bfb915c8c200fd16639170c31d92120b124c848904a8e7ba5a8c7a31baec",
-            "size": 595928,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/GOG Galaxy Helper.app/Contents/Resources/Assets.car.zip",
+            "sha256": "a281a1e5cab58a1b2d0ba85c5d504f868e8496c4a7536d7464ce049e013511e0",
+            "size": 595930,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "717a3dc37c021ef940d06e69a5b0cac7",
+            "hash": "dd9866d489b9188a9276ec9e97348f3c",
             "path": "Contents/Frameworks/libcrypto.1.1.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libcrypto.1.1.dylib.zip",
-            "sha256": "c8e984493edffbd91541cc24f95f5f81b2f010dc55d37694109e6a242e24e867",
-            "size": 1251263,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libcrypto.1.1.dylib.zip",
+            "sha256": "7de6ea5d823a9be4ebb56fae2f36b70066c75a6389f1d5b0887fda1fdf9efe72",
+            "size": 1251256,
             "unsignedHash": "f3ae1fa41275dcefebe3e49c63bcb375"
         },
         {
             "exists": true,
-            "hash": "353c6ec22b60257b03da41b2eafc52d3",
+            "hash": "845c6bbc79a4523650346547df4155d4",
             "path": "Contents/Frameworks/libexpat.1.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libexpat.1.dylib.zip",
-            "sha256": "24c74ab37e652740a84942f3da78971e5e2517c3e749b05167a95ecba77caedc",
-            "size": 75281,
-            "unsignedHash": "342c3dbe2224f2cb6f598e3910d85ec2"
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libexpat.1.dylib.zip",
+            "sha256": "73246a647bc5368af44545b9043d2fd5f788c90a40e4fe9d4af7e3f2ace28505",
+            "size": 143850,
+            "unsignedHash": "fce6e843f3ebfd5bfc05077b4d700052"
         },
         {
             "exists": true,
-            "hash": "0d090a1bc2da726d3826b9ffe6d18a11",
+            "hash": "e4e68b8c3d152882a104638f8b6001b6",
             "path": "Contents/Frameworks/libpcre2-8.0.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libpcre2-8.0.dylib.zip",
-            "sha256": "b7e94ad8d3375ac6d4347641edb51cc8648b846d91f95409beaf0b74d3375872",
-            "size": 281610,
-            "unsignedHash": "7082392f0afdb700c2a6d4d0c2311f03"
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libpcre2-8.0.dylib.zip",
+            "sha256": "884c595fb1fdbb6830d68c14b6499a10191b31f8e371486f0554b48f692a6d44",
+            "size": 279608,
+            "unsignedHash": "99da2878f720074dc4f9521b9c858402"
         },
         {
             "exists": true,
-            "hash": "1a10b6d84a7a25e3f27cd4f8939e2b7b",
-            "path": "Contents/Frameworks/libPocoCrypto.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoCrypto.92.dylib.zip",
-            "sha256": "2dea9cca99848e92c505345e6a74f59e3702f426fcaa64f9ae6c69c6c70f39a7",
-            "size": 114004,
-            "unsignedHash": "b6c02c534193014310642ed26d7a64ba"
+            "hash": "d95f64f283475ef5d8c369f35c8fd5fe",
+            "path": "Contents/Frameworks/libPocoCrypto.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoCrypto.103.dylib.zip",
+            "sha256": "3026763769bd4df42f55eedc2c1a54fa43727a83b52e84193bf76ed2ce281500",
+            "size": 111914,
+            "unsignedHash": "d6239a9e6255c4e01aa6e31d27c3fe67"
         },
         {
             "exists": true,
-            "hash": "12de60ea16ae3e28c452c9a08096db2e",
-            "path": "Contents/Frameworks/libPocoData.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoData.92.dylib.zip",
-            "sha256": "8f49cc9725f5662d62e43f6f1b886f9124f1ee6d8f5b9df5d6b2d0136d06a99c",
-            "size": 537558,
-            "unsignedHash": "1b26e2cbe31d26a48e319513494bfec0"
+            "hash": "8fcda95acbe0be4b90a2073a58e9af97",
+            "path": "Contents/Frameworks/libPocoData.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoData.103.dylib.zip",
+            "sha256": "fe569771ca7eaf840407877a58692794e1c80791ce678bce66515204f46ab7b9",
+            "size": 628085,
+            "unsignedHash": "8a5e8f654a868edcfa477d5956c68bd6"
         },
         {
             "exists": true,
-            "hash": "2037c46c30accc49a2313c8068eb0474",
-            "path": "Contents/Frameworks/libPocoDataSQLite.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoDataSQLite.92.dylib.zip",
-            "sha256": "c4284cf7ae91e55385cec644402b28d2b595c53a0333aa1202b94bf52b5a819e",
-            "size": 108906,
-            "unsignedHash": "523daedc9950a16fa86f42b45c82ef26"
+            "hash": "3fd58b7c539773ceacbcf80b9c8f8092",
+            "path": "Contents/Frameworks/libPocoDataSQLite.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoDataSQLite.103.dylib.zip",
+            "sha256": "18bb45b663b789aa9d90137eaf1a51aea2caf51f03be5c0b72380b075de893d4",
+            "size": 107408,
+            "unsignedHash": "8fb6b7a73f7886d219d7e25daca70232"
         },
         {
             "exists": true,
-            "hash": "08dcbbb581941b965bf6d0764f969fdc",
-            "path": "Contents/Frameworks/libPocoFoundation.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoFoundation.92.dylib.zip",
-            "sha256": "6039656cb387cdb9a5e6ce3d7fb234d93680268f7a8f3bf9482156b7a45660ac",
-            "size": 628189,
-            "unsignedHash": "7e70fc6ca504281169e01b06cfd9c8e5"
+            "hash": "9e3d534b6c992b03021c06f342cb354b",
+            "path": "Contents/Frameworks/libPocoFoundation.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoFoundation.103.dylib.zip",
+            "sha256": "f610847dbe67c16164f55e3e96763aa0b83c726c030a3bd591a6947649c2c6cf",
+            "size": 700746,
+            "unsignedHash": "cccccff1727b1ea59bab15e0c283eeba"
         },
         {
             "exists": true,
-            "hash": "b44c725522babd0e94451525475e1387",
-            "path": "Contents/Frameworks/libPocoJSON.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoJSON.92.dylib.zip",
-            "sha256": "f0120388a7a387fa28f65ca709378278d94528090fb7fd4b3d416102bb44352f",
-            "size": 137668,
-            "unsignedHash": "5d6459cbbb368e943b81c702e0d16bc0"
+            "hash": "b375f42a89c39dc49aa91f146f429195",
+            "path": "Contents/Frameworks/libPocoJSON.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoJSON.103.dylib.zip",
+            "sha256": "0bd35c6e70c36128cdf42c98a7aad43ae8ec15e23d86e6b896f0ed9d16595b76",
+            "size": 140081,
+            "unsignedHash": "5506472e6c01c2d2e4352498114b06d3"
         },
         {
             "exists": true,
-            "hash": "a4b4b01fb098c2faa7ff4ede83f96bae",
-            "path": "Contents/Frameworks/libPocoNet.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoNet.92.dylib.zip",
-            "sha256": "8040256ac633b060adabc533d4b4f82a5622882d0de24375d79a0397eb3ed786",
-            "size": 488413,
-            "unsignedHash": "0f266caee5ef47926c667b04f7012dc3"
+            "hash": "ae0fc8359d446aa9c288825d09b0f217",
+            "path": "Contents/Frameworks/libPocoNet.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoNet.103.dylib.zip",
+            "sha256": "957a8de64f2073c2a25e960c8215ccd6888b083412c4ecfd2c74d38badf6e196",
+            "size": 479438,
+            "unsignedHash": "a4f3bfbf0ba9f3f1ddd787e8e98b125f"
         },
         {
             "exists": true,
-            "hash": "f49e786fb24bba644b96b498d4df900d",
-            "path": "Contents/Frameworks/libPocoNetSSL.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoNetSSL.92.dylib.zip",
-            "sha256": "3381aa48bcffc30abb340d4c9938f19bc149bfa6fabf744c435987b62d815b03",
-            "size": 103091,
-            "unsignedHash": "19567e3267ffb75d57bc84c703fab197"
+            "hash": "5c1fc7a8d921fe46a88c548fa14b9c73",
+            "path": "Contents/Frameworks/libPocoNetSSL.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoNetSSL.103.dylib.zip",
+            "sha256": "3d57b87857431921ad48700f11f0e535e2ff7439cebabaaa06e3d534577b2ad5",
+            "size": 103937,
+            "unsignedHash": "79200dfad52f6ae230ddf7f271357455"
         },
         {
             "exists": true,
-            "hash": "609a6cba268755077c2174cb6a4ab04c",
-            "path": "Contents/Frameworks/libPocoUtil.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoUtil.92.dylib.zip",
-            "sha256": "809c2a7c9cb21796c18e15fc1d66c065ddd5cdf8d32e0f6bae717a59d8b30483",
-            "size": 160302,
-            "unsignedHash": "b44c50d4954d11805b1e318fae5db67d"
+            "hash": "9d2a64cb8c77b8e26ddfdf4c159cbce8",
+            "path": "Contents/Frameworks/libPocoUtil.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoUtil.103.dylib.zip",
+            "sha256": "bfac498e6b02b052af1f217946f32422e245b994d0bd5ae6679b75f2c8b9ca5a",
+            "size": 160140,
+            "unsignedHash": "f63c9b4f6cf668eedec26d7acf0bb3d4"
         },
         {
             "exists": true,
-            "hash": "18696bec180b17c5b903b0a48fb5f3f0",
-            "path": "Contents/Frameworks/libPocoXML.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoXML.92.dylib.zip",
-            "sha256": "f47d186d7a4f6426dd125619535ba4f3f3e36fd88e6e1a8868cd65c4450ce1ba",
-            "size": 168971,
-            "unsignedHash": "265b67dbae20aa2574e5dc8912fee5ae"
+            "hash": "78b35dd0fb5ac3481be7119f0f2ac546",
+            "path": "Contents/Frameworks/libPocoXML.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoXML.103.dylib.zip",
+            "sha256": "a6d2492ee68e0aaa61ac62fccf52757fd48f6dd5091ad7d78c613785b0f659bb",
+            "size": 165841,
+            "unsignedHash": "548e3040a23d2a8f3ae04800b43d946f"
         },
         {
             "exists": true,
-            "hash": "925556da908eba84d203a34176e02b97",
-            "path": "Contents/Frameworks/libPocoZip.92.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libPocoZip.92.dylib.zip",
-            "sha256": "e0daec702b3726137978757de50838edfa5c8c751e973e40c39d4e16daa02565",
-            "size": 92687,
-            "unsignedHash": "499e0d61e1f1af45a5450157db7f4c6f"
+            "hash": "d23e18004149a4a410ccb520127d8a17",
+            "path": "Contents/Frameworks/libPocoZip.103.dylib",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libPocoZip.103.dylib.zip",
+            "sha256": "8a1aac90517133b4957123ed976d138b9dcbbce67d2d053a19e49ecbfe20804f",
+            "size": 91118,
+            "unsignedHash": "ec1374b503bc6be2a3e1eb4dde93a38d"
         },
         {
             "exists": true,
-            "hash": "f623708ff44956cc2560ffa0448318cb",
+            "hash": "6cf552dcaa16811d5f882dbd83d8a5c5",
             "path": "Contents/Frameworks/libsqlite.3.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libsqlite.3.dylib.zip",
-            "sha256": "cb0f7f49290242b90647400e63a7f29461cc06812caa9074d87ed4f76387014b",
-            "size": 743400,
-            "unsignedHash": "6df277c0540235baf6682f65f68882df"
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libsqlite.3.dylib.zip",
+            "sha256": "8314572e1a181ab7e8378ab7a133c2f20d406df328446be690edf3765a1c5db3",
+            "size": 835164,
+            "unsignedHash": "77f284a294fe28d1d6f66b0ffa8d60cc"
         },
         {
             "exists": true,
-            "hash": "2c1913569b83da4f869ad1fa77dd1771",
+            "hash": "b1f3400bb4b3faba36bd2bab4f4771e0",
             "path": "Contents/Frameworks/libssl.1.1.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libssl.1.1.dylib.zip",
-            "sha256": "659bd415b30b09569f18a5c7c53b6cba9c61567ed91ee6255eb97d96028d5ccc",
-            "size": 234221,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libssl.1.1.dylib.zip",
+            "sha256": "e2acf3d1e71a59fd2635cd69e5b9ef6eea53af71788f8318bb8f43b094eb5f33",
+            "size": 234211,
             "unsignedHash": "5dff8464ca87702f059299a50ca68357"
         },
         {
             "exists": true,
-            "hash": "4aed09e0a79a1cba47efe19ec325a283",
+            "hash": "fe2737a9bde2294dece6edfe581ff9a8",
             "path": "Contents/Frameworks/libxdelta3.0.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libxdelta3.0.dylib.zip",
-            "sha256": "37f9ae432e36c7c5445d051ea7fd606310d10f4e0b4ae635ff2279afa0e95883",
-            "size": 74388,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libxdelta3.0.dylib.zip",
+            "sha256": "1c1dfe680063b720ea159b30c9fe5bf5c39b2041db96e636629e3c0826a3ca9a",
+            "size": 74393,
             "unsignedHash": "aef0d98c30d969f3a1a0492147bac050"
         },
         {
             "exists": true,
-            "hash": "d49adffdf3f29d4aa24cef9c36534cd6",
+            "hash": "9e4edfef3a72354da7616852eb6cd2e2",
             "path": "Contents/Frameworks/libz.1.dylib",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/libz.1.dylib.zip",
-            "sha256": "a0899d1b1c18c5c291b6f55d33cee0479a8403ab4f23c5b178b1280f3cbdf06e",
-            "size": 60186,
-            "unsignedHash": "9892a1c2406c96cd69f0885da033fd37"
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/libz.1.dylib.zip",
+            "sha256": "aa22a60c5480458667a6272cb24152c067fd7fb5421452d2133aad9f3cad1352",
+            "size": 60330,
+            "unsignedHash": "1924ac9716ef5b8cb4b54cd51359edc5"
         },
         {
             "exists": true,
-            "hash": "819a94e1fc34f7124045c25e8fa3fb96",
+            "hash": "0873918f58b620415fcd006e8ab9ae30",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/_CodeSignature/CodeResources",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/_CodeSignature/CodeResources.zip",
-            "sha256": "4f112e34eac1f71917f1363b10c353dbbbe899e15a72b4f85a93662db740a2d1",
-            "size": 35539,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/_CodeSignature/CodeResources.zip",
+            "sha256": "0fd0a67f007be9f225e4695146b8608144117c1653143a2a3d507750cb29b024",
+            "size": 35537,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "3de07e2d1ed8f2828153f9c39540c040",
+            "hash": "3e3f93c9b31a4bb2292330c37e70391e",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/bin/python3.7",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/bin/python3.7.zip",
-            "sha256": "bffef919546630b7a60c205886af95c70127e53c30af274d84c82f0a689af7bc",
-            "size": 7576,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/bin/python3.7.zip",
+            "sha256": "9116c2c31a7c9e73b9e7814eced8197e4ad70e2a85070b256cc75e7fcd7383b5",
+            "size": 7578,
             "unsignedHash": "1e027eb0ef8d38a93aee9b46ec49b04c"
         },
         {
@@ -4972,632 +4972,632 @@
         },
         {
             "exists": true,
-            "hash": "a5634585b9d6cc130f67f30dea3b7202",
+            "hash": "51692bb2483815c3f462ed4b87b6d20c",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_asyncio.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_asyncio.cpython-37m-darwin.so.zip",
-            "sha256": "a49ae88c9536a4470e85456a467212de67a0a619f14dfa2a82cae1e9f5c7e670",
-            "size": 26773,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_asyncio.cpython-37m-darwin.so.zip",
+            "sha256": "e1fbe7e0e528eab7f64743e22652ca71f2925497ba01987bddd61ebe86037f9b",
+            "size": 26768,
             "unsignedHash": "4437cfa5a4ca95ac63fccc70cc65f09e"
         },
         {
             "exists": true,
-            "hash": "b3a4dfdf2dd139e0351809eb69738558",
+            "hash": "95daa0bf63a3b7137fcf3f9c0a5015f7",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bisect.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bisect.cpython-37m-darwin.so.zip",
-            "sha256": "8b3df141e0e369ae70f4f7bf032c0bce4e24428a17738397b33da0f521c8ba0f",
-            "size": 8343,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bisect.cpython-37m-darwin.so.zip",
+            "sha256": "1f70efe182e5699c498e19ae38370411dd3641a08666748de8dd0384d03018cf",
+            "size": 8336,
             "unsignedHash": "d668428f1557de6587f4957f0e726e0f"
         },
         {
             "exists": true,
-            "hash": "31ce2846482c124498c58babdabf1fd0",
+            "hash": "ae0cfc1f19107d3f8d815e396c422f2f",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_blake2.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_blake2.cpython-37m-darwin.so.zip",
-            "sha256": "af86d58e07c52f195e817caa89c2558bb4e47c1d440e2762ac3f991f72745798",
-            "size": 20523,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_blake2.cpython-37m-darwin.so.zip",
+            "sha256": "e9f6d3be7cea72402a1641d257d793ee64e370202c99b165450b927d31a8a1e2",
+            "size": 20513,
             "unsignedHash": "9e1a8200489f9289184bed188589a812"
         },
         {
             "exists": true,
-            "hash": "9376ac132cfbd6659361fef5a2ef05f3",
+            "hash": "2a72110ed967027c7553ed89eba68ca2",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bz2.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bz2.cpython-37m-darwin.so.zip",
-            "sha256": "0afdd7d2680539535a56a66f4aeeb7c3e86b1606d59bf24a39fce4d2cac6a9db",
-            "size": 12085,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_bz2.cpython-37m-darwin.so.zip",
+            "sha256": "8c07e5b3755c8c1312163060b75a070e3e320728b320e548d78bfe3e0bb8fd3c",
+            "size": 12084,
             "unsignedHash": "e66ecd24a0c33408b461d0bd5c7e771b"
         },
         {
             "exists": true,
-            "hash": "65455179371a972b7b8df1abb77ed54c",
+            "hash": "e7b1a68036075610ff500da4eab36112",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_cn.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_cn.cpython-37m-darwin.so.zip",
-            "sha256": "d35161d5bdb3c3b9f9a5160d98746e6b06029a0cdce08d2644fe68d27fffc190",
-            "size": 105947,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_cn.cpython-37m-darwin.so.zip",
+            "sha256": "0dbb597f32274d91f52d39311ecfb2e883b6655a739e08e4edf5fbfd637ca245",
+            "size": 105952,
             "unsignedHash": "6c5b9f8e4e841cc03a2ea8c6f91ed02a"
         },
         {
             "exists": true,
-            "hash": "c643f4460c1e07d0a4fbbd765d50c573",
+            "hash": "ea4c4d5ed24338b8f279e3fc09f21781",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_hk.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_hk.cpython-37m-darwin.so.zip",
-            "sha256": "2afe6a5aa258a3d84c94881f7e310e7544c85a1764c3a7c7e361c95c2dfc8a47",
-            "size": 39665,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_hk.cpython-37m-darwin.so.zip",
+            "sha256": "68fbce2f622d96ccc8f472bf0bf39181059fe37acbdb5e1d3321a79b279d65af",
+            "size": 39670,
             "unsignedHash": "85cffc99db5be1c40270c7c9ae83e319"
         },
         {
             "exists": true,
-            "hash": "39b6d28183842d77d0a470186a1df2d6",
+            "hash": "3c8206f91c46f06e66f3738ab5fce450",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_iso2022.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_iso2022.cpython-37m-darwin.so.zip",
-            "sha256": "74cf13d78bd25250bd8d702641a2ce341f79dc2749cac96c05780be488135670",
-            "size": 13684,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_iso2022.cpython-37m-darwin.so.zip",
+            "sha256": "5fc361aeeffce5a5d79b60e103955ca845dd9d341a3cad33a34a281ce5f1b270",
+            "size": 13675,
             "unsignedHash": "1ae6c8bfb8d4c2f0064f4d1f0239542e"
         },
         {
             "exists": true,
-            "hash": "5eab07661fea02492108e7cc4df33964",
+            "hash": "eeeffb905ae881d594b8a6d72f784a25",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_jp.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_jp.cpython-37m-darwin.so.zip",
-            "sha256": "9e224d3c7dbbd5a6bab078b18c19379cc32cf42e218a4892312a332f6529706c",
-            "size": 98816,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_jp.cpython-37m-darwin.so.zip",
+            "sha256": "8517f9a5a33b6c69ca3c76c9a71442fd534d9f1f42c08bf267db11346c32d851",
+            "size": 98815,
             "unsignedHash": "c929ee6ed5eb625cd0521f9ec8323457"
         },
         {
             "exists": true,
-            "hash": "9ffd8fda5105a43c2bb61ced7c67dbee",
+            "hash": "94997baecfb6fe6964b97b56b97b2cf5",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_kr.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_kr.cpython-37m-darwin.so.zip",
-            "sha256": "de8bf5ce3f60405060d90468c1202fe9c27acad70fe9522962e3e8f45460b2b3",
-            "size": 81110,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_kr.cpython-37m-darwin.so.zip",
+            "sha256": "a6269279e754574c88ca1ead56176208bc2e35372a67a42f4d526debf6762ecb",
+            "size": 81095,
             "unsignedHash": "01f6908ff186aa0eb8e3e31ed6733ea7"
         },
         {
             "exists": true,
-            "hash": "fc519a0b6c07051872a46d8f4958bf98",
+            "hash": "3b85019b3dab8ec5640e740d1b3053fa",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_tw.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_tw.cpython-37m-darwin.so.zip",
-            "sha256": "8681afd4331be9b1853f1906b06fc056aad0475e76305a9abe18b212dc4e2a5c",
-            "size": 68051,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_codecs_tw.cpython-37m-darwin.so.zip",
+            "sha256": "a134500686d80586dd9777646c5f12da94ae81c2d36e1c78ca3c3706c7b42fe3",
+            "size": 68057,
             "unsignedHash": "48abc304fedfc4b3df10c2682278e18d"
         },
         {
             "exists": true,
-            "hash": "b8dfb297c0f135a21d726f88d49b0623",
+            "hash": "93c59204bba448157e17bf977407d72e",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_contextvars.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_contextvars.cpython-37m-darwin.so.zip",
-            "sha256": "53582da02bee889818d80bda85a9429abd678fe50a0c23fef629820ff0db7423",
-            "size": 6820,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_contextvars.cpython-37m-darwin.so.zip",
+            "sha256": "da46b99af9f955105a538855cc8ee5f96536a5998e80329792143508fedb4dfc",
+            "size": 6815,
             "unsignedHash": "721adab6bc20b64ee18f7de5b69bf46a"
         },
         {
             "exists": true,
-            "hash": "ff5fde1e64be04d5a69a88950cc162c6",
+            "hash": "f72c6794db21694f226902c044e6b72a",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_crypt.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_crypt.cpython-37m-darwin.so.zip",
-            "sha256": "f99449d04ca4c1f93c977564f7a45acb605400eacdf2e7944ba7fab692b89d30",
-            "size": 6930,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_crypt.cpython-37m-darwin.so.zip",
+            "sha256": "90ea906d47542f7096a425605570ef863db9f5fb5f760dedf68df973e450032f",
+            "size": 6917,
             "unsignedHash": "43c231a9ef6db3aa324eb9efc7494769"
         },
         {
             "exists": true,
-            "hash": "05b88db51a69d1dd66a112b2d917a6bc",
+            "hash": "41233d230606f46cb7513d38b1446921",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_csv.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_csv.cpython-37m-darwin.so.zip",
-            "sha256": "85f0ff4cbf597f5d49f3b8f749b8f6d99eaadced23a84f6eb0627e2e45608681",
-            "size": 18260,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_csv.cpython-37m-darwin.so.zip",
+            "sha256": "907978d8b4d67cd00beddbe9da4e72a291d51a252dd1ecf44e6d30c1e04c7ad1",
+            "size": 18252,
             "unsignedHash": "b3207c5fb8fc12375c94d31a718f4eff"
         },
         {
             "exists": true,
-            "hash": "d6b1f2cb5c833c734334b96b97d8a3e2",
+            "hash": "d6175be4dfa450a779386e7fb30a5e5d",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes.cpython-37m-darwin.so.zip",
-            "sha256": "6bd5cd24f7d30d5dfaf2d163a121b2ee17bb12a03a2c33876cf7a7c83f4c3717",
-            "size": 56291,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes.cpython-37m-darwin.so.zip",
+            "sha256": "f632ff0088724507c65cdbb9053b320ae268956d5bb5bcc6d40d6b7de7ebe96d",
+            "size": 56289,
             "unsignedHash": "b52a45cc083d866328d0a1ad7549ce6b"
         },
         {
             "exists": true,
-            "hash": "561af2f4eecacbe4fcbb241730d97696",
+            "hash": "b0b0781b81137f599a6632adf56a0c51",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes_test.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes_test.cpython-37m-darwin.so.zip",
-            "sha256": "8e62d6960aeb31bc7813583156902b78ffd08692df554f06f42356faa34e5835",
-            "size": 12660,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ctypes_test.cpython-37m-darwin.so.zip",
+            "sha256": "b7be67d6ab47edc64a2de22c05bee41708031ec3457241f67f6731df7a0af9e7",
+            "size": 12656,
             "unsignedHash": "b120d7a447454268aa5c16641426ebbf"
         },
         {
             "exists": true,
-            "hash": "3171790f8ea070433f2e9bdfac1d35cd",
+            "hash": "bfbea21793e4473ad5c63ca712210a9a",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses.cpython-37m-darwin.so.zip",
-            "sha256": "55cd56ea1bea1ef3afa78abbc219ba1255d29345a70f05ff23551f59a0c41598",
-            "size": 34431,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses.cpython-37m-darwin.so.zip",
+            "sha256": "8b2c0471d5a262331be3c0179ade127a81e03bdd9cf36fab9cfa2d2bc7a15c45",
+            "size": 34423,
             "unsignedHash": "add05063e3e8fd0468ca713dd1c20050"
         },
         {
             "exists": true,
-            "hash": "86e3765e6660cc540e80b339e368e6e1",
+            "hash": "306f7c9bad35a9c59499ef725afb1663",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses_panel.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses_panel.cpython-37m-darwin.so.zip",
-            "sha256": "71305567f3fab921528892c9fb0e7a1a266965a3842d139fbe5b8ba1a5b244f2",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_curses_panel.cpython-37m-darwin.so.zip",
+            "sha256": "644351077624c16e47c2e874b12df4d86ebacb5b0a1a3b2f2df1348768d303d9",
             "size": 10158,
             "unsignedHash": "ae4876503f96c51dd1e4e5274a2dfee1"
         },
         {
             "exists": true,
-            "hash": "12013755aacb633eeadbb7e8e0a62e1f",
+            "hash": "d0019700aeda36778ebe7cd7ed21769b",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_datetime.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_datetime.cpython-37m-darwin.so.zip",
-            "sha256": "d867b438afeb51f806a1af27b4946a09fa49618c78729db5a9e2b688ec4cad9d",
-            "size": 44939,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_datetime.cpython-37m-darwin.so.zip",
+            "sha256": "afbd247814af9c92f120322afff0450dc3e7786312138978597dc391631fe608",
+            "size": 44927,
             "unsignedHash": "5110ad6f62db9e95eac7bf9719594a6a"
         },
         {
             "exists": true,
-            "hash": "818cd4cdde6cd142f932af6c2a56241f",
+            "hash": "acb8b95f5a445eaff42fe85ac91ee4ce",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_dbm.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_dbm.cpython-37m-darwin.so.zip",
-            "sha256": "6d06b9fc51e1156d7ddca4f61e51350f89d76d38b6ecfa671aae69fcda86e98a",
-            "size": 10413,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_dbm.cpython-37m-darwin.so.zip",
+            "sha256": "1e0b5e6b1c4dfd9e92018c60f52c58d092ce5d4d79f18aee48d8629bc51e11c2",
+            "size": 10414,
             "unsignedHash": "becbc24ad6fc66ef48cbe6dca4e50d02"
         },
         {
             "exists": true,
-            "hash": "e61d90811d10568d2fe45013649c12dc",
+            "hash": "bb4addc28eaa1cba51f1b2005ccde901",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_decimal.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_decimal.cpython-37m-darwin.so.zip",
-            "sha256": "9077ac3d70b04dff740aa0004602a85c8fd414500c765ff039ea851c1afbdcb4",
-            "size": 140305,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_decimal.cpython-37m-darwin.so.zip",
+            "sha256": "963001944dc880693aa6ad48a722835c861e7a85671753b91d94e47b9642898c",
+            "size": 140296,
             "unsignedHash": "dc418b4fa2e7f2ad3e3c8ada19df352d"
         },
         {
             "exists": true,
-            "hash": "43526de616f1bf82d90addea8bea00ed",
+            "hash": "4e0fb804dcc7888280db7ac61b578e2c",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_elementtree.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_elementtree.cpython-37m-darwin.so.zip",
-            "sha256": "034e0875bbe9d908b2ff2df0d8672ffb32979317c0e927229d0ffea7c0bf1a60",
-            "size": 29775,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_elementtree.cpython-37m-darwin.so.zip",
+            "sha256": "28b12302ec0e7216e061f8c25064fcad849d5593aaffdf3caf7707e02bd07e27",
+            "size": 29769,
             "unsignedHash": "d309d0f672c3e12f28b592c96b8ace0c"
         },
         {
             "exists": true,
-            "hash": "c8312117a587639edef550dca1f4ff27",
+            "hash": "1fd01f33e2f746a9cc9b60ac8739e616",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_gdbm.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_gdbm.cpython-37m-darwin.so.zip",
-            "sha256": "ba3c446e8d386ff25d74018d37d473a049a587c02922aacb549cd580b7a0b5ad",
-            "size": 12568,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_gdbm.cpython-37m-darwin.so.zip",
+            "sha256": "0f4c6e6c234b9e99ea05400ddf0a40831fb3017b4fc9d24e000be5de1afada68",
+            "size": 12561,
             "unsignedHash": "893a6124f68605e47ee6eb22f8b39f28"
         },
         {
             "exists": true,
-            "hash": "d8ba32e26ec9004b6ecb85f8c54f44f4",
+            "hash": "ad70faacf3f850040f73ec73e620c652",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_hashlib.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_hashlib.cpython-37m-darwin.so.zip",
-            "sha256": "348387f38ce4790d7a3c6b7736f83cf00e35527be1b5cb4fb9386be9276e4cdb",
-            "size": 862415,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_hashlib.cpython-37m-darwin.so.zip",
+            "sha256": "2849528bc9b99c3d8ea64236df24d2e2c158bd1ea75ebdbc43627ab0c5c720eb",
+            "size": 862410,
             "unsignedHash": "34f6900370b5610178eaf12775ce3690"
         },
         {
             "exists": true,
-            "hash": "6a18a2da2698afd00e1fd1cdf515a044",
+            "hash": "71aa5e610b755650f4e8e48eb6e95272",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_heapq.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_heapq.cpython-37m-darwin.so.zip",
-            "sha256": "03d0afd02f6c0c916477e1c241c41894b931951a18bf1b923130d1e5aaa4b510",
-            "size": 12067,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_heapq.cpython-37m-darwin.so.zip",
+            "sha256": "cff450f829aabfab6ef82b21b55b79df1278fbc6e085bbfe264e2b3416d02c7f",
+            "size": 12065,
             "unsignedHash": "3c93dacb1245c2e12c530d604e3e3f0b"
         },
         {
             "exists": true,
-            "hash": "62a21d700e244b9bea753424eb0a142c",
+            "hash": "77604c2936bcdd4e638c8da7367e8999",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_json.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_json.cpython-37m-darwin.so.zip",
-            "sha256": "49a1e2ef210eff25a6ade563a8b1177d7a2dc00a64b756586899c16f24244a1b",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_json.cpython-37m-darwin.so.zip",
+            "sha256": "b2231f72295a4e33fe3af693ee41514a55ff3f1a081cd4be0b64ddf27e056470",
             "size": 23048,
             "unsignedHash": "69afff9159cf6d7fb8c81e37433eee73"
         },
         {
             "exists": true,
-            "hash": "a9cc1a04b85f7102de2796f57366342d",
+            "hash": "ac82ed7bec3c9ba7f8745c52d7d7d444",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lsprof.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lsprof.cpython-37m-darwin.so.zip",
-            "sha256": "abdfb7d32ee91a2637fa99cd3261b697520b62ffb449089e0e9caf631c1b5a24",
-            "size": 12225,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lsprof.cpython-37m-darwin.so.zip",
+            "sha256": "d656be1b24ef39c6aa50ed41a9ae8c240dbe0f9a6fe0dc76cfbb0b35bfcec461",
+            "size": 12208,
             "unsignedHash": "e4b7f9f89ac0233adf0edf0df0756245"
         },
         {
             "exists": true,
-            "hash": "78c81380726811b10ffaaa8ade511a4b",
+            "hash": "13993b4885920f8599ccd91e91eba611",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lzma.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lzma.cpython-37m-darwin.so.zip",
-            "sha256": "d9c99b2fc1da3fdb8e085ad38c09cd485775f413d19670e8de01d76219082f72",
-            "size": 18249,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_lzma.cpython-37m-darwin.so.zip",
+            "sha256": "eb5aa5599b3472ea68aa3f94dae04072829ed5502c0abd1790e3aab945b8ab44",
+            "size": 18253,
             "unsignedHash": "cf803bc2ba869a6278ad2e6e275c28c5"
         },
         {
             "exists": true,
-            "hash": "6ffd7a1069d835f304075c85be4dc822",
+            "hash": "d964167829b2cc57917967ed98d0da76",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_md5.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_md5.cpython-37m-darwin.so.zip",
-            "sha256": "74a887a8f896bd877c6b4dfe06f9dfd1af19d6460d52041e1cd823fee5f02245",
-            "size": 11308,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_md5.cpython-37m-darwin.so.zip",
+            "sha256": "7eb2c34d28b9322de79a7a40936f4aed95b793901bd7ca7f373a6c09613f8152",
+            "size": 11307,
             "unsignedHash": "d6f6d5d352bd73979bdd642bce5cd869"
         },
         {
             "exists": true,
-            "hash": "a885ddfbdd83c0c1f9796cae22fbe536",
+            "hash": "42c8f37311dc9b7c2dfd79d231f56e9f",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multibytecodec.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multibytecodec.cpython-37m-darwin.so.zip",
-            "sha256": "464dc801b43d23be2c1bac433e439065a91637ba3166ebf5d5eacb12ee2b8b2c",
-            "size": 17891,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multibytecodec.cpython-37m-darwin.so.zip",
+            "sha256": "8d875525d7db05e67fea0ab247e7219a654dbc425887ee02e4259ffa12cbdb7f",
+            "size": 17881,
             "unsignedHash": "c278023e0b5179cfccd3b370954a3b27"
         },
         {
             "exists": true,
-            "hash": "570ec1b9c66095b79c20bf6d89b799dc",
+            "hash": "7a05aa2aec15936cdebed32a754a9b26",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-darwin.so.zip",
-            "sha256": "d6223c10992319f4b12cc2805f6946d8de89bb547b5fe5c0cc8a89b31ff31fd8",
-            "size": 10817,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_multiprocessing.cpython-37m-darwin.so.zip",
+            "sha256": "61cf820634dcb5bc6d804aced686d7b0d6eda69a64df70430c055af7cf247996",
+            "size": 10824,
             "unsignedHash": "e0a6485a80ed8bb97577ac077d2976e5"
         },
         {
             "exists": true,
-            "hash": "9b85f56677ed77d61506ecf10d01180a",
+            "hash": "5e28efae7db0cce09ab18c3af4f6dc85",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_opcode.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_opcode.cpython-37m-darwin.so.zip",
-            "sha256": "9db3f66ea13e1c913d26c22c300dd99404aa000c98a202c13af3e404b5d4c756",
-            "size": 7145,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_opcode.cpython-37m-darwin.so.zip",
+            "sha256": "7736d0900a2264dd179b0023d96cbf71241a38b47f5ddfbb0dde68f2be3d542c",
+            "size": 7138,
             "unsignedHash": "8b691c61a24ef5a9dcb01f24b9b5a77f"
         },
         {
             "exists": true,
-            "hash": "dffb707f4475d881fd506f3ca6d2a3cb",
+            "hash": "7420004205f534baa41c5f26b24db770",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_pickle.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_pickle.cpython-37m-darwin.so.zip",
-            "sha256": "6750b040ce8ebbdee5ee647a80291d3e7ee12261b86e56e95565887bfea874c7",
-            "size": 49304,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_pickle.cpython-37m-darwin.so.zip",
+            "sha256": "974a35112af2fbff7f857559206f1d9e600b84ada1738f7706922c2e78883205",
+            "size": 49301,
             "unsignedHash": "226f615fdf9401db704ab72ffc19b281"
         },
         {
             "exists": true,
-            "hash": "96c04e67aceb1b76f4eacbbde642620c",
+            "hash": "a99c59b9b705361b8b7f515e8215d890",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-darwin.so.zip",
-            "sha256": "191e29929fda12f21c2b21db06ebbdda191a0063e599f5aa06fac753cff3116c",
-            "size": 10939,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_posixsubprocess.cpython-37m-darwin.so.zip",
+            "sha256": "8c2f01c14ce225a5aebb7ba8c59fdc9c93a78aedf27044e8a175ff0a3dd581cf",
+            "size": 10935,
             "unsignedHash": "83be2dc5d901c992a69fc5bb4b0a0306"
         },
         {
             "exists": true,
-            "hash": "899293e2de7caa2a62b1ed518cc8aa6f",
+            "hash": "d34e27d9400b27049afecfede53deaf9",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_queue.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_queue.cpython-37m-darwin.so.zip",
-            "sha256": "0997daff184e9a94137703166b212a9973f52cddae850ba0723f940a61f8a0f7",
-            "size": 10082,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_queue.cpython-37m-darwin.so.zip",
+            "sha256": "6085d9e3c07aeed7e80bec4a717e3e996bd788df96fa4c7d929d3e36cbcc6eb6",
+            "size": 10079,
             "unsignedHash": "996306fd0ed7510330acd87cbe285fc4"
         },
         {
             "exists": true,
-            "hash": "4c3ac1068a61d43ea30c35de52983781",
+            "hash": "f685c459d0c2ae034a98c1f33421af19",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_random.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_random.cpython-37m-darwin.so.zip",
-            "sha256": "5898b48bcca32d0cf28e5b16125ccabf7399e80f44d39cc9ac88c489b59bf72d",
-            "size": 9992,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_random.cpython-37m-darwin.so.zip",
+            "sha256": "d26841f59f960f76c4272c1174cf8b899cd9618f87f2a5591901c76ac71ad8e3",
+            "size": 9984,
             "unsignedHash": "b6b872680af213398759928c5cda47e9"
         },
         {
             "exists": true,
-            "hash": "8546910e24b2adff42cec696b0ff3e6c",
+            "hash": "6ed791b517c1304b9da7d992bc6a8e34",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_scproxy.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_scproxy.cpython-37m-darwin.so.zip",
-            "sha256": "a14153c918284749538684694c35e86474435bf227f8e6316b1f27205949947b",
-            "size": 8550,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_scproxy.cpython-37m-darwin.so.zip",
+            "sha256": "32f3b4c3d6066ea790e074f35e0ca8f9440bc06ea0ff8fce6151602a4e38a006",
+            "size": 8545,
             "unsignedHash": "6d1102caaf9c5753e0d7171372df25a4"
         },
         {
             "exists": true,
-            "hash": "e79c411e7fad33efcf22525dc8812e13",
+            "hash": "3272bb7f63cf5ec07e0f67469ce26747",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha1.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha1.cpython-37m-darwin.so.zip",
-            "sha256": "c3d669756effd7c7cea7f36248871c79f192351e977455c25510335506d0219d",
-            "size": 11426,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha1.cpython-37m-darwin.so.zip",
+            "sha256": "a91ec47ec833efa0ce873c83d414e98e79d7cfb79ed95e53f94133cdaaadacbd",
+            "size": 11428,
             "unsignedHash": "91f2ee44acb0ddf9847ff70bd22780f4"
         },
         {
             "exists": true,
-            "hash": "414095803242067bebf15a56f107433c",
+            "hash": "9df3a640b574470fbe2643e5b9198596",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha256.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha256.cpython-37m-darwin.so.zip",
-            "sha256": "44c4337dbb168b5ec9773b3f2a87c95a81d10abdbdc97752dcff671d1f3776c9",
-            "size": 12760,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha256.cpython-37m-darwin.so.zip",
+            "sha256": "b149c04c9234ae82fec0bc813d8f04b1b9d1d00a0d0750f37fac784e9b12d0e2",
+            "size": 12758,
             "unsignedHash": "923571162f78a04fa2ac1c0c5e5e9f29"
         },
         {
             "exists": true,
-            "hash": "65afa8693a2af30e346146291729785d",
+            "hash": "8d264bc65236a06f3bf4ff5f24b00d3f",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha3.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha3.cpython-37m-darwin.so.zip",
-            "sha256": "bcc585799c3aec6e827597d897485aa90f9951215d1bd39f0b2301fe4d01fab2",
-            "size": 44878,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha3.cpython-37m-darwin.so.zip",
+            "sha256": "9a28321aa3e4ad13a84e6b9ff5e44852f99884226834bd26354149dd17ca292c",
+            "size": 44869,
             "unsignedHash": "4e3d4f89124f40a53955f6cf6b0d2edb"
         },
         {
             "exists": true,
-            "hash": "c6aa5ace9c11b1dc9f383b8627ba78a4",
+            "hash": "33e0efd1e1fcf1908abd9968d1d75911",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha512.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha512.cpython-37m-darwin.so.zip",
-            "sha256": "a08887624a054c5b230eff51dfc05c32050c3f0114e3b748fbf4b67e972eaf15",
-            "size": 13961,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sha512.cpython-37m-darwin.so.zip",
+            "sha256": "e52b3422226df83b797d52fdbc5cc72a617c41227067a82630fd91ded279989c",
+            "size": 13948,
             "unsignedHash": "6f282d595efc09bd7d7dac72c17d2bc3"
         },
         {
             "exists": true,
-            "hash": "fdc4e75277cdbe0c443947fe3ed7c351",
+            "hash": "93ccfd1353e597147b727bc32501e0a3",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_socket.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_socket.cpython-37m-darwin.so.zip",
-            "sha256": "c449d6007078853d96230770d2da2220db17668b4a112aa21f1e2dc538394a69",
-            "size": 36360,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_socket.cpython-37m-darwin.so.zip",
+            "sha256": "102bbcb5c874a587620dbe656e5ee38ecbea20e6525a2d8de209ae55818d139e",
+            "size": 36355,
             "unsignedHash": "c13cf7b0985948cf66ddbd949b7a612a"
         },
         {
             "exists": true,
-            "hash": "9bc7a55b8563802deb40cd7c5da4741e",
+            "hash": "78ccdb8037557842ddaab2d819cf0a62",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-darwin.so.zip",
-            "sha256": "24450f155ef753391c572d7e4b4a2705bdb82dafbd5d424f35c2545ef5f97041",
-            "size": 34687,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_sqlite3.cpython-37m-darwin.so.zip",
+            "sha256": "f0a7e78dede09395b6646b928b0acb139b33e3f519b25d53bd49b79878cf8882",
+            "size": 34682,
             "unsignedHash": "42a9996872c8f5cf9cf33816d789f8e1"
         },
         {
             "exists": true,
-            "hash": "cfcbec7f71bc411b7ead97c55f8bfb80",
+            "hash": "4879ab73dfa783c6bfd8a1e8379536ef",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ssl.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ssl.cpython-37m-darwin.so.zip",
-            "sha256": "08343244e44588d6c300ec0b5d44f95d9b8dd9fd141e5dfd133769c099c517b4",
-            "size": 1063174,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_ssl.cpython-37m-darwin.so.zip",
+            "sha256": "ca49bad67f45dde442fb863d14ebd8938e643f0699098602bc8755beb39e5115",
+            "size": 1063176,
             "unsignedHash": "d269cfd5ae52f5e65841987eb593be62"
         },
         {
             "exists": true,
-            "hash": "c9c5a09afb13b2e899390ba6773637d8",
+            "hash": "5467db8dfbeb308ec4dcf7dd04018333",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so.zip",
-            "sha256": "5c2d95a8b1f7548642efb23f32e35ea1d7a94c100b2612e10bdbe668d2c482ff",
-            "size": 20689,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so.zip",
+            "sha256": "ea49dabaf369a6ab4f9b232bedc776b7700641a60e1ac84033f65058e1861998",
+            "size": 20686,
             "unsignedHash": "1c6f55c0e60f13829cf1270714393e18"
         },
         {
             "exists": true,
-            "hash": "904b322ad4df973c3c8e05387f76595e",
+            "hash": "da576f58dda7eb50a449aefe9f1626e3",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testbuffer.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testbuffer.cpython-37m-darwin.so.zip",
-            "sha256": "8bafc4c1102545ee68babb83a0f9c4d8a0af65c9e77fe18a55011b91b5927226",
-            "size": 23651,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testbuffer.cpython-37m-darwin.so.zip",
+            "sha256": "4bd9db64d1b8ac6756032dcd26868fa5260196f86cbc460d0aee991bcc9bb317",
+            "size": 23649,
             "unsignedHash": "f5b5c113a676a6f54369045d2173b863"
         },
         {
             "exists": true,
-            "hash": "f2ddedc2a50fa31863151ac35626b856",
+            "hash": "3ce5c0d1ea9505ab0e529889e346134d",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testcapi.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testcapi.cpython-37m-darwin.so.zip",
-            "sha256": "73ed9cc2baa0cb770607de0cbda6e7d4de88aa9e243ba511590b29b59500a43c",
-            "size": 41348,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testcapi.cpython-37m-darwin.so.zip",
+            "sha256": "01a55779f930de114895d6b70b69ff3f7312bfc3128116fdf7be6fe411c97860",
+            "size": 41349,
             "unsignedHash": "139530062cced3bfb8e996df54bb09b0"
         },
         {
             "exists": true,
-            "hash": "69ceec49f5fb3cde7dde3c581ffa1661",
+            "hash": "2d3d172338285117ff930292d3875f39",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testimportmultiple.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testimportmultiple.cpython-37m-darwin.so.zip",
-            "sha256": "2615031687ad41004a13661fb57800bea55ab7e1f353c479cec5560310f6285f",
-            "size": 6587,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testimportmultiple.cpython-37m-darwin.so.zip",
+            "sha256": "e9588804866aa1e9bbf9dda1776be313b22ba9e763abe4cc312912c05e7c955b",
+            "size": 6576,
             "unsignedHash": "727f53991bc6b9bbde2e9d91be7065e5"
         },
         {
             "exists": true,
-            "hash": "e6a8723e0d3fa09216681af822f5773e",
+            "hash": "077c76ca7dee559b1a79ba8c489a3028",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testmultiphase.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testmultiphase.cpython-37m-darwin.so.zip",
-            "sha256": "313eb790f22b885c8b2bf338226fdc9906b820169d01200116e220650ae61e8c",
-            "size": 11187,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_testmultiphase.cpython-37m-darwin.so.zip",
+            "sha256": "fcc3ab22d4f263366378c05ac450cbf6e6126ea29bd03a637273ac123cb37a33",
+            "size": 11174,
             "unsignedHash": "fe5b5f1ae98b0504b13681f923927944"
         },
         {
             "exists": true,
-            "hash": "f4e93d6d7b18535689de27d8b04e0303",
+            "hash": "8ffaa3ecf3dd75365f184f0b66856d1a",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_tkinter.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_tkinter.cpython-37m-darwin.so.zip",
-            "sha256": "8b76f4094ff9c5574fbbc4c45a2587907fa582a369ee723db2ba89107013ea2b",
-            "size": 28716,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_tkinter.cpython-37m-darwin.so.zip",
+            "sha256": "968324a62b636c9adb0460be52d218f89cfa14645cf975002a9b76ed7f11264b",
+            "size": 28710,
             "unsignedHash": "94f34df311fbb207262d760095b67f59"
         },
         {
             "exists": true,
-            "hash": "3898aa712ce7bcc6f70ec689727f3908",
+            "hash": "568c8a6272feb3293336cb702a1362b8",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_uuid.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_uuid.cpython-37m-darwin.so.zip",
-            "sha256": "563884217192fc4aea68e701384baeb1e1777d8dcd858ab9349e68cfe63b1597",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_uuid.cpython-37m-darwin.so.zip",
+            "sha256": "ac1cf31a951c7ac9ae25ab1004723ef48871d567ed5eeec724be0f22f74cfa37",
             "size": 6802,
             "unsignedHash": "ac37a07ca0e7ace6559266acf7972a74"
         },
         {
             "exists": true,
-            "hash": "a5cc1d7ab0ca50edbf8858a50fb76e26",
+            "hash": "a27eb82c243f19e71e8a7baeb34236f0",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_xxtestfuzz.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_xxtestfuzz.cpython-37m-darwin.so.zip",
-            "sha256": "3b9caa6ac7ed8009c446bddf165b7d7825372537c2cb7f1350a5dcefa87d9a61",
-            "size": 7709,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_xxtestfuzz.cpython-37m-darwin.so.zip",
+            "sha256": "6c4ea7cdac55dd14d1956819aacc60043cbe015fa710f054f4b18fa9b90689c2",
+            "size": 7705,
             "unsignedHash": "bafde1d8673d43ea3bfd33929941e27d"
         },
         {
             "exists": true,
-            "hash": "f8d15bb90edfba947447bccf2595499a",
+            "hash": "7e29dbd7f9a9e9af4b9d374b026074bd",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/array.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/array.cpython-37m-darwin.so.zip",
-            "sha256": "6175db28cea666b1883dc847dd18d6791bca43549ef8c06a9dd83b386107ef32",
-            "size": 25998,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/array.cpython-37m-darwin.so.zip",
+            "sha256": "fe959aa486608115c59c1c51b105e16b7a8e642deb5c4720b5c8fcca40dadcf6",
+            "size": 25996,
             "unsignedHash": "666de231e8b19cc4bcf686202a07bc7a"
         },
         {
             "exists": true,
-            "hash": "e1c622213801c080a6372f34db93dc0c",
+            "hash": "b1bd4fd72dd14cd436c4537fdf951a25",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/audioop.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/audioop.cpython-37m-darwin.so.zip",
-            "sha256": "adda248fb7f3ea803c1a1f0e980e71fe44bb6b5e3766ecee9686e45fdef50ad3",
-            "size": 22164,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/audioop.cpython-37m-darwin.so.zip",
+            "sha256": "244c0503f6932e3b233acf2cc2751b5aeafb6228f5db4a698ca1416722e23156",
+            "size": 22162,
             "unsignedHash": "0ee2cc0969a952ff003aa44234215df7"
         },
         {
             "exists": true,
-            "hash": "a29516e6d3341f2e8996dfbfd710a834",
+            "hash": "4ed47315ce1708ff13edf12239fa912a",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/binascii.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/binascii.cpython-37m-darwin.so.zip",
-            "sha256": "bc34df5ab766e8bc3cd2cd82e9d7073d81c6d4024a3f232080d12c7dcb2cc856",
-            "size": 26749,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/binascii.cpython-37m-darwin.so.zip",
+            "sha256": "edd1333f8d75722342b811e252e96d5cad0e4bf10e43cff8582eb61c4f464f4c",
+            "size": 26746,
             "unsignedHash": "19fb667b2b4d0dd2f897c77fb9555cd2"
         },
         {
             "exists": true,
-            "hash": "61c390e90a0071d90408915e77843299",
+            "hash": "cdf283685dae12e9ec3a6582967cb294",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/cmath.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/cmath.cpython-37m-darwin.so.zip",
-            "sha256": "684dc6a14de1680498e472db57dcc4bb6616df5278608b11ce06153384571aef",
-            "size": 19077,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/cmath.cpython-37m-darwin.so.zip",
+            "sha256": "6533eb7d704e5cac3a553fe6d1ff2b9b1597fa61f165a1e1940df2e24de4c75d",
+            "size": 19071,
             "unsignedHash": "89f173bd0e856c7138af874c54faeaf1"
         },
         {
             "exists": true,
-            "hash": "c7fae7844afd09573e1635a87aac86aa",
+            "hash": "d9947aa0a95324a45d622ebafc221c05",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/fcntl.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/fcntl.cpython-37m-darwin.so.zip",
-            "sha256": "786fa732f5076ee9cbeccfccfb95de7fdb0456a3486a5a713bceedde00f9d33e",
-            "size": 10879,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/fcntl.cpython-37m-darwin.so.zip",
+            "sha256": "b9fce7c7ccdac420a3d026f4846993bb62d04251416b06d08ec5a61b38275b79",
+            "size": 10878,
             "unsignedHash": "3e107d319f3bd36ee9aa32e9bffb3a2d"
         },
         {
             "exists": true,
-            "hash": "3e3be83c6833e129976a92c4e5b1b9ee",
+            "hash": "29ed4007262a6c2174dace2b9104584f",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/grp.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/grp.cpython-37m-darwin.so.zip",
-            "sha256": "9098308d12ed4916581c71912ba7e23ddc54afec0ede756eb2abdb91191b3591",
-            "size": 9259,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/grp.cpython-37m-darwin.so.zip",
+            "sha256": "45d7b09a1a9d89e75df263b85550a9756ed44e951cd68b585003ef8154646e86",
+            "size": 9255,
             "unsignedHash": "d5f6804c6afd1ae862ea47f2e9667b1f"
         },
         {
             "exists": true,
-            "hash": "630bec2d761af2824b5b07f0dc8482c8",
+            "hash": "7da602d396b85f7de52a7940dcc2ebb2",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/math.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/math.cpython-37m-darwin.so.zip",
-            "sha256": "f7d0239e25dc32e387748120102e67c97d3342a7419aa8d5dcb1cb13c1126b1c",
-            "size": 23505,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/math.cpython-37m-darwin.so.zip",
+            "sha256": "6ebdd2b458e213bc4b37dd84bed5b0ae507e5291c744e3ab257cfa7093b20d20",
+            "size": 23504,
             "unsignedHash": "6e4efd0584a5cd28221f52d7010fd0c6"
         },
         {
             "exists": true,
-            "hash": "7e88cebcf2073e06e768545a2fd807b3",
+            "hash": "0c8f2cca3b326b4f1c55c76c401517c7",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/mmap.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/mmap.cpython-37m-darwin.so.zip",
-            "sha256": "c2eec6586d61847081abbd10e5d1580df7c28e369d28c0c53903e560cc618962",
-            "size": 14085,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/mmap.cpython-37m-darwin.so.zip",
+            "sha256": "a0035fc0ded1af485a598eff827da61debc14227385186d3b81e7098067e43e9",
+            "size": 14083,
             "unsignedHash": "773618b835cb38430a27819d5bb9b0da"
         },
         {
             "exists": true,
-            "hash": "f03231e7841714cdc7982259ac8edd3a",
+            "hash": "6e7dcdd3224269bf8865688efaa04bf7",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/nis.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/nis.cpython-37m-darwin.so.zip",
-            "sha256": "8060ffc3c31c65be80e41def014f8f2f78dfaaaa6de7a80d55e5130acbd69c57",
-            "size": 9987,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/nis.cpython-37m-darwin.so.zip",
+            "sha256": "cf8cdfd02b050f375da24779c154d4a65abcf4c38095e393a388ea80dff7ad86",
+            "size": 9988,
             "unsignedHash": "52347de6a0a7fdb2660410c85936f5dd"
         },
         {
             "exists": true,
-            "hash": "aa3f078df5cf972b4863068b207520fb",
+            "hash": "8af804bdfc7e5dd78cdbf5738fd2c0c1",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/parser.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/parser.cpython-37m-darwin.so.zip",
-            "sha256": "280359f4319b6dd866466f4444404406c0c951963e710d2a273a2e9484e59883",
-            "size": 13763,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/parser.cpython-37m-darwin.so.zip",
+            "sha256": "e907c7506ff4c4456f79de45c555c236ad30ec79b394c8744d0d02ee651a7ac5",
+            "size": 13752,
             "unsignedHash": "0a2a9289787944f52069ff1b529e0c38"
         },
         {
             "exists": true,
-            "hash": "9dd24ae6cdffd25e2f7a93709b7ba585",
+            "hash": "048dfcd28e81c2fe975a0c0798942d03",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/pyexpat.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/pyexpat.cpython-37m-darwin.so.zip",
-            "sha256": "eab5a712f9591f17ee52e85cd70222d75e26ec72c13e22853d8f048905f45212",
-            "size": 97023,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/pyexpat.cpython-37m-darwin.so.zip",
+            "sha256": "72d881230d3ab629e75f1e7688f7e4e8c56d748a87aef9e5fe219d4616f83992",
+            "size": 97021,
             "unsignedHash": "7476f31f5d222f536ab8f65e46de69a4"
         },
         {
             "exists": true,
-            "hash": "4542f79c98dc358c9b51d5e6ef99ceb8",
+            "hash": "d716ebd1caedfde57ee4c5bcd878036d",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/readline.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/readline.cpython-37m-darwin.so.zip",
-            "sha256": "9280968ec30588a586f95b56bf2da6759b4b6aae1774973c6ee3b465711656a9",
-            "size": 15962,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/readline.cpython-37m-darwin.so.zip",
+            "sha256": "f1609155bd42544c46bde8937d9e71be3bb5f6b990936d9e7f5fc4a825c0fcba",
+            "size": 15960,
             "unsignedHash": "0077719f9b3a8c4e02d4dd45b4294974"
         },
         {
             "exists": true,
-            "hash": "5d2278b911e367093695671869e0c02e",
+            "hash": "48ed82e1e467683fa21966de1cd291fe",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/resource.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/resource.cpython-37m-darwin.so.zip",
-            "sha256": "9c117e681cb4572485be6aa8d7c8c04f39fea77aae33950f45b68792ec375158",
-            "size": 9259,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/resource.cpython-37m-darwin.so.zip",
+            "sha256": "9b838bde71d81ed4423b529b09bb4fd57669624cc1a1244b2b9ce83cdba6ba2b",
+            "size": 9251,
             "unsignedHash": "fe42ce7e6555301eec70e9ab705a24f5"
         },
         {
             "exists": true,
-            "hash": "333659a790269de3c9e6a39b721b215f",
+            "hash": "8e0bdf17af6fceca5c487126b27b7b53",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/select.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/select.cpython-37m-darwin.so.zip",
-            "sha256": "eea314558b1fe4d1ce7b49fcec75180ba4ff75b2dccd1221894266e62580adde",
-            "size": 17185,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/select.cpython-37m-darwin.so.zip",
+            "sha256": "8a7f54ed94b71f00b6ccb9a33a516e361df8a9061caf8e1ffcc61d6c9fc3bfa2",
+            "size": 17177,
             "unsignedHash": "3d5a6d9b25c677035273a227303fc42c"
         },
         {
             "exists": true,
-            "hash": "93650916794dbe065411b3817c190938",
+            "hash": "4bc6236ff3c832d5ff424059bc681693",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/syslog.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/syslog.cpython-37m-darwin.so.zip",
-            "sha256": "4f24d7dbf9bd764e80e752984f1fd8add66cb62a795cc3decc78e232c40cd8eb",
-            "size": 8552,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/syslog.cpython-37m-darwin.so.zip",
+            "sha256": "1d48a2b9d1981e71d7507674404309791d7347caba99039f3ce17627a110f539",
+            "size": 8544,
             "unsignedHash": "ad2bfcce686e59de494407b58b4bb5c2"
         },
         {
             "exists": true,
-            "hash": "5b87ac40e0f08ffd134b3cf04c014a6a",
+            "hash": "cd05b38a35a9eecebe978f65b19691bc",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/termios.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/termios.cpython-37m-darwin.so.zip",
-            "sha256": "4ee843fd29ad0209c9884d08449f174d19b68089dee0efd34daed0276365ee3a",
-            "size": 11911,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/termios.cpython-37m-darwin.so.zip",
+            "sha256": "d4a9969226bdca28f251ec8f7c872e46a5febd9193fc2f08dce43e464c0b297f",
+            "size": 11915,
             "unsignedHash": "0f14d106c578f30f5ec383f8576e2d16"
         },
         {
             "exists": true,
-            "hash": "df88f8795bc1d55c7a5cf8e0d1ac3301",
+            "hash": "fa5158b271a0ccba6036090ac3c6a703",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/unicodedata.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/unicodedata.cpython-37m-darwin.so.zip",
-            "sha256": "2b7af81ec292e596b51fcc73988823941dc23e184e84800ef6066c4d83924921",
-            "size": 392334,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/unicodedata.cpython-37m-darwin.so.zip",
+            "sha256": "ad026083e1d6294e0072e7781844b235e36ee84f7dd6007171ca63aa27e15ddc",
+            "size": 392330,
             "unsignedHash": "f77085b91c8e153eaec36f03cfd3b8f0"
         },
         {
             "exists": true,
-            "hash": "95c2669ec48f31cdf9b1d1cfedbf8339",
+            "hash": "e4e89537eae0ad634de1b0a9903380aa",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/xxlimited.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/xxlimited.cpython-37m-darwin.so.zip",
-            "sha256": "0a4d474fdf3c3ae273cb6f31c5d14a3b9d75645cc69e21a6520065009f379f0d",
-            "size": 8421,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/xxlimited.cpython-37m-darwin.so.zip",
+            "sha256": "572f5d22555b14ab638caa41bfd1244462df5ebeb8c94f04edac7488cd30621a",
+            "size": 8418,
             "unsignedHash": "56c51cec467819ab5e16409a8b027e61"
         },
         {
             "exists": true,
-            "hash": "b236435f55625505c7689647b0c3d8b7",
+            "hash": "47f6cc3d3b7c049e9403446906cc2358",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/zlib.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/zlib.cpython-37m-darwin.so.zip",
-            "sha256": "7111c8a81a873d37af29eb3b032fd9ea7292398c059ef353c6427d890467b53a",
-            "size": 54754,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/zlib.cpython-37m-darwin.so.zip",
+            "sha256": "31ad5e1bf32421d219e55e14108e453002de26c8dbdcdceacea91c6344c413f5",
+            "size": 54743,
             "unsignedHash": "4a8a741176999e409385da7ebef63a30"
         },
         {
@@ -8347,11 +8347,11 @@
         },
         {
             "exists": true,
-            "hash": "90b3419a459521d70b661819fc5ebe6e",
+            "hash": "c7ca26dd27aeda202970161d4cb64c82",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/Python",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/Python.zip",
-            "sha256": "db95a2fbcfe29415889e814af6a1b852617170dbbf5a18d39b0e65d1f8f6173d",
-            "size": 2442969,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/Python.zip",
+            "sha256": "b233b01c251d182b58eb07dbe8c072c3a45f7d9edd02b31d28ef76e3e4da54d6",
+            "size": 2442965,
             "unsignedHash": "aa588d03c6a00467ff55ad4eb11b9a13"
         },
         {
@@ -8383,11 +8383,11 @@
         },
         {
             "exists": true,
-            "hash": "ce9cbd59ecea3544fa58a60fc2789617",
+            "hash": "1abf243c4188f6d3accf93f37ea9c6da",
             "path": "Contents/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python.zip",
-            "sha256": "e0baf34e2fd6926cc6a7ad72d3fb5fcaca668284f659805274140774bdcf8b8f",
-            "size": 6436,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python.zip",
+            "sha256": "a9b2ed4a85a809ddcb148cda728935c892e0ce137bf993da93a04189b4ff9f38",
+            "size": 6425,
             "unsignedHash": null
         },
         {
@@ -8428,10 +8428,10 @@
         },
         {
             "exists": true,
-            "hash": "8007205088c781a01c355c17c005efce",
+            "hash": "8bb7acc0e223a6f412f363e004c98ef8",
             "path": "Contents/Frameworks/QtCore.framework/QtCore",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/QtCore.framework/QtCore.zip",
-            "sha256": "b8ba694f3efced9d133b003c469144d1b3442e52f2da81795d04626751cce5fc",
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/QtCore.framework/QtCore.zip",
+            "sha256": "2dd49847c57cfbf960a4fae9d14118f01ce52e1ce0de75c5952072d5798f4e61",
             "size": 3015413,
             "unsignedHash": "2b034ad6d7fca1df16c80dc001fcda7e"
         },
@@ -8464,11 +8464,11 @@
         },
         {
             "exists": true,
-            "hash": "1609786e3f5040046f5c901e45f59b98",
+            "hash": "725005a9b2135decfc3a85076abadbdd",
             "path": "Contents/Frameworks/QtGui.framework/QtGui",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/QtGui.framework/QtGui.zip",
-            "sha256": "856e941a0b930e7edfdbc05bc696b0127f84106e05cf077c9964d55f1f138d87",
-            "size": 2754303,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/QtGui.framework/QtGui.zip",
+            "sha256": "70faa11d23df6a585d45b57e203e078f47eb81863099ab322293bed45bcd88e7",
+            "size": 2754294,
             "unsignedHash": "a048c4fb071595a9d1f6e0c6dee2efa9"
         },
         {
@@ -8500,11 +8500,11 @@
         },
         {
             "exists": true,
-            "hash": "68206785d9a1259b2c3b3951d2748870",
+            "hash": "c5cb8a66498752d929717834dface8e7",
             "path": "Contents/Frameworks/QtNetwork.framework/QtNetwork",
-            "resource": "GalaxyClient/331920048/osx/Contents/Frameworks/QtNetwork.framework/QtNetwork.zip",
-            "sha256": "335974ed4f417256ec2737fd690bdf8937d8ab2b15b54951825e398b671de57e",
-            "size": 594129,
+            "resource": "GalaxyClient/334760206/osx/Contents/Frameworks/QtNetwork.framework/QtNetwork.zip",
+            "sha256": "035cfde9ee18bb0b0b3ed68d5635f769294d53b3f76207053f12ac59659a92d7",
+            "size": 594128,
             "unsignedHash": "acd920f6976db50e64c43b45a3e5916d"
         },
         {
@@ -8527,28 +8527,28 @@
         },
         {
             "exists": true,
-            "hash": "c715e56096a3b399a52a993cf1b7f25f",
+            "hash": "940a9864617a5413d0d22c9ab9940afc",
             "path": "Contents/Info.plist",
-            "resource": "GalaxyClient/331920048/osx/Contents/Info.plist.zip",
-            "sha256": "3a73672a7d1c8928b8a10c2d2284ab137adedb4ee504caef157a6c1ff8937d8d",
+            "resource": "GalaxyClient/334760206/osx/Contents/Info.plist.zip",
+            "sha256": "0fbc7324bc10653da692a686548bd4a2024bac6efcfbeac9273b88e4a4ac1e90",
             "size": 965,
             "unsignedHash": null
         },
         {
             "exists": true,
-            "hash": "c6937fc953de6bd8444d233843e5d7b0",
+            "hash": "e5f8e1aa7dc77d1e5806c30301f307cc",
             "path": "Contents/Library/LaunchServices/com.gog.galaxy.ClientService",
-            "resource": "GalaxyClient/331920048/osx/Contents/Library/LaunchServices/com.gog.galaxy.ClientService.zip",
-            "sha256": "43ab5892e4c23abba9602e573cbf8ba90c41cfc4d7d946efb36dc284ba1bf7ff",
-            "size": 603404,
-            "unsignedHash": "68759f50e9b463938a1fddf3c95a94b7"
+            "resource": "GalaxyClient/334760206/osx/Contents/Library/LaunchServices/com.gog.galaxy.ClientService.zip",
+            "sha256": "f58114a18122097504f7a8780a0e45a56503749180161ed0dc6d54fae853fa6f",
+            "size": 898887,
+            "unsignedHash": "20a2aff28b3bf328f68190ee861c3212"
         },
         {
             "exists": true,
-            "hash": "21be12c15dae0e9b55207098e8d363e5",
+            "hash": "e726767356923bf686f3371aada76b61",
             "path": "Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/_CodeSignature/CodeResources",
-            "resource": "GalaxyClient/331920048/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/_CodeSignature/CodeResources.zip",
-            "sha256": "7ee75795d73f58d8420c0a5d61c655ee03b4f31d316275179e0d9aa493c73c6c",
+            "resource": "GalaxyClient/334760206/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/_CodeSignature/CodeResources.zip",
+            "sha256": "47084815439cb1f51ecd9252a72df2f4287df1a60cf6f7650b411a961b4fda06",
             "size": 884,
             "unsignedHash": null
         },
@@ -8563,12 +8563,12 @@
         },
         {
             "exists": true,
-            "hash": "2de054c8a7428e0891684436785c9917",
+            "hash": "092367a4e3a7785c2b17736fd79342c2",
             "path": "Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/MacOS/GOG Galaxy Auto Launch Helper",
-            "resource": "GalaxyClient/331920048/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/MacOS/GOG Galaxy Auto Launch Helper.zip",
-            "sha256": "8a4882de0d4d8f6971d7c9f984cd18cbf1328380294fc0abfc8bc2cdb82cc1d7",
-            "size": 10426,
-            "unsignedHash": "ba740779f2bbb73cefff8b41ff4dd7ef"
+            "resource": "GalaxyClient/334760206/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/MacOS/GOG Galaxy Auto Launch Helper.zip",
+            "sha256": "c1f3d00cb233d5a8608829a5b6158201fe11c38b979ae47264c2b3f5b17aa7cc",
+            "size": 10425,
+            "unsignedHash": "f769a72ccffbc8e537e7650f88b89aaf"
         },
         {
             "exists": true,
@@ -8590,10 +8590,10 @@
         },
         {
             "exists": true,
-            "hash": "2aef2a0ef620557ac4f81b6b1c06f301",
+            "hash": "657366da72f5e6d1b42a1d29066aa180",
             "path": "Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/Resources/Assets.car",
-            "resource": "GalaxyClient/331920048/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/Resources/Assets.car.zip",
-            "sha256": "a281a1e5cab58a1b2d0ba85c5d504f868e8496c4a7536d7464ce049e013511e0",
+            "resource": "GalaxyClient/334760206/osx/Contents/Library/LoginItems/GOG Galaxy Auto Launch Helper.app/Contents/Resources/Assets.car.zip",
+            "sha256": "f438fbbbba32d91f9f2d98ddec2696b7e4f3fad1f30981be69af906024d09611",
             "size": 595930,
             "unsignedHash": null
         },
@@ -8608,12 +8608,12 @@
         },
         {
             "exists": true,
-            "hash": "9f0cc92f82f4dcb606bcedaaa92d4f6c",
+            "hash": "46330e13f4040858ca48761cd1aa564f",
             "path": "Contents/MacOS/GOG Galaxy",
-            "resource": "GalaxyClient/331920048/osx/Contents/MacOS/GOG Galaxy.zip",
-            "sha256": "73e2716d54fec2862322fb99155895f9679aecb1d1397cb819df77c35020a20d",
-            "size": 10015584,
-            "unsignedHash": "9103985fc71893f2aab2aa28f1d5438a"
+            "resource": "GalaxyClient/334760206/osx/Contents/MacOS/GOG Galaxy.zip",
+            "sha256": "e767013f4a073a33983e680e90fb7074680033a89771250e7c54708695845fcc",
+            "size": 10064261,
+            "unsignedHash": "25d270ba41e9b52906ce72aa8f21d945"
         },
         {
             "exists": true,
@@ -8635,11 +8635,11 @@
         },
         {
             "exists": true,
-            "hash": "2aef2a0ef620557ac4f81b6b1c06f301",
+            "hash": "657366da72f5e6d1b42a1d29066aa180",
             "path": "Contents/Resources/Assets.car",
-            "resource": "GalaxyClient/297257669/osx/Contents/Resources/Assets.car.zip",
-            "sha256": "a281a1e5cab58a1b2d0ba85c5d504f868e8496c4a7536d7464ce049e013511e0",
-            "size": 596004,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Assets.car.zip",
+            "sha256": "f438fbbbba32d91f9f2d98ddec2696b7e4f3fad1f30981be69af906024d09611",
+            "size": 595930,
             "unsignedHash": null
         },
         {
@@ -8824,11 +8824,11 @@
         },
         {
             "exists": true,
-            "hash": "46e698f84e0c34db057a59a4103873f4",
+            "hash": "1907610524f6f5f4a5fe323dd24e7f3a",
             "path": "Contents/Resources/Plugins/Epic/aiohttp/_frozenlist.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/aiohttp/_frozenlist.cpython-37m-darwin.so.zip",
-            "sha256": "7428ae1b05f0fd529a20b0f369558553d8f750cf846cf971bc5a41b7c46fdb09",
-            "size": 30716,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/aiohttp/_frozenlist.cpython-37m-darwin.so.zip",
+            "sha256": "7b9e50622662ac0734026483a5a1ba73410de281df8d3f221055b202764be9d1",
+            "size": 30708,
             "unsignedHash": "316d047961f8c3cae5a0cb354165577b"
         },
         {
@@ -8860,11 +8860,11 @@
         },
         {
             "exists": true,
-            "hash": "ef569068690b20041db31160d83e6ae3",
+            "hash": "dfd8eb6e15a0268d14bbd302d9bf72a9",
             "path": "Contents/Resources/Plugins/Epic/aiohttp/_helpers.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/aiohttp/_helpers.cpython-37m-darwin.so.zip",
-            "sha256": "663e4cb6e8ac95237c007e0980eb68a4423570d59265eb4483855beb4f6cd444",
-            "size": 24183,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/aiohttp/_helpers.cpython-37m-darwin.so.zip",
+            "sha256": "3b93586a33de0a7c0416e0a3374bfece3258d01d9d81d6082f3dbf1d09a74af3",
+            "size": 24184,
             "unsignedHash": "ccfa6a31e005df5a6fdd8b00be1a60ba"
         },
         {
@@ -8896,11 +8896,11 @@
         },
         {
             "exists": true,
-            "hash": "dbb16c88676aec008fff92fd74cda003",
+            "hash": "fff6dc188cdf5ff09e929cf245d283de",
             "path": "Contents/Resources/Plugins/Epic/aiohttp/_http_parser.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/aiohttp/_http_parser.cpython-37m-darwin.so.zip",
-            "sha256": "90c828cd47bedd4f3e3a6c7bce2740619fcea05842d5ba0685564f82bae8119d",
-            "size": 134748,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/aiohttp/_http_parser.cpython-37m-darwin.so.zip",
+            "sha256": "75db63b78e962f98dd1e3b9af969b48bce8547d728cc421eea69b21e7c7b56ad",
+            "size": 134752,
             "unsignedHash": "b8a709aa8d382ab3df2310904ac77911"
         },
         {
@@ -8923,11 +8923,11 @@
         },
         {
             "exists": true,
-            "hash": "de8913857702dc986118bd026616210a",
+            "hash": "8e9794d33e0b3a30b65db2581a05ff48",
             "path": "Contents/Resources/Plugins/Epic/aiohttp/_http_writer.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/aiohttp/_http_writer.cpython-37m-darwin.so.zip",
-            "sha256": "941b416034e6899513af7bee8cd886ef971640b807195fae5bf1393c374ec757",
-            "size": 21412,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/aiohttp/_http_writer.cpython-37m-darwin.so.zip",
+            "sha256": "5bac24a2c0ed5efdc9a13f7b10e21e73fdc820cfdff66886aa5a15c4777bda95",
+            "size": 21411,
             "unsignedHash": "035bd2f7b53313691daa375e5aae624f"
         },
         {
@@ -8950,11 +8950,11 @@
         },
         {
             "exists": true,
-            "hash": "46cef9f945dd9ca96961c80843efcfac",
+            "hash": "fb976b60a823b26d75f0133a4c9cf8ca",
             "path": "Contents/Resources/Plugins/Epic/aiohttp/_websocket.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/aiohttp/_websocket.cpython-37m-darwin.so.zip",
-            "sha256": "c48e266ae91190d92e682a138f49510025464dfef0e6452270b691937e46ba20",
-            "size": 15814,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/aiohttp/_websocket.cpython-37m-darwin.so.zip",
+            "sha256": "5097c3cfbb6207085b4695a925047fbcd02893ed95ac81cfe2730e332de03f8e",
+            "size": 15800,
             "unsignedHash": "03235222c612e415513cb661d2f4419c"
         },
         {
@@ -10354,11 +10354,11 @@
         },
         {
             "exists": true,
-            "hash": "78c4307b4d04aad505e1feb8ad3c237e",
+            "hash": "0918d411da0a4713709a15476be22378",
             "path": "Contents/Resources/Plugins/Epic/multidict/_multidict.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/multidict/_multidict.cpython-37m-darwin.so.zip",
-            "sha256": "5f8ff2883848408c34cdad5c165d307cece2ff8b6a199cc3f5ef3b666eb2d754",
-            "size": 24525,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/multidict/_multidict.cpython-37m-darwin.so.zip",
+            "sha256": "8608953f6124dc6ef2a62f664219d3f849034ecebab1c03be24cb9fa2d7e045f",
+            "size": 24524,
             "unsignedHash": "aa965684b55bcd0d31926f2945121922"
         },
         {
@@ -10597,20 +10597,20 @@
         },
         {
             "exists": true,
-            "hash": "5342ddac571e9e2c5ca22784869a33cc",
+            "hash": "bd6a965af624dce48d7aa6270ab58fd6",
             "path": "Contents/Resources/Plugins/Epic/psutil/_psutil_osx.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/psutil/_psutil_osx.cpython-37m-darwin.so.zip",
-            "sha256": "d1b7648030e879f858b076066bbbdf09cc9ef48a04c45daab2e342e600aa03d8",
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/psutil/_psutil_osx.cpython-37m-darwin.so.zip",
+            "sha256": "ff3a90fce30588662e831b232483749df586e397a142e92ab3ce5dccbf9a0cb6",
             "size": 24872,
             "unsignedHash": "50f7ff2c4a01571bba31d96b0caf610e"
         },
         {
             "exists": true,
-            "hash": "8c071007304825aaaa41ac175b53a046",
+            "hash": "5be59826390e16b6b3b91cbb78020c13",
             "path": "Contents/Resources/Plugins/Epic/psutil/_psutil_posix.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/psutil/_psutil_posix.cpython-37m-darwin.so.zip",
-            "sha256": "617ad4f86e0787ff6371751f9b050447c4a234e64b4497aadb1ad8809807047b",
-            "size": 11011,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/psutil/_psutil_posix.cpython-37m-darwin.so.zip",
+            "sha256": "86e2c7403cabc1e95830a38cbc0408515ed9b5997e72363c695db08039bde579",
+            "size": 11007,
             "unsignedHash": "4e6ace3da41efcb046650ccca44fca88"
         },
         {
@@ -10696,11 +10696,11 @@
         },
         {
             "exists": true,
-            "hash": "37b0941a599e48a866e9fdd63c8dc011",
+            "hash": "a69d24f55d26d94697facf7e8d199a77",
             "path": "Contents/Resources/Plugins/Epic/yarl/_quoting.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Epic/yarl/_quoting.cpython-37m-darwin.so.zip",
-            "sha256": "86c538a56efcf3bcf7f2fc5e0ae97d39c8d13c5cec3d7406cf226f9c0e3cb3a5",
-            "size": 46032,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Epic/yarl/_quoting.cpython-37m-darwin.so.zip",
+            "sha256": "860e328b6ae18de55766323e00d615d2231d8c6a6bebc370aafe176360e4773f",
+            "size": 46027,
             "unsignedHash": "bb9dc60f1bf7d4def1aa25b196d87e80"
         },
         {
@@ -10885,11 +10885,11 @@
         },
         {
             "exists": true,
-            "hash": "426c9969d678582531a68e39d723619c",
+            "hash": "c74fe51bc2e67961683d973944c3088b",
             "path": "Contents/Resources/Plugins/Xbox/aiohttp/_frozenlist.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/aiohttp/_frozenlist.cpython-37m-darwin.so.zip",
-            "sha256": "18f831c5c9f49f869fce49811d6c2fd105b7e819663bed6965c0015219de44b4",
-            "size": 30716,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/aiohttp/_frozenlist.cpython-37m-darwin.so.zip",
+            "sha256": "2ab11a7897aa63f9fe7b5367c1ff4d8ff9b7ec7618427f8f0db62299f0810e72",
+            "size": 30706,
             "unsignedHash": "73d37e7041a19878256bb8a4368a086d"
         },
         {
@@ -10921,10 +10921,10 @@
         },
         {
             "exists": true,
-            "hash": "0b320c7120e8e194fa86f760c848c62b",
+            "hash": "ff71d4fb93ce3de8a722aae5bd48d87e",
             "path": "Contents/Resources/Plugins/Xbox/aiohttp/_helpers.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/aiohttp/_helpers.cpython-37m-darwin.so.zip",
-            "sha256": "cda38aa0df736582b09c913cf770e90a47e78ea92518a5e918028da150e47c33",
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/aiohttp/_helpers.cpython-37m-darwin.so.zip",
+            "sha256": "b0d2be4b6ead882c75fca6eae1e42f175762d50b6d1b74bc3ae74b465ee9c16f",
             "size": 24179,
             "unsignedHash": "617dc484b69b8aea7e194e12ea527b3b"
         },
@@ -10957,11 +10957,11 @@
         },
         {
             "exists": true,
-            "hash": "d56d186246edca802ef8ff33c2fcd315",
+            "hash": "e507e84388c56c30672431f363c953d1",
             "path": "Contents/Resources/Plugins/Xbox/aiohttp/_http_parser.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/aiohttp/_http_parser.cpython-37m-darwin.so.zip",
-            "sha256": "767b6bf919e2ade34a93a021b8f4d688386761c8fd654e04a451682b607969fa",
-            "size": 134759,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/aiohttp/_http_parser.cpython-37m-darwin.so.zip",
+            "sha256": "2bf68afdb1190e84f1e010929ed8c2e2bcf27a362927215a7e038ff97cfa1c23",
+            "size": 134751,
             "unsignedHash": "4a01853b7bf049f39530c193447421c8"
         },
         {
@@ -10984,11 +10984,11 @@
         },
         {
             "exists": true,
-            "hash": "bcb4af79008f7589ba7227e41b0b6238",
+            "hash": "d3c8946bba45be27ff7d7bb872516d23",
             "path": "Contents/Resources/Plugins/Xbox/aiohttp/_http_writer.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/aiohttp/_http_writer.cpython-37m-darwin.so.zip",
-            "sha256": "0f4016a85088342ccc3077f9208a08bd1d86b9412f62710efd08fd5fb8a3aead",
-            "size": 21412,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/aiohttp/_http_writer.cpython-37m-darwin.so.zip",
+            "sha256": "4bafcd90f5e87af344d2b87423cc0c7ff655df060673b6077ee6977cdb4c989f",
+            "size": 21410,
             "unsignedHash": "5975bb3ffdc99fac0be04afccd3afb55"
         },
         {
@@ -11011,11 +11011,11 @@
         },
         {
             "exists": true,
-            "hash": "5fd75e9bf7a9146583e1c00942fadf66",
+            "hash": "de2d333f3352756ea258f95c01f91a03",
             "path": "Contents/Resources/Plugins/Xbox/aiohttp/_websocket.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/aiohttp/_websocket.cpython-37m-darwin.so.zip",
-            "sha256": "0e9520371a0d7bf9d0029444ccea17b46ea77a5fcc61480235d60f31d8916d37",
-            "size": 15815,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/aiohttp/_websocket.cpython-37m-darwin.so.zip",
+            "sha256": "4e27fa186e58f66404b6a28c106c779f630e2d3092dd99446dce47fd84acf9aa",
+            "size": 15811,
             "unsignedHash": "237ef39978baf19f90fe691672f9899d"
         },
         {
@@ -12595,11 +12595,11 @@
         },
         {
             "exists": true,
-            "hash": "9b437365e6d26593da41d26016f45b98",
+            "hash": "407cc4b36876c6bb6ed0b3157628026f",
             "path": "Contents/Resources/Plugins/Xbox/multidict/_istr.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/multidict/_istr.cpython-37m-darwin.so.zip",
-            "sha256": "f8d0941c03bdd6c8f195510009106b8447520d9c12e191412d46f64f6e4947af",
-            "size": 7377,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/multidict/_istr.cpython-37m-darwin.so.zip",
+            "sha256": "b6bfecc71a3313e245bf8fcfdaff5bc356d19964973d9e61a8fe8f4638fc3343",
+            "size": 7373,
             "unsignedHash": "014cf895d25838af752fca9395aaca37"
         },
         {
@@ -12622,11 +12622,11 @@
         },
         {
             "exists": true,
-            "hash": "2636bc27cbcc1522054a434271666c72",
+            "hash": "7d0e19bb3d2074b8919f6b3cc13e9ea1",
             "path": "Contents/Resources/Plugins/Xbox/multidict/_multidict.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/multidict/_multidict.cpython-37m-darwin.so.zip",
-            "sha256": "d2ad5633725467302d9e9b265d810aee741482fdc494413034221a847331ca19",
-            "size": 63939,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/multidict/_multidict.cpython-37m-darwin.so.zip",
+            "sha256": "4e7d529e3ec28fee636a8ea4c79ff95743d72dd9e0386f38ea271b5a2e9c3268",
+            "size": 63940,
             "unsignedHash": "4b9801f40218b8395e26234a6762fe6b"
         },
         {
@@ -12838,20 +12838,20 @@
         },
         {
             "exists": true,
-            "hash": "747414a4d2aae0f61c5a92937a2a0f9c",
+            "hash": "50da6e8757c75cde86e22ce100a49e81",
             "path": "Contents/Resources/Plugins/Xbox/psutil/_psutil_osx.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/psutil/_psutil_osx.cpython-37m-darwin.so.zip",
-            "sha256": "55e7196403f561b91c0653b881e37717525f39febd5ed56f40688afbca60955a",
-            "size": 25303,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/psutil/_psutil_osx.cpython-37m-darwin.so.zip",
+            "sha256": "d3ed93e3cf4a0c23ef63d6efccaa143097f2830ea565356a953794312b68b03b",
+            "size": 25301,
             "unsignedHash": "219a5c5d06d5947be195727cb1024c9d"
         },
         {
             "exists": true,
-            "hash": "e09347bfa8a5eb9d502b39ccdc5c671e",
+            "hash": "a1757de5bfbd0a52fe158d4a3107fe3c",
             "path": "Contents/Resources/Plugins/Xbox/psutil/_psutil_posix.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/psutil/_psutil_posix.cpython-37m-darwin.so.zip",
-            "sha256": "e2c2f27b9cab6bde009d1c13791fe5727e768a3928f5d4a7ad1f73d967e0851a",
-            "size": 11386,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/psutil/_psutil_posix.cpython-37m-darwin.so.zip",
+            "sha256": "1b418814f09161b0c0b3b12efbd9ccc8bf7c143f04928f93454fb74e32201839",
+            "size": 11376,
             "unsignedHash": "d8002f63ac7f789ea71ef5f5b6ed86c0"
         },
         {
@@ -12946,11 +12946,11 @@
         },
         {
             "exists": true,
-            "hash": "0a2a9b5edc02c55ffb9c9864b2b903b2",
+            "hash": "a5e0d983775697c4072b50cdbee5d9c7",
             "path": "Contents/Resources/Plugins/Xbox/yarl/_quoting.cpython-37m-darwin.so",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/Plugins/Xbox/yarl/_quoting.cpython-37m-darwin.so.zip",
-            "sha256": "39a7d9b47eb6e9229bedace4421b66a1ac1bf76e10586e3470f28702b08c2021",
-            "size": 46030,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/Plugins/Xbox/yarl/_quoting.cpython-37m-darwin.so.zip",
+            "sha256": "ae174524cad2bfed2100b9b2e88e78fd965c274b623c249d66328bbdd88f9916",
+            "size": 46031,
             "unsignedHash": "bb9dc60f1bf7d4def1aa25b196d87e80"
         },
         {
@@ -13207,11 +13207,11 @@
         },
         {
             "exists": true,
-            "hash": "25ad8bba516e7fd7aac52f53cbc36332",
+            "hash": "8e2db42f1fa66405772d3c62c29ec548",
             "path": "Contents/Resources/web/chatWindowTemplate.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/chatWindowTemplate.js.zip",
-            "sha256": "b670915ed8cc7b4517396b45c80cd2c49f5f2937409a5919df330307f8126f4e",
-            "size": 7786,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/chatWindowTemplate.js.zip",
+            "sha256": "781643ae4a51bb3cc8c4ed9d63eaf39fd3d6bb6506c7e06974564f28ad6ebaf8",
+            "size": 7783,
             "unsignedHash": null
         },
         {
@@ -13225,11 +13225,11 @@
         },
         {
             "exists": true,
-            "hash": "b13b22a43ae65bf1a5cf926d34fcc284",
+            "hash": "8a71d26580fefea30d6e081e8395410f",
             "path": "Contents/Resources/web/client.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/client.js.zip",
-            "sha256": "ba113bad2fddfd48804b87289028dc00f22d8d0c5d810c16681b19123343f9df",
-            "size": 716397,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/client.js.zip",
+            "sha256": "1f47cdbb8bf2e068211c5d5ca89f8ae5f30bcc2e5a1e2f7d45ac0c7b6aea48dd",
+            "size": 724349,
             "unsignedHash": null
         },
         {
@@ -13252,11 +13252,11 @@
         },
         {
             "exists": true,
-            "hash": "a0411ae8d4279bc44b8eec0974594d09",
+            "hash": "5f6b3560b67e444274c00927a6c3d22c",
             "path": "Contents/Resources/web/cloudSyncConflictWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/cloudSyncConflictWindow.js.zip",
-            "sha256": "ce5a36e5aad3235fcd34d04886836962ee4cf4431e2cf8cee38dcd91f0bab985",
-            "size": 147379,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/cloudSyncConflictWindow.js.zip",
+            "sha256": "ea838b7effb6b078c31ef6944ed833014558d73ccd3e490656519eddfaad861f",
+            "size": 148433,
             "unsignedHash": null
         },
         {
@@ -13279,11 +13279,11 @@
         },
         {
             "exists": true,
-            "hash": "72123b760325691d6ba36bc491656ecd",
+            "hash": "2d9c6f4a26eedff2a4bcaf083bc79d26",
             "path": "Contents/Resources/web/cloudSyncQuotaExceededWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/cloudSyncQuotaExceededWindow.js.zip",
-            "sha256": "490b169fb7ac57dbe4f71322c6c50a795cfe6552b0521e97a4cb9703ae8ba334",
-            "size": 148637,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/cloudSyncQuotaExceededWindow.js.zip",
+            "sha256": "74f424832d0e8a41cdfd66d790724ede0723df5dba8880456608ab0c39b30610",
+            "size": 149689,
             "unsignedHash": null
         },
         {
@@ -13297,11 +13297,11 @@
         },
         {
             "exists": true,
-            "hash": "72fa2c807291c3598747a3e15fdc9caf",
+            "hash": "1c29cf6052b0a68406167a00b4277893",
             "path": "Contents/Resources/web/desktopNotifications.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/desktopNotifications.js.zip",
-            "sha256": "e0b1f1aaa2a0c22566676a0da93796a4b4b89c0731fc108b9ec03c7c6739fbe9",
-            "size": 45842,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/desktopNotifications.js.zip",
+            "sha256": "e87def43c530cdb27b5557eaa91ff45c9ddaf7c9d4005e132327fdd5f024fa1f",
+            "size": 46342,
             "unsignedHash": null
         },
         {
@@ -13324,11 +13324,11 @@
         },
         {
             "exists": true,
-            "hash": "ab4ef8d1e210ededd82916e0dcbce2ff",
+            "hash": "fbf6b78569d77638d8b3dd47dde387b6",
             "path": "Contents/Resources/web/findFriendsWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/findFriendsWindow.js.zip",
-            "sha256": "871aa45f031442cb39bf8904d77049e4544f858602972f8ca24976bf9214dfa1",
-            "size": 160462,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/findFriendsWindow.js.zip",
+            "sha256": "d6214bcd0ea54ae9c68f359d59c09a15c4d9eabd664be29c5216f2eb869f81f2",
+            "size": 161426,
             "unsignedHash": null
         },
         {
@@ -13351,11 +13351,11 @@
         },
         {
             "exists": true,
-            "hash": "2f71b717dee07ccfacd2a039b0a0176c",
+            "hash": "151ea6043021c0dedcb0fb5ee672d478",
             "path": "Contents/Resources/web/friendsListWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/friendsListWindow.js.zip",
-            "sha256": "c03643794a7c0e606b0a4977c3cd2bcda8013c99858047ec811852c4ac78f1f5",
-            "size": 179924,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/friendsListWindow.js.zip",
+            "sha256": "620c67b4db2277fe6395b1452117a435b4e6d4e329befe772e5f7d03061a8d2e",
+            "size": 180992,
             "unsignedHash": null
         },
         {
@@ -13387,11 +13387,11 @@
         },
         {
             "exists": true,
-            "hash": "dd4d6ba24c5cc81fc2ec496fb88631ae",
+            "hash": "d946d94d1626e11b8dbea230991807c4",
             "path": "Contents/Resources/web/gameConfigWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/gameConfigWindow.js.zip",
-            "sha256": "e3808b8697af4c77a74693890456d849e7d1dfdf0ce065ecd03c6a58fe45d3af",
-            "size": 177778,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/gameConfigWindow.js.zip",
+            "sha256": "e54ca1f90bebef013a74de9426a9a633571fc433f1db62ffd5e8c3cfef6af95f",
+            "size": 178808,
             "unsignedHash": null
         },
         {
@@ -13414,11 +13414,11 @@
         },
         {
             "exists": true,
-            "hash": "673bcb563ea925fab82d9d62747b88fe",
+            "hash": "7313822bd031be7f0a59783fadd3f54e",
             "path": "Contents/Resources/web/gameEditWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/gameEditWindow.js.zip",
-            "sha256": "e82bd4c6193c328a848aeb17f45bd1283519bd9993763c423028c8f34008455a",
-            "size": 194038,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/gameEditWindow.js.zip",
+            "sha256": "cc96b155ff8b0f86d7caea9a11e0c12126a09cb4292f5549ffaa062fdf1b10d4",
+            "size": 195055,
             "unsignedHash": null
         },
         {
@@ -14323,11 +14323,11 @@
         },
         {
             "exists": true,
-            "hash": "dfd86016b696af828ab5e112e58bca67",
+            "hash": "7bcd114d722d1f27dd4763729e9bf983",
             "path": "Contents/Resources/web/locales/de-DE/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/de-DE/final.json.zip",
-            "sha256": "b9c1edaf12dd2c6c7a4472fbaa95825898583e5d494a95b744374be56047a1a6",
-            "size": 38321,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/de-DE/final.json.zip",
+            "sha256": "71b5659b795c3c19abaf0c46a7f9cc03ef5470d9f9509fdc45bdf7f9448d1cca",
+            "size": 38596,
             "unsignedHash": null
         },
         {
@@ -14341,11 +14341,11 @@
         },
         {
             "exists": true,
-            "hash": "1bd74c5041a7d0ff683547ab7014abe8",
+            "hash": "e4e019f6076ab1a4a7b0600fb0ab57b2",
             "path": "Contents/Resources/web/locales/en-US/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/en-US/final.json.zip",
-            "sha256": "e762b031c9a4c0ba87635e28836849bb03e2b263c5ca4ce3e2562fc79e0fd05f",
-            "size": 33718,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/en-US/final.json.zip",
+            "sha256": "6c6745081e04501327623517b9e24fef9f15dbf7a2a736790e49818d926ce937",
+            "size": 33979,
             "unsignedHash": null
         },
         {
@@ -14359,11 +14359,11 @@
         },
         {
             "exists": true,
-            "hash": "d125572750394d7220b57a3d92413726",
+            "hash": "3bba3cc4213a78a5aeca09f084066dbf",
             "path": "Contents/Resources/web/locales/es-ES/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/es-ES/final.json.zip",
-            "sha256": "fe1b884e6ae70a893ecc9373e794e8de0dae21c7393b34c930f4657aeb8a1a4c",
-            "size": 37626,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/es-ES/final.json.zip",
+            "sha256": "e2411c0ef6cc71b33d2edd006af199f33553234e9d1eabc6e320bfceb0175d52",
+            "size": 37886,
             "unsignedHash": null
         },
         {
@@ -14377,11 +14377,11 @@
         },
         {
             "exists": true,
-            "hash": "69837b05578b68cd7df09f5c170a2292",
+            "hash": "67db850654aae065f2e25edb80d79f7e",
             "path": "Contents/Resources/web/locales/es-MX/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/es-MX/final.json.zip",
-            "sha256": "f310735b6a3e4bc863cb90228c711b704e7d3ecbadc2d795f04e7b53a7526288",
-            "size": 36311,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/es-MX/final.json.zip",
+            "sha256": "b9187d70cf247cb19ad12ff81c07319f4774c59dea6569784df3934fd7eda6c0",
+            "size": 36553,
             "unsignedHash": null
         },
         {
@@ -14395,11 +14395,11 @@
         },
         {
             "exists": true,
-            "hash": "756516247728ba64d7219f5c1608c903",
+            "hash": "81f45690d5900b8e156eae907aa6a0bd",
             "path": "Contents/Resources/web/locales/fr-FR/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/fr-FR/final.json.zip",
-            "sha256": "32756e20dcb84c79d84cf32bfb7c2b183ce5108c246a4e4105a5f8295c5bd2d1",
-            "size": 37980,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/fr-FR/final.json.zip",
+            "sha256": "5bfa0d179eb7ebe65dffd0cee0239395d44083b1447fbad76faeb8da09f6e31f",
+            "size": 38256,
             "unsignedHash": null
         },
         {
@@ -14413,11 +14413,11 @@
         },
         {
             "exists": true,
-            "hash": "8cb7c5c8d6dcb670fb050cd9f14a8e4f",
+            "hash": "2db5ea4e7eea92dc12828e5a8910d2be",
             "path": "Contents/Resources/web/locales/it-IT/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/it-IT/final.json.zip",
-            "sha256": "9827d1c4b7c32f873a66b14344ba36aca912ec4b26210be41016a03de7234b57",
-            "size": 36626,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/it-IT/final.json.zip",
+            "sha256": "b0b9dbafe077112ff2e1ecfc0f5ea46009ba649bd14ffd2fb6309260e9ec99fc",
+            "size": 36900,
             "unsignedHash": null
         },
         {
@@ -14431,11 +14431,11 @@
         },
         {
             "exists": true,
-            "hash": "50dac1eb09f76180c5d910e5a24dc2c6",
+            "hash": "aa49260de76fef56faf5c2577af3e129",
             "path": "Contents/Resources/web/locales/ja-JP/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/ja-JP/final.json.zip",
-            "sha256": "d58b0a99aaa830fa9d911051f2df390a11e37bbcdffb966c754a54bd798ffdb1",
-            "size": 38884,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/ja-JP/final.json.zip",
+            "sha256": "f0ec830ee0ad20b74d777f1f55ef1f12e9be5a9c4e08aba9a4458cc80f61fe86",
+            "size": 39157,
             "unsignedHash": null
         },
         {
@@ -14449,11 +14449,11 @@
         },
         {
             "exists": true,
-            "hash": "1810a07116f6767a038be47cd0abcd60",
+            "hash": "402ef222956df04b78a0e0aeb4cd77c6",
             "path": "Contents/Resources/web/locales/ko-KR/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/ko-KR/final.json.zip",
-            "sha256": "744e11ef7fb8434550ca57d3dc63e941ff97ed2b6aad726dea350b12e0ef6a7d",
-            "size": 38094,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/ko-KR/final.json.zip",
+            "sha256": "c71d72e352ce85d174b04e6fe333e784dd6214208d0bedec231286d151d1db35",
+            "size": 38351,
             "unsignedHash": null
         },
         {
@@ -14476,11 +14476,11 @@
         },
         {
             "exists": true,
-            "hash": "07b60e9b65ec5431cff30e20f9e089bf",
+            "hash": "26c0aa639c9d5c3296b751d139c3c0f5",
             "path": "Contents/Resources/web/locales/pl-PL/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/pl-PL/final.json.zip",
-            "sha256": "f1005b9ac2cf732d50c4972dad460cdb66884c40b88c34510e5be7a6cf070260",
-            "size": 38638,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/pl-PL/final.json.zip",
+            "sha256": "e00647c4c9bf4c4253836815b72d0bd6161c2bd5a9cbdb30a2bbf4e8fa74b37d",
+            "size": 38919,
             "unsignedHash": null
         },
         {
@@ -14494,11 +14494,11 @@
         },
         {
             "exists": true,
-            "hash": "e45a528720a33da289b3b0168faa289e",
+            "hash": "015b5e5a029461f90f8de29a1d116aac",
             "path": "Contents/Resources/web/locales/pt-BR/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/pt-BR/final.json.zip",
-            "sha256": "6321e1b324e0ba6dd83bb13bfea0a3a93b7f11a5d14b84149065b0ab8013c5b0",
-            "size": 36900,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/pt-BR/final.json.zip",
+            "sha256": "d22004b1d266502e9f00899c93b5b1d43a97958ae07332cea1348a1eb34acce4",
+            "size": 37160,
             "unsignedHash": null
         },
         {
@@ -14512,11 +14512,11 @@
         },
         {
             "exists": true,
-            "hash": "927d69c2e72020941c59ee61dabe15ef",
+            "hash": "3b508373d83a4abebc8c0e3fe7c7a6bd",
             "path": "Contents/Resources/web/locales/pt-PT/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/pt-PT/final.json.zip",
-            "sha256": "4e3fa7c0958cc9a43b43e3325a886feae674ed674c4cafa58d84974171e524f2",
-            "size": 34357,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/pt-PT/final.json.zip",
+            "sha256": "12d81a709441afe5b94c5cfdb08ae39ffd3a126784792d4f14257c6442856691",
+            "size": 34625,
             "unsignedHash": null
         },
         {
@@ -14530,11 +14530,11 @@
         },
         {
             "exists": true,
-            "hash": "3d833ae73bdbbedb501347d07e664555",
+            "hash": "acde6403934a3584fb656a7e70b678f8",
             "path": "Contents/Resources/web/locales/ru-RU/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/ru-RU/final.json.zip",
-            "sha256": "fb15878154c254167aaf2125624006a9ef9b2c7bff57a1831cbf29c893e9e85a",
-            "size": 43494,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/ru-RU/final.json.zip",
+            "sha256": "f20566b2c18c8902107e8d055aeee8319c5af45c27faa3294f8672e2a934b6d2",
+            "size": 43775,
             "unsignedHash": null
         },
         {
@@ -14548,11 +14548,11 @@
         },
         {
             "exists": true,
-            "hash": "32e88c6dd255d011506561ece43a15ae",
+            "hash": "545af677d21ff416b3da6e0880466b53",
             "path": "Contents/Resources/web/locales/uk-UA/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/uk-UA/final.json.zip",
-            "sha256": "c6d27cc1d1637991a05df8cce22e752a41364f7b02c0956bfd8fa187042e3661",
-            "size": 43683,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/uk-UA/final.json.zip",
+            "sha256": "28e412a51cd670ca53b71c3ca5c4fb2369ca489b68694154b9aa2a4ace77b3e4",
+            "size": 43982,
             "unsignedHash": null
         },
         {
@@ -14566,11 +14566,11 @@
         },
         {
             "exists": true,
-            "hash": "532f758cff99ef03b7e9ea0337882c14",
+            "hash": "9fe7d76bd47bd9f5e23d94e2af83ffc1",
             "path": "Contents/Resources/web/locales/zh-Hans/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/zh-Hans/final.json.zip",
-            "sha256": "e2141740724f4eb06cbbc5b5ad5a5a75d2d3134b8c10c170e5ba819b9bad78bb",
-            "size": 37970,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/zh-Hans/final.json.zip",
+            "sha256": "e95dd94a1dfe5b544627aa01cf9f503d11cdd569ea06e667684429182978eb46",
+            "size": 38234,
             "unsignedHash": null
         },
         {
@@ -14584,11 +14584,11 @@
         },
         {
             "exists": true,
-            "hash": "94ce91db55d809e6c0c2cab071b3f7fd",
+            "hash": "abd99d399b6594ffae0da4679479d70a",
             "path": "Contents/Resources/web/locales/zh-Hant/final.json",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/locales/zh-Hant/final.json.zip",
-            "sha256": "ad22287f02e0a54d543c8dd718247222800e2821c4620c7c8affa8f3f516e732",
-            "size": 37756,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/locales/zh-Hant/final.json.zip",
+            "sha256": "b0f911ecf9801e3906fba9d6a851650a16144ce27291ad855b4e89382c44ba2e",
+            "size": 38031,
             "unsignedHash": null
         },
         {
@@ -14620,11 +14620,11 @@
         },
         {
             "exists": true,
-            "hash": "e7c5614798f6c4cefdecd61a239ac2a7",
+            "hash": "012c84f938d95fdf95e57ff9e6e26e34",
             "path": "Contents/Resources/web/login.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/login.js.zip",
-            "sha256": "31e4a1b15a942ae237c93b2413d84b6b788081149140ca664c752eefcff948ee",
-            "size": 57359,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/login.js.zip",
+            "sha256": "236e63a57499f133149e895d52bb2372848fed0e96c3c53b31559a3afbb7825c",
+            "size": 57824,
             "unsignedHash": null
         },
         {
@@ -14665,11 +14665,11 @@
         },
         {
             "exists": true,
-            "hash": "95dc8c291cb6fc70dc7a1deee1835e0d",
+            "hash": "90eff34024042a7fbaec20d53435bd05",
             "path": "Contents/Resources/web/overlay.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/overlay.js.zip",
-            "sha256": "2012dbbb470e243446ad851bce29102b22e793a384d012a58ab67dc07fe4f0a8",
-            "size": 158117,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/overlay.js.zip",
+            "sha256": "de8c273339993d216490d852cc10775d9290c40d736285aa28461142c2df9c50",
+            "size": 158639,
             "unsignedHash": null
         },
         {
@@ -14692,11 +14692,11 @@
         },
         {
             "exists": true,
-            "hash": "04ee286c70a0b3830299386e4370cde9",
+            "hash": "e21400fbd6d8f987eadc12e657ea008c",
             "path": "Contents/Resources/web/platformConflictPrompt.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/platformConflictPrompt.js.zip",
-            "sha256": "a71ce067d015710e5b77c96833f0276dd106d69eecd625f7fe7c25a635965144",
-            "size": 147086,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/platformConflictPrompt.js.zip",
+            "sha256": "21701b436668e386f3a5063c48251d6ac9a544f4fac8fff84ed33f23ab7db515",
+            "size": 148104,
             "unsignedHash": null
         },
         {
@@ -14719,11 +14719,11 @@
         },
         {
             "exists": true,
-            "hash": "f7a154fd4a2773bb5c9507473a64bb78",
+            "hash": "db032bcaedf32c8161f2596c1486d062",
             "path": "Contents/Resources/web/platformDisconnectPrompt.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/platformDisconnectPrompt.js.zip",
-            "sha256": "dc0e0aad3afae92d407bad779aeb2b5a946dcd4479da6a7715edd4d3b16eaa93",
-            "size": 146987,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/platformDisconnectPrompt.js.zip",
+            "sha256": "e25c9d5a8db68e20ac2d415ab809f473dfa408720b2ddcf3b975e16b378d4d9f",
+            "size": 148006,
             "unsignedHash": null
         },
         {
@@ -14746,11 +14746,11 @@
         },
         {
             "exists": true,
-            "hash": "07a18b1696778fee7a6ad8d06d5b75f7",
+            "hash": "c33a9db6e9129e6452606f2555cc4fba",
             "path": "Contents/Resources/web/pluginFeaturesPrompt.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/pluginFeaturesPrompt.js.zip",
-            "sha256": "6c3acc5f5e57f78319d0d007b526ebff8f4104b1683a53af95d5bbdb94a84f0e",
-            "size": 148043,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/pluginFeaturesPrompt.js.zip",
+            "sha256": "6961953b5fffafb807553ac56b37625ab933aeda63cf34ad2dd535f6b3f8c712",
+            "size": 149059,
             "unsignedHash": null
         },
         {
@@ -14773,11 +14773,11 @@
         },
         {
             "exists": true,
-            "hash": "82e89a205d5db46a20e24279d2fa4e7c",
+            "hash": "9af1391fe5a27c3101c6cf0cd6793597",
             "path": "Contents/Resources/web/recentViewCustomizationWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/recentViewCustomizationWindow.js.zip",
-            "sha256": "6277c190a5aee70286a72653c7787e97e09a0cc2e0069e3c3444279c0dd289ab",
-            "size": 155838,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/recentViewCustomizationWindow.js.zip",
+            "sha256": "2975cdcedc8ed99be7c7dcd0c347cc4310233f9ff05230ceb3c1e9d9a8d0d723",
+            "size": 156871,
             "unsignedHash": null
         },
         {
@@ -14800,11 +14800,11 @@
         },
         {
             "exists": true,
-            "hash": "b42462cf094849c4606453ebfdb3ba60",
+            "hash": "679ec14dc08df89343ebc1f5873a86e2",
             "path": "Contents/Resources/web/settingsWindow.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/settingsWindow.js.zip",
-            "sha256": "72154b672b45ed4d9b157a5dc20481549a24159a5f534a84e0eeecc15c4e3865",
-            "size": 190413,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/settingsWindow.js.zip",
+            "sha256": "54e3fdaa875bc7743de8d5e2051aaa18a03a765c4800298ea5a5d37949f5a786",
+            "size": 191449,
             "unsignedHash": null
         },
         {
@@ -15097,11 +15097,11 @@
         },
         {
             "exists": true,
-            "hash": "05e8bd89d49c58a6be3c81fb8058de13",
+            "hash": "e3cdbfd045534ce82d441c877dc42aac",
             "path": "Contents/Resources/web/vendor.js",
-            "resource": "GalaxyClient/331920048/osx/Contents/Resources/web/vendor.js.zip",
-            "sha256": "c5b8dc8a0907bb494252823c47faac73fc29c7002b648876a965ac34b1f696f7",
-            "size": 672014,
+            "resource": "GalaxyClient/334760206/osx/Contents/Resources/web/vendor.js.zip",
+            "sha256": "0d04a4a853053ff0590054b2c69bac1deb35b106482538d7723fe6410b97b064",
+            "size": 672104,
             "unsignedHash": null
         },
         {
@@ -15167,6 +15167,6 @@
             "target": "../Python"
         }
     ],
-    "timestamp": "331920048",
-    "version": "2.0.78.26"
+    "timestamp": "334760206",
+    "version": "2.0.79.61"
 }
