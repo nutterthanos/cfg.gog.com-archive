@@ -4,12 +4,12 @@
     "files": [
         {
             "exists": true,
-            "hash": "06f5ce053dbba7b935824142df681687",
+            "hash": "02d1a2914411c07cb393eef07ca5afab",
             "path": "GalaxyUpdater.exe",
-            "resource": "GalaxyUpdater/334760219/windows/GalaxyUpdater.exe.zip",
-            "sha256": "4cb135f29dadcb5ae964919fee9fa5033ac605116ba8c719a1b00e5cca8d7245",
-            "size": 996763,
-            "unsignedHash": "b677d034f4cd2ec968e714a3a4124b4e"
+            "resource": "GalaxyUpdater/336491021/windows/GalaxyUpdater.exe.zip",
+            "sha256": "bbe94f2f8ecb147dab790688669998289b8ec573330dd8125b35f3286c013b4d",
+            "size": 996755,
+            "unsignedHash": "f1aed002b99af02126327e37b91e930e"
         },
         {
             "exists": true,
@@ -465,6 +465,6 @@
     "forceUpdate": false,
     "projectName": "GalaxyUpdater",
     "symlinks": [],
-    "timestamp": "334760219",
-    "version": "2.0.79.63"
+    "timestamp": "336491021",
+    "version": "2.0.80.33"
 }
